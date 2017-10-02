@@ -1,275 +1,40 @@
 
-
-<<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>>
- <script async custom-element="amp-fx-flying-carpet" src="https://cdn.ampproject.org/v0/amp-fx-flying-carpet-0.1.js"></script>
-(function(d) {
-    var config = {
-      kitId: 'hcj3fgk',
-      scriptTimeout: 3000,
-      async: true
-    },
-    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-  })(document);
-</script>
-<script async custom-element="amp-anim" src="https://cdn.ampproject.org/v0/amp-anim-0.1.js"></script>
-<amp-anim width="245"
-  height="300"
-  src="/img/gopher.gif"
-  alt="an animation"
-  attribution="The Go gopher was designed by Reneee French and is licensed under CC 3.0 attributions.">
-</amp-anim>
-<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
-
-AMP by Example
-Click-to-play overlay for amp-video
-EDIT ON GITHUB
-Introduction
-
-Click-to-play is a common UX feature for video players on the web.
-
-Initially displayed on top of the video, the overlay contains details about the video such as title, duration, poster image, links and a play icon.
-
-amp-video supports the standard play AMP action, allowing you to implement click-to-play easily.
-
-Setup
-
-Import the amp-video component
-
-<script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
-Styling
-
-Custom styles for click-to-play overlay
-
-<style amp-custom>
-
-  /* Wrapper that hosts the video and the overlay */
-  .video-player {
-    position: relative;
-    overflow: hidden;
-  }
-
-  /* Overlay fills the parent and sits on top of the video */
-  .click-to-play-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-
-  .poster-image {
-    position: absolute;
-    z-index: 1;
-  }
-
-  .poster-image img {
-    object-fit: cover;
-  }
-
-  .video-title {
-    position: absolute;
-    z-index: 2;
-
-    /* Align to the top left */
-    top: 0;
-    left: 0;
-
-    font-size: 1.3em;9
-    background-color: rgba(0,0,0,0.8);
-    color: #fafafa;
-    padding: 0.5rem;
-    margin: 0px;
-  }
-
-  .play-icon {
-    position: absolute;
-    z-index: 2;
-
-    width: 100px;
-    height: 100px;
-
-    background-image: url(https://ampbyexample.com/img/play-icon.png);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-
-    /* Align to the middle */
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-    cursor: pointer;
-    opacity: 0.9;
-  }
-
-  .play-icon:hover, .play-icon:focus {
-    opacity: 1;
-  }
-</style>
-Markup
-
-The overlay is an absolutely positioned div that sits on top of the amp-video element and fills the parent player container. It hosts the poster image, video title and a play icon.
-
-Play icon uses play and hide AMP actions to hide the overlay and play the video when it is tapped.
-
-EXAMPLE
-
-
-
-0:14
-/ 0:14
-
-
-<div class="video-player">
-
-  <amp-video id="myVideo"
-    controls
-    width="1280"[
-    height="720"
-    layout="responsive"
-    src="https://storage.googleapis.com/ampconf-76504.appspot.com/Bullfinch%20-%202797.mp4">
-  </amp-video>
-
-  <div id="myOverlay"
-    class="click-to-play-overlay">
-
-    <h3 class="video-title">Title of the video</h3>
-
-    <div class="play-icon"
-      role="button"
-      tabindex="0"
-      on="tap:myOverlay.hide, myVideo.play"></div>
-
-    <amp-img class="poster-image"
-      layout="fill"
-      src="https://unsplash.it/1080/720?image=666"></amp-img>
-  </div>
-
-</div>
-
-<style amp-custom>
-
-  /* Wrapper that hosts the video and the overlay */
-  .video-player {
-    position: relative;
-    overflow: hidden;
-  }
-
-  /* Overlay fills the parent and sits on top of the video */
-  .click-to-play-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
-
-  .poster-image {
-    position: absolute;
-    z-index: 1;
-  }
-
-  .poster-image img {
-    object-fit: cover;
-  }
-
-  .video-title {
-    position: absolute;
-    z-index: 2;
-
-    /* Align to the top left */
-    top: 0;
-    left: 0;
-
-    font-size: 1.3em;
-    background-color: rgba(0,0,0,0.8);
-    color: #fafafa;
-    padding: 0.5rem;
-    margin: 0px;
-  }
-
-  .play-icon {
-    position: absolute;
-    z-index: 2;
-
-    width: 100px;
-    height: 100px;
-
-    background-image: url(https://ampbyexample.com/img/play-icon.png);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-
-    /* Align to the middle */
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-    cursor: pointer;
-    opacity: 0.9;
-  }
-
-  .play-icon:hover, .play-icon:focus {
-    opacity: 1;
-  }
-</style>
-
-
-AMP by Example
-amp-fx-flying-carpet
-EDIT ON GITHUB
-Introduction
-
-amp-fx-flying-carpet displays its children inside a container of fixed height. As the user scrolls the page, the flying carpet reveals more of it contents, sliding across its children as if peering through a window in the page.
-
-For best experience of this example, use a mobile device or choose a mobile device layout using the Chrome console.
-
-Setup
-
-Import the amp-fx-flying-carpet component in the header.
-
-<script async custom-element="amp-fx-flying-carpet" src="https://cdn.ampproject.org/v0/amp-fx-flying-carpet-0.1.js"></script>
-Basic Usage
-
-amp-fx-flying-carpet elements must be positioned after the first viewport so make sure to place enough content before the element to cover the targeted viewport sizes.
-
-The text that follows is to ensure that the amp-fx-flying-carpet is placed after the first viewport.
-
-EXAMPLE
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis, metus a tristique aliquet, enim nibh efficitur sem, ut iaculis urna justo eu diam. Nullam cursus sapien et sodales posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Donec vitae ornare risus. Maecenas eleifend ante vel dui laoreet, et porttitor libero rutrum. Nam arcu mi, ullamcorper at risus et, pulvinar ultrices erat. In pellentesque sem vel purus auctor, ut venenatis tellus tristique. Phasellus molestie diam orci, nec gravida turpis bibendum ut. Sed sagittis aliquet lorem sed dictum.
-<p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis venenatis, metus a tristique aliquet, enim nibh efficitur sem, ut iaculis urna justo eu diam. Nullam cursus sapien et sodales posuere. Vestibulum ante ipsum primis in faucibus orci luctus et
-  ultrices posuere cubilia Curae; Suspendisse potenti. Donec vitae ornare risus. Maecenas eleifend ante vel dui laoreet, et porttitor libero rutrum. Nam arcu mi, ullamcorper at risus et, pulvinar ultrices erat. In pellentesque sem vel purus auctor,
-  ut venenatis tellus tristique. Phasellus molestie diam orci, nec gravida turpis bibendum ut. Sed sagittis aliquet lorem sed dictum.
-</p>
-amp-fx-flying-carpet can be used to display ads.
-
-Use height parameter to specify the height of the flying carpets "window".
-
-EXAMPLE
-
-Advertising
-
-Advertising
-    <div class="amp-flying-carpet-text-border">Advertising</div>
-    <amp-fx-flying-carpet height="300px">
-      <amp-ad width="300"
-        height="600"
-        class="align-right"
-        layout="fixed"
-        type="doubleclick"
-        data-slot="/35096353/amptesting/formats/flying_carpet">
-      </amp-ad>
-    </amp-fx-flying-carpet>
-    <div class="amp-flying-carpet-text-border">Advertising</div>
-
-  <div class="amp-flying-carpet-text-border">Advertising</div>
-    <amp-fx-flying-carpet height="300px">
-      <amp-ad width="300"
-        height="600"
-        class="align-right"
-        layout="fixed"
-        type="doubleclick"
-        data-slot="/35096353/amptesting/formats/flying_carpet">
-      </amp-ad>
-    </amp-fx-flying-carpet>
-    <div class="amp-flying-carpet-text-border">Advertising</div>
+   <!doctype html>
+<html ⚡>
+  <head>
+    <meta charset="utf-8">
+    <title>Sample document</title>
+    <link rel="canonical" href="./regular-html-version.html">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <style amp-custom>
+      h1 {color: red}
+    </style>
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "headline": "Article headline",
+      "image": [
+        "thumbnail1.jpg"
+      ],
+      "datePublished": "2015-02-05T08:00:00+08:00"
+    }
+    </script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+  </head>
+  <body>
+    <h1>Sample document</h1>
+    <p>
+      Some text
+      <amp-img src=sample.jpg width=300 height=300></amp-img>
+    </p>
+    <amp-ad width=300 height=250
+        type="a9"
+        data-aax_size="300x250"
+        data-aax_pubname="test123"
+        data-aax_src="302">
+    </amp-ad>
+  </body>
+</html>  
