@@ -13,8 +13,8 @@ considerably disconcerted by what we found there.
     In the first place, the supposedly solid facts of observations turned to be pliable. The results achieved by different people apparently observing the same phenomena differed from one another, though never a great deal. 
       And those differences-though contained in the same ball park-were often sufficient to affect crucial points of interpretation. In addition the so call 
   ### facts proved 
- never to be mere facts, independent
-of existing belief and theory. Producing them required 
+    never to be mere facts, independent
+    of existing belief and theory. Producing them required 
 ### apparatus 
 which itself depended on theory, 
 often on the theory that the experiments
@@ -23,13 +23,13 @@ to eliminate or reduce these disagreements, the design process some-
 times forced the revision of conceptions about what was being observed.
   And after that, disagreements, though reduced, were still present, and
 sometimes sufficient to have a bearing on interpretation. Observations,
-that is, including those designed as tests, always left room for disagreement about whether some particular law or theory should be accepted.
+that is, including those designed as tests, always left room for disagreement 
+about whether some particular law or theory should be accepted.
   That space for disagreement was often exploited iscrepancies that to
 an outsider looked trivial were frequently matters of deep import to
 those on whom the research impinged.
-##
-|
-| INTERCOM believes that it is a fundamental responsibility of museums, wherever possible, to be active in promoting diversity and human rights, respect and equality for people of all origins, beliefs and background.INTERCOM Declaration of Museum Responsibility to Promote Human Rights
+  
+  ## INTERCOM believes that it is a fundamental responsibility of museums, wherever possible, to be active in promoting diversity and human rights, respect and equality for people of all origins, beliefs and background.INTERCOM Declaration of Museum Responsibility to Promote Human Rights
 If museums become agents for social change, then they lose that role of bearing witness to the world today and how it has got to where it is.Ian Jones, Founder, ICOM/CAMOC
    In response to a major theme propounded by several delegates to the 2016 International Council of Museums (ICOM)'s triennial meeting in Milan as well as to encourage colleagues to review the intent of the 2009 Torreon Declaration, I would like to initiate a conversation regarding the role of museums in social justice and immigration, particularly when that challenge is applied to smaller—and most particularly, city—museums worldwide. I should emphasize that, as a member of ICOM's Committee for the Collections and Activities of Museums of Cities (CAMOC), I write from the perspective of city and history museums and do not, therefore, presume to speak from the perspective of other ICOM committees.
 Since at least the late 1960s (when this author entered the museum field), members of the museum profession have paid increasing attention to the realities of refugees and immigration, through collecting, exhibits, and public programs that engage immigrants themselves and longtime members of their host communities. One look at our collective bookshelves and we see a host of publications—books, essays, articles, pamphlets, technical leaflets from AAM, ICOM, AASLH, etc.—that illuminate how generations of museum professionals have informed themselves and our audiences about the issues of immigration and the museum's role in, as the 2009 Torreon Declaration states, “promoting diversity and human rights, respect and equality for people of all origins, beliefs, and background.” The writings of Edward Alexander (Museum Masters, 1983), The Smithsonian Institution (Report of the Blue Ribbon Commission on the National Museum of American History, 2002), The American Association of Museums (A Museums & Community Toolkit, 2002), Gail Anderson (Reinventing the Museum, 2004), are a fraction of the authors and publishers whose works, for decades, have explored the rationale and techniques by which museums must engage diverse audiences and address the many facets of inclusion, social justice, and migration. Since at least the 1970s, one could find countless exhibits and public programs by museums of all sizes that have sought to inform and instruct local, national, and international audiences about the myriad challenges faced by immigrants and their host communities.
