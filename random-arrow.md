@@ -18,7 +18,7 @@ an American Master Novelist. In **"What Macie Knew", **James stated:
 
 Honestly, I have not read any of his work. I always knew that **Henry** was **William James**'s brother,  
  that they both were my subjects I found worthwhile to look into, perhaps not now but any chance I get at later time. When first came to the US back in 1991, at 13 years old, I took my first job as a volunteer clerk for a local San Diego Public Library; Reading nor Writing were my favorite subjects at the time, but because "Learning to Speak English" was my only main focus.  
-  Not Until after 9/11, that I found myself liking to read. I'd also developed through time, a natural talent   
+  Not Until after 9/11, that I found myself liking to read. I'd also developed through time, a natural talent  
   in what I called **BSI** or **Book Selective Intelligent**. **BSI** has helped me to  
   be selective with my collection and it is what brought me  
   The **"Orange Flower"** for it's orange hard cover. **\(The book is from Duke University and has been withdrawned\)**  
@@ -31,6 +31,8 @@ What's really entrigue me was not only its title **Primer Ignorance** but a flow
 or things that have recently came to my possesion.
 
 Today is **Oct 04 2017**
+
+![](/assets/PicsArt_10-07-11.50.10.jpg)
 
 Poor News Happened yesterday, the **Las Vegas Mass Shooting**  
 The tragic News was over pouring, becomes now the centre topic of our today's talk.  
@@ -61,24 +63,4 @@ One may ask**: could it be **Fake News**? Or **It was a bet**?
 88
 
 Days remaining until the end of the year.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
