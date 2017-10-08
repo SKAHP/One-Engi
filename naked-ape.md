@@ -4,8 +4,6 @@
 
 Rich News, Poor News
 
-
-
 1967: The Naked Ape steps out
 
 12 October ON THIS DAY
@@ -30,9 +28,9 @@ the more rounded shape of human breasts means they are primarily a sexual signal
 
 The book has been serialised in the Daily Mirror - and with great success.
 
-&gt;
 
-It has already netted £80,000 in the USA and £70,000 in the UK and Europe.
+
+It has already netted **£80,000** in the USA and **£70,000** in the **UK and Europe**.
 
 But critics of the book have labelled him.
 
@@ -56,7 +54,7 @@ In Context Desmond Morris began his career as head of Granada's TV and film unit
 
 The Naked Ape is first bestseller, was translated into 23 languages and was followed by many books and TV programmes on animal and social behaviour. More recently he had a regular slot commenting on the body language of contestants in Channel Four's Big Brother game show.
 
-Stories From 12 Oct
+     Stories From 12 Oct
 
 Rebuild2000: Suicide bombers attack USS Cole
 
@@ -69,6 +67,4 @@ Rebuild2000: Suicide bombers attack USS Cole
 1978: Sex Pistol Vicious on murde
 
 BBC News Online
-
-
 
