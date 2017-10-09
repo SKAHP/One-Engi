@@ -24,13 +24,13 @@ I go astray, up and down, and never hold the same opinion." Socrates ad
 
 mitted to being so clever that he had befuddled himself. No wonder he was a favorite
 
-target of the comic poets. **I. F. Stone** likens this wizardry to 
+target of the comic poets. **I. F. Stone** likens this wizardry to
 
 **"whales of the intellect flailing about in deep seas"** \(Stone 1988\)
 
 With his young friend, Meno, Socrates argued whether virtue is teachable.
 
-Meno was eager to learn more, after "holding forth often on the subject in front of large audiences." But he complained, 
+Meno was eager to learn more, after "holding forth often on the subject in front of large audiences." But he complained,
 
 "You are exercising magic and witchcraft upon me and positively laying me under your spell until I am just
 
@@ -60,7 +60,33 @@ Descartes's nds could not find him as he squirreled away studying mathematics.
 
 One can even guess the motto above his desk: "**Happy is he who lives in seclusion."**
 
-Imagine the conditions under which who wrote meditation II. 
+Imagine the conditions under which who wrote meditation II.
 
-The Thirty Years' War 
+The Thirty Years' War in Europe brought social chaos everywhere. The Spanish were ravaging the French
+
+provinces and even threatening Paris, but Descartes was shut away in an apartment
+
+in Holland. Tranquility for philosophical speculation mattered so much to him that
+
+upon hearing Galileo had been condemned by the Church, he retracted parallel ar-
+
+guments of his own on natural science. Pure philosophy as an abstract enterprise
+
+needed a cool atmosphere isolated from everyday events.
+
+**Descartes's magnificent formulations have always had their detractors**, of
+
+course. David Hume did not think of philosophy in those terms, believing as he did
+
+that **sentiment is the foundation of morality**. For Seren Kierkegaard, an abstract system of ethics is
+
+only paper currency with nothing to back it up. Karl Marx insisted
+
+that we change the world and not merely explain it. But no one drew the modern
+
+philosophical map more decisively than Descartes, and his mode of rigid inquiry has
+
+generally defined the field's parameters.
+
+This book adopts the historical perspective suggested by Stephen Toulmin:
 
