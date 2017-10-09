@@ -176,7 +176,7 @@ uralism. Today one sees it as a vast horizontal plain given to technical excelle
 
 barren in enabling students to articulate a philosophy of life. As James Carey concludes
 
-&gt;Higher education has not-been performing well of late and, like most American
+    &gt;Higher education has not-been performing well of late and, like most American
 
 institutions, is suffering from a confusion of purpose, an excess of ambition that
 
