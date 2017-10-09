@@ -16,9 +16,9 @@ an American Master Novelist. In **"What Macie Knew", **James stated:
 > **is to criticise, to establish in fine, a relation  
 >     with the criticised 'thing' and makes it one's own.**
 <script type="text/javascript" src="http://video.foxnews.com/v/embed.js?id=5601940104001&w=466&h=263"></script><noscript>Watch the latest video at <a href="http://video.foxnews.com">video.foxnews.com</a></noscript>
-Honestly, I have not read any of his work. I always knew that **Henry** was **William James**'s brother,  
- that they both were my subjects I found worthwhile to look into, perhaps not now but any chance I get at later time. When first came to the US back in 1991, at 13 years old, I took my first job as a volunteer clerk for a local San Diego Public Library; Reading nor Writing were my favorite subjects at the time, but because "Learning to Speak English" was my only main focus.  
-  Not Until after 9/11, that I found myself liking to read. I'd also developed through time, a natural talent  
+**Honestly, I have not read any of his work. I always knew that **Henry** was **William James**'s brother,  *
+ that they both were my subjects I found worthwhile to look into, perhaps not now but any chance I get at later time. When first came to the US back in 1991, at 13 years old, I took my first job as a volunteer clerk for a local San Diego Public Library; Reading nor Writing were my favorite subjects at the time, but because "Learning to Speak English" was my only main focus. 
+  Until after 9/11, that I found myself liking to read. I'd also developed through time, a natural talent  
   in what I called **BSI** or **Book Selective Intelligent**. **BSI** has helped me to  
   be selective with my collection and it is what brought me  
   The **"Orange Flower"** for it's orange hard cover. **\(The book is from Duke University and has been withdrawned\)**  
