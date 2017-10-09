@@ -11,10 +11,9 @@
 ###### by definition, given from our 'Old James' or Henry James,
 
 an American Master Novelist. In **"What Macie Knew", **James stated:  
-**The Preface:**
-
-> **is to criticise, to establish in fine, a relation  
->     with the criticised 'thing' and makes it one's own.**
+ **The Preface:**
+ **o establish in fine a relation  
+  with the criticised 'thing' and makes it one's own.**
 <script type="text/javascript" src="http://video.foxnews.com/v/embed.js?id=5601940104001&w=466&h=263"></script><noscript>Watch the latest video at <a href="http://video.foxnews.com">video.foxnews.com</a></noscript>
 **Honestly, I have not read any of his work. I always knew that **Henry** was **William James**'s brother,  *
  that they both were my subjects I found worthwhile to look into, perhaps not now but any chance I get at later time. When first came to the US back in 1991, at 13 years old, I took my first job as a volunteer clerk for a local San Diego Public Library; Reading nor Writing were my favorite subjects at the time, but because "Learning to Speak English" was my only main focus. 
