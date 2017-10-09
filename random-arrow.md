@@ -14,7 +14,7 @@ an American Master Novelist. In **"What Macie Knew", **James stated:
  **The Preface:**
  **o establish in fine a relation  
   with the criticised 'thing' and makes it one's own.**
-<script type="text/javascript" src="http://video.foxnews.com/v/embed.js?id=5601940104001&w=466&h=263"></script><noscript>Watch the latest video at <a href="http://video.foxnews.com">video.foxnews.com</a></noscript>
+
 **Honestly, I have not read any of his work. I always knew that **Henry** was **William James**'s brother,  *
  that they both were my subjects I found worthwhile to look into, perhaps not now but any chance I get at later time. When first came to the US back in 1991, at 13 years old, I took my first job as a volunteer clerk for a local San Diego Public Library; Reading nor Writing were my favorite subjects at the time, but because "Learning to Speak English" was my only main focus. 
   Until after 9/11, that I found myself liking to read. I'd also developed through time, a natural talent  
@@ -34,6 +34,7 @@ Today is **Oct 04 2017**
 ![](/assets/PicsArt_10-07-11.50.10.jpg)
 
 Poor News Happened yesterday, the **Las Vegas Mass Shooting**  
+![](/IMG_20170927_222520.jpg)
 The tragic News was over pouring, becomes now the centre topic of our today's talk.  
  But let us take a moment to step back and see.  
  2017 started with **Trump's Election**,  
