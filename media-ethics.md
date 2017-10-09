@@ -90,3 +90,61 @@ generally defined the field's parameters.
 
 This book adopts the historical perspective suggested by Stephen Toulmin:
 
+  &gt;The philosophy whose legitimacy the critics challenge is always the seventeenth
+
+century tradition founded primarily upon René Descartes. \[The\] arguments are
+
+directed to one particular style of philosophizing-a theory-centered style which poses
+
+philosophical problems, and frames solutions to them, in timeless and universal terms
+
+From 1650, this particular style was taken as defining the very agenda of philosophy
+
+\(1988, 338\)
+
+The seventeenth-century philosophers set aside the particular, the timely, the lo-
+
+cal and the oral. And that development left untouched nearly half of the philosoph-
+
+ical agenda.
+
+&gt;Indeed, it is those neglected topics-what I here call "practical philosophy"- that are
+
+showing fresh signs of life today, at the very time when the more familiar "theory-
+
+centered half of the subject is languishing. \(Toulmin 1988, 338\)
+
+
+
+  This book collaborates in demolishing the barrier of three centuries between
+
+pure and applied philosophy: it joins in reentering practical concerns as the legiti-
+
+mate domain of philosophy itself. For Toulmin, the primary locus of ethics has
+
+moved from the study to the bedside, to criminal courts, engineering labs, the news-
+
+room, factories and the ethnic street corners. Moral philosophers are not being asked
+
+to hand over their duties to technical experts in today's institutions, but rather to
+
+fashion their agenda within the conditions of contemporary struggle
+
+All humans have a theoretical capacity. Critical thinking, the reflective dimen-
+
+sion, is our common property. And this book nurtures that reflection in communica-
+
+tion classrooms and by extension into centers of media practice. If the mind is like
+
+a muscle, this volume provides a regimen of exercises for strengthening its powers
+
+of systematic reflection and moral discernment. It does not permit those aimless ar-
+
+guments that result in quandary ethics. Instead it operates in the finest traditions of
+
+practical philosophy, anchoring the debates in real-life conundrums but pushing the
+
+discussion toward substantive issues and integrating appropriate theory into the
+
+decision-making process. It seeks to empower students to do ethics themselves, un
+
