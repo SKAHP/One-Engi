@@ -150,7 +150,9 @@ under the old adage that teaching someone to fish lasts a lifetime, and providin
 
 only saves the day.
 
-&gt;Media Ethics: Issues and Cases arrives on the scene at a strategic time in higher
+
+
+          Media Ethics: Issues and Cases arrives on the scene at a strategic time in higher
 
 education. Since the late nineteenth century, ethical questions have been taken from
 
@@ -176,9 +178,11 @@ uralism. Today one sees it as a vast horizontal plain given to technical excelle
 
 barren in enabling students to articulate a philosophy of life. As James Carey concludes
 
-    &gt;Higher education has not-been performing well of late and, like most American
+```
+;Higher education has not-been performing well of late and, like most American
+```
 
-institutions, is suffering from a confusion of purpose, an excess of ambition that
+         institutions, is suffering from a confusion of purpose, an excess of ambition that
 
 borders on hubris, and an appetite for money that is truly alarming. \(1989, 48\)
 
