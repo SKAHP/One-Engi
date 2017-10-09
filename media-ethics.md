@@ -144,13 +144,13 @@ practical philosophy, anchoring the debates in real-life conundrums but pushing 
 
 discussion toward substantive issues and integrating appropriate theory into the
 
-decision-making process. It seeks to empower students to do ethics themselves, 
+decision-making process. It seeks to empower students to do ethics themselves,
 
 under the old adage that teaching someone to fish lasts a lifetime, and providing fish
 
-only saves the day. 
+only saves the day.
 
-    **Media Ethics: Issues and Cases** arrives on the scene at a strategic time in higher
+&gt;Media Ethics: Issues and Cases arrives on the scene at a strategic time in higher
 
 education. Since the late nineteenth century, ethical questions have been taken from
 
@@ -176,7 +176,7 @@ uralism. Today one sees it as a vast horizontal plain given to technical excelle
 
 barren in enabling students to articulate a philosophy of life. As James Carey concludes
 
-   &gt;Higher education has not-been performing well of late and, like most American
+&gt;Higher education has not-been performing well of late and, like most American
 
 institutions, is suffering from a confusion of purpose, an excess of ambition that
 
@@ -188,7 +188,7 @@ America \(1918\) and Upton Sinclair's The Goose Step \(1922\) are now too blatan
 
 obvious to ignore.
 
-  But Media Ethics: Issues and Cases does not merely demand a better general
+But Media Ethics: Issues and Cases does not merely demand a better general
 
 education or a recommitment to values; it strengthens the communications curricu-
 
@@ -197,6 +197,4 @@ tudents with a more enlightened moral awareness.
 Since Confucius we have understood that lighting a candle is better than cursing the
 
 darkness. Or in Mother Teresa's version, we feed the world one mouth at a time.
-
-
 
