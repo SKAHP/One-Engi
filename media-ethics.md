@@ -1,4 +1,4 @@
-CLIFFORD G. CHRISTIANS
+**CLIFFORD G. CHRISTIAN**
 
 Research Professor of Communication
 
@@ -12,9 +12,7 @@ thinkery" By shifting the disputes among Athenians over earth, air, fire and wat
 
 human virtue, Socrates gave Western philosophy and ethics a new intellectual cen
 
-ter \(Cassier 1944\)
-
-But sometimes his relentless arguments would go nowhere. On one occasion
+ter \(Cassier 1944\) But sometimes his relentless arguments would go nowhere. On one occasion
 
 he sparred with the philosopher Hippias about the difference between truth and
 
@@ -26,29 +24,23 @@ I go astray, up and down, and never hold the same opinion." Socrates ad
 
 mitted to being so clever that he had befuddled himself. No wonder he was a favorite
 
-target of the comic poets. I. F. Stone likens this wizardry to "whales of the intellect
+target of the comic poets. **I. F. Stone** likens this wizardry to 
 
-flailing about in deep seas" \(Stone 1988\)
+**"whales of the intellect flailing about in deep seas"** \(Stone 1988\)
 
 With his young friend, Meno, Socrates argued whether virtue is teachable.
 
-Meno was eager to learn more, after "holding forth often on the subject in front of
+Meno was eager to learn more, after "holding forth often on the subject in front of large audiences." But he complained, 
 
-large audiences." But he complained, "You are exercising magic and witc
+"You are exercising magic and witchcraft upon me and positively laying me under your spell until I am just
 
-upon me and positively laying me under your spell until I am just
-
-hcraft
-
-a mass of help
-
-lessness.. . You are exactly like the flat stingray that one meets in the sea. When
+a mass of helpessness.. . You are exactly like the flat stingray that one meets in the sea. When
 
 ever anyone comes into contact with it, it numbs him, and that is the sort of thing
 
 you seem to be doing to me now. My mind and my lips are literally numb
 
-Philosophy is not a semantic game, though sometimes its idiosyncracies feed
+**Philosophy is not a semantic game**, though sometimes its **idiosyncracies **feed
 
 that response into the popular mind. Media Ethics: Issues and Cases does not de
 
@@ -58,27 +50,17 @@ encourage those who ridicule philosophy as cunning rhetoric. The issue at stake
 
 here is actually a somewhat different problem the Cartesian model of philoso-
 
-phizing
+phizing.
 
-Descartes's frie
+**The founder of modern philosophy, René Descartes**  preferred to work in solitude.
 
-One can even guess the motto above his desk: "Ha
+Paris was whirling in the early seventeenth century, but for two years even
 
-Imagine the conditions under which he wrote Meditations
+Descartes's nds could not find him as he squirreled away studying mathematics.
 
-e founder of modern philosophy, René Descartes, preferred to work in soli
+One can even guess the motto above his desk: "**Happy is he who lives in seclusion."**
 
-was whirling in the early seventeenth century, but for two years even
+Imagine the conditions under which who wrote meditation II. 
 
-nds could not find him as he squirreled away studying mathematics
-
-appy is he who lives in seclusion."
-
-II. The Thirty Ye
-
-ars' War
-
-X111
-
-
+The Thirty Years' War 
 
