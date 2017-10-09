@@ -90,7 +90,7 @@ generally defined the field's parameters.
 
 This book adopts the historical perspective suggested by Stephen Toulmin:
 
-  &gt;The philosophy whose legitimacy the critics challenge is always the seventeenth
+&gt;The philosophy whose legitimacy the critics challenge is always the seventeenth
 
 century tradition founded primarily upon René Descartes. \[The\] arguments are
 
@@ -114,9 +114,7 @@ showing fresh signs of life today, at the very time when the more familiar "theo
 
 centered half of the subject is languishing. \(Toulmin 1988, 338\)
 
-
-
-  This book collaborates in demolishing the barrier of three centuries between
+This book collaborates in demolishing the barrier of three centuries between
 
 pure and applied philosophy: it joins in reentering practical concerns as the legiti-
 
@@ -146,5 +144,59 @@ practical philosophy, anchoring the debates in real-life conundrums but pushing 
 
 discussion toward substantive issues and integrating appropriate theory into the
 
-decision-making process. It seeks to empower students to do ethics themselves, un
+decision-making process. It seeks to empower students to do ethics themselves, 
+
+under the old adage that teaching someone to fish lasts a lifetime, and providing fish
+
+only saves the day. 
+
+    **Media Ethics: Issues and Cases** arrives on the scene at a strategic time in higher
+
+education. Since the late nineteenth century, ethical questions have been taken from
+
+the curriculum as a whole and from the philosophy department. Recovering practi
+
+cal philosophy has involved a revolution during the last decade in which courses in
+
+professional ethics have reappeared throughout the curriculum. This book advocates
+
+the pervasive method and carries the discussions even further, beyond freestanding
+
+courses into communication classrooms across the board.
+
+In this sense, the book represents a constructive response to the current debates
+
+over the mission of higher education. Professional ethics has long been saddled with
+
+the dilemma that the university was given responsibility for professional training
+
+precisely at the point in its history that it turned away from values to scientific nat-
+
+uralism. Today one sees it as a vast horizontal plain given to technical excellence but
+
+barren in enabling students to articulate a philosophy of life. As James Carey concludes
+
+   &gt;Higher education has not-been performing well of late and, like most American
+
+institutions, is suffering from a confusion of purpose, an excess of ambition that
+
+borders on hubris, and an appetite for money that is truly alarming. \(1989, 48\)
+
+The broadside critiques leveled in Thorstein Veblen's The Higher Learning in
+
+America \(1918\) and Upton Sinclair's The Goose Step \(1922\) are now too blatantly
+
+obvious to ignore.
+
+  But Media Ethics: Issues and Cases does not merely demand a better general
+
+education or a recommitment to values; it strengthens the communications curricu-
+
+tudents with a more enlightened moral awareness.
+
+Since Confucius we have understood that lighting a candle is better than cursing the
+
+darkness. Or in Mother Teresa's version, we feed the world one mouth at a time.
+
+
 
