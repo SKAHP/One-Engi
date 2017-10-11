@@ -11,7 +11,7 @@
   <link href="../../stylesheet.css" rel="stylesheet" type="text/css"/>
 <link href="../../page_styles.css" rel="stylesheet" type="text/css"/>
 </head>
-  <body class="calibre"><div class="calibre_navbar">| <a href="../article_11/index_u32.html">Next</a> | <a href="../index_u28.html#article_10">Section menu</a> | <a href="../../index.html#feed_0">Main Menu</a> | <a href="../article_9/index_u21.html">Previous</a> | <hr class="calibre6"/>
+  <body class="calibre"> <hr class="calibre6"/>
 </div><h2 class="calibre7">Meeting the Challenges to Reap the Benefits of Semantic Data in Digital Humanities</h2><div class="calibre5"><div itemprop="articleBody" class="calibre5">
 <p class="calibre8">by George Bruseker, Martin Doerr and Chryssoula Bekiari (ICS-FORTH)</p>
 <p class="calibre8">In the era of big data, digital humanities faces the ongoing challenge of formulating a long-term and complete strategy for creating and managing interoperable and accessible datasets to support its research aims. Semantics and formal ontologies, properly understood and implemented, provide a powerful potential solution to this problem. A long-term research programme is contributing to a complete methodology and toolset for managing the semantic data lifecycle.</p>
@@ -31,8 +31,7 @@
 </div><div class="calibre_navbar">
 <hr class="calibre6"/>
 <p class="calibre10">This article was downloaded by <strong class="calibre9">calibre</strong> from <a href="https://ercim-news.ercim.eu/en111/special/meeting-the-challenges-to-reap-the-benefits-of-semantic-data-in-digital-humanities" rel="calibre-downloaded-from">https://ercim-news.ercim.eu/en111/special/meeting-the-challenges-to-reap-the-benefits-of-semantic-data-in-digital-humanities</a></p>
-<br class="calibre5"/><br class="calibre5"/> | <a href="../index_u28.html#article_10">Section menu</a> | <a href="../../index.html#feed_0">Main Menu</a> | </div></body></html>
-
+<br class="calibre5"/><br class="calibre5"/></a> | </div></body></html>
 
 ##  PONR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
