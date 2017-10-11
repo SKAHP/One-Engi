@@ -7,4 +7,5 @@
 * [Naked Ape](naked-ape.md)
 * [Media Ethics](media-ethics.md)
 * [Humanities-Semantic.html](humanities-semantichtml.md)
+* [Semantic](semantic.md)
 
