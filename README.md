@@ -9,7 +9,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
 Variously construed, these processes constituted something called the
 
-## SCIENTIFIC 
+## SCIENTIFIC METHOD. 
   Sometimes thought to have been invented in the **17th century,** this was the method by which scientists discovered true generalizations about and explanations for natural phenomena. Or if not exactly true, at least approximations to the truth. And if not certain approximations to then at least highly probable ones. 
   Something of this sort we had all been taught, and we all knew that attempts to ×refine that understanding of scientific method and what it produced had encountered deep, though isolated, difficulties that were not, after centuries of effort, responding to treatment. It was those difficulties which drove us to observations of **scientific life** and to **history,** and we were considerably disconcerted by what we found there.
  **In the first place, the supposedly solid facts of observations turned to be pliable. The results achieved by different people apparently observing the same phenomena differed from one another, though never a great deal**
