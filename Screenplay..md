@@ -3,8 +3,7 @@
 FOR PROFESSIONAL PRODUCTION
 
 ```markdown
->
-At the outset, may we explain that there is virtually no difference in
+>At the outset, may we explain that there is virtually no difference in
 typing format between the teleplay and the feature or theatrical screen-
 play. The reason for this is that the vast majority of television dramas
 are, now produced on motion picture film. Conversely, many feature-
