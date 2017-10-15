@@ -6,41 +6,25 @@
 
 **University of Illinois, Urbana**
 
-The playful wit and sharp mind of Socrates attracted disciples from all across an
-
-cient Greece. They came to learn and debate in what could be translated "his
-
-thinkery" By shifting the disputes among Athenians over earth, air, fire and water to
-
-human virtue, Socrates gave Western philosophy and ethics a new intellectual cen
-
-ter \(Cassier 1944\) But sometimes his relentless arguments would go nowhere. On one occasion
-
-he sparred with the philosopher Hippias about the difference between truth and
-
-falsehood. Hippias was worn into submission, but retorted at the end: "I cannot agree with you, Socrates." And then the master concluded: **"Nor I with myself, Hip- go astray, up and down, and never hold the same opinion."** Socrates 
-
-admitted to being so clever that he had befuddled himself. No wonder he was a favorite  
-target of the comic poets. **I. F. Stone** likens this wizardry to  
+The playful wit and sharp mind of Socrates attracted disciples from all across ancient Greece. They came to learn and debate in what could be translated "his thinkery" By shifting the disputes among Athenians over earth, air, fire and water to human virtue, Socrates gave Western philosophy and ethics a new intellectual center \(Cassier 1944\) But sometimes his relentless arguments would go nowhere. On one occasion he sparred with the philosopher Hippias about the difference between truth andfalsehood. Hippias was worn into submission, but retorted at the end: "I cannot agree with you, Socrates." And then the master concluded: **"Nor I with myself, Hip- go astray, up and down, and never hold the same opinion."** Socrate dmitted to being so clever that he had befuddled himself. No wonder he was a favorite arget of the comic poets. **I. F. Stone** likens this wizardry to  
 **"whales of the intellect flailing about in deep seas"** \(Stone 1988\)  
 With his young friend, Meno, **Socrates argued whether virtue is teachable.**  
 Meno was eager to learn more, after **"holding forth often on the subject in front of large audiences." **But he complained,  
 **"You are exercising magic and witchcraft upon me and positively laying me under your spell until I am just  
 a mass of helpessness.. . You are exactly like the flat stingray that one meets in the sea. When  
 ever anyone comes into contact with it, it numbs him, and that is the sort of thing  
-you seem to be doing to me now. My mind and my lips are literally numb  
+you seem to be doing to me now. My mind and my lips are literally numb    
 **Philosophy is not a semantic game**, though sometimes its **idiosyncracies feed  
 that response into the popular mind. \*\*Media Ethics: Issues and Cases does not de  
 bunk philosophy as the excess of sovercign reason. The authors of this book will not  
 encourage those who ridicule philosophy as cunning rhetoric. The issue at stake  
-here is actually a somewhat different problem the Cartesian model of philoso-  
-phizing.
+here is actually a somewhat different problem the Cartesian model of philosophizing.
 
 **The founder of modern philosophy, René Descartes**  preferred to work in solitude. **Paris was whirling in the early seventeenth century, but for two years even **Descartess nds could not find him as he squirreled away studying mathematics.  
-**One can even guess the motto above his desk: "**Happy is he who lives in seclusion."**  
+**One can even guess the motto above his desk: "**Happy is he who lives in seclusion."**    
 **Imagine the conditions under which who wrote meditation II.
 
-**The Thirty Years' War in Europe brought social chaos everywhere. The Spanish were ravaging the French  
+**The Thirty Years' War in Europe brought social chaos everywhere. The Spanish were ravaging the French    
 **provinces and even threatening Paris, but Descartes was shut away in an apartment  
 in Holland. Tranquility for philosophical speculation mattered so much to him that  
 upon hearing Galileo had been condemned by the Church, he retracted parallel ar-  
@@ -53,8 +37,7 @@ that **sentiment is the foundation of morality**. For Seren Kierkegaard, **an ab
 only paper currency with nothing to back it up**. Karl Marx insisted  
 that **we change the world and not merely explain it.** But no one drew the modern  
 philosophical map more **decisively than Descartes,** and his **mode of rigid inquiry** has  
-generally **defined the field's parameters**.  
-This book adopts the historical perspective suggested by **Stephen Toulmin**:
+generally **defined the field's parameters**.This book adopts the historical perspective suggested by **Stephen Toulmin**:
 
 ### The philosophy whose legitimacy the critics challenge is always the seventeenth
 
@@ -71,7 +54,7 @@ And that development left untouched nearly half of the philosophical agenda.
 
 **showing fresh signs of life today, at the very time when the more familiar "theory-**centered half of the subject is languishing.
 
- \(Toulmin 1988, 338\)
+\(Toulmin 1988, 338\)
 
 ```
 This book collaborates in demolishing the barrier of three centuries between
@@ -113,7 +96,7 @@ borders on hubris, and an appetite for money that is truly alarming. \(1989, 48\
 The broadside critiques leveled in Thorstein Veblen's The Higher Learning in  
 America \(1918\) and Upton Sinclair's The Goose Step \(1922\) are now too blatantly  
 obvious to ignore. But Media Ethics: Issues and Cases does not merely demand a better general  
-education or a recommitment to values; it strengthens the communications curriulum. 
+education or a recommitment to values; it strengthens the communications curriulum.
 
 tudents with a more enlightened moral awareness.  
 Since Confucius we have understood that lighting a candle is better than cursing the  
