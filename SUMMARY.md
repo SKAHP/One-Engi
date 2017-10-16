@@ -6,6 +6,6 @@
 * [Hang Over? ](hang-over.md)
 * [Naked Ape](naked-ape.md)
 * [Media Ethics](media-ethics.md)
-* [JD](humanities-semantichtml.md)
+* [Poetry ](humanities-semantichtml.md)
 * [Semantic](semantic.md)
 
