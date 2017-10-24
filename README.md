@@ -15,14 +15,14 @@ Variously construed, these processes constituted something called the
  **In the first place, the supposedly solid facts of observations turned to be pliable. The results achieved by different people apparently observing the same phenomena differed from one another, though never a great deal**
    
   And those differences-though contained in the same ball park-were often sufficient to affect crucial points of interpretation. In addition the so call 
-  ### FΛㄈŤら þ尺ØveÐ
+### FΛㄈŤら þ尺ØveÐ
   **never to be mere facts,** independent
     of existing belief and theory. Producing them required 
 ### ﾑｱｱﾑ尺ﾑｲƲ丂  
 which itself depended on theory, 
 often on the theory that the experiments
 were supposed to test. Even when the
-      **apparatus** 
+   **apparatus** 
   could be redesigned to eliminate or reduce these disagreements, the design process sometimes forced the revision of conceptions about what was being observed.
   And after that, disagreements, though reduced, were still present, and sometimes sufficient to have a bearing on interpretation. Observations, that is including those designed as tests, always left room for disagreement about whether some particular law or theory should be accepted. That space for disagreement was often exploite screpancies that toan outsider looked trivial were frequently matters of deep import to those on whom the research impinged.
   
