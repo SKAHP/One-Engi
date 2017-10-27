@@ -28,37 +28,22 @@ But, now the sun is just above our head,
 
 
      And to brave clearness all things are reduc'd.
-```
-
 So whilst our infant loves did grow,
-
 Disguises did, and shadows, flow
-
 From us, and our cares; but now 'tis not so.
-
 That love has not attain'd the high'st degree,
-
 Which is still diligent lest others see.
-
 Except our loves at this noon stay,
-
 We shall new shadows make the other way.
 
 ```
-     As the first were made to blind
-
-
-
-
-     Others, these which come behind
+       As the first were made to blind
+      Others, these which come behind
 ```
-
 Will work upon ourselves, and blind our eyes.
-
 If our loves faint, and westwardly decline,
-
 ```
-     To me thou, falsely, thine,
+ To me thou, falsely, thine,
 
 
 
