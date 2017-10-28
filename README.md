@@ -18,7 +18,6 @@ Variously construed, these processes constituted something called the
 ### FΛㄈŤら þ尺ØveÐ
   **never to be mere facts,** independent
     of existing belief and theory. Producing them required 
-
 ### ﾑｱｱﾑ尺ﾑｲƲ丂  
 which itself depended on theory, 
 often on the theory that the experiments
