@@ -9,6 +9,7 @@
 * [Poetry ](humanities-semantichtml.md)
 * [Semantic](semantic.md)
 * [Post-Truth](post-truth.md)
+* [AI Principal](ai-principal.md)
 
 ## Autumn Song
 
