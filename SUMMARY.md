@@ -10,6 +10,7 @@
 * [Semantic](semantic.md)
 * [Post-Truth](post-truth.md)
 * [AI Principal](ai-principal.md)
+* [Digital Humanity](digital-humanity.md)
 
 ## Autumn Song
 
