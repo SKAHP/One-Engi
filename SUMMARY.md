@@ -12,6 +12,7 @@
 * [AI Principal](ai-principal.md)
 * [Digital Humanity](digital-humanity.md)
 * [A&P](aandp.md)
+* [Annunciation](annunciation.md)
 
 ## Autumn Song
 
