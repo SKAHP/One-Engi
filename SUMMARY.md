@@ -11,6 +11,7 @@
 * [Post-Truth](post-truth.md)
 * [AI Principal](ai-principal.md)
 * [Digital Humanity](digital-humanity.md)
+* [A&P](aandp.md)
 
 ## Autumn Song
 
