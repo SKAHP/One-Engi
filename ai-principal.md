@@ -1,5 +1,5 @@
 
-**What is Artificial Intelligence?**
+### **What is Artificial Intelligence?**
 **Mike Loukides and Ben Lorica examine factors that have made AI a hot topic in recent years, today's successful AI systems, and where AI may be headed.
 
 **By Mike LoukidesBen Lorica June 29, 2016**
