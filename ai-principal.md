@@ -200,6 +200,7 @@ One of the strands of educational reform movements in the last two decades has b
 
 **for school improvement, providing a way for teachers to learn from each other, gain moral support, coordinate action, and reflect on their classroom practices, their values, and the meaning of their work.*
 
+
 **These concerns point to the need for a change process that has a positive focus, is essentially self-organizing, encourages deep reflection, and avoids the pitfalls of manipulation by school administrators. This analysispoints to a consideration ofappreciative inquiry, a strengths-based process that builds on**
 
 ## ‘the best of what is’ 
