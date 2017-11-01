@@ -2,7 +2,7 @@
 
 #### Monday, October 02, 2017
 
-In 2016, the Oxford Dictionaries [declared that their Word Of The Year was to be "post-truth"](https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016), which they defined as:
+**In 2016, the Oxford Dictionaries [declared that their Word Of The Year was to be "post-truth"******(https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016), which they defined as:
 
 > **"relating to or denoting circumstances in which objective facts are less influential in shaping public opinion than appeals to emotion and personal belief"**
 
