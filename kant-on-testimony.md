@@ -232,5 +232,85 @@ but not the absolute necessity of the thing.
 
 For experience gives only something contingent.
 
+15. In recent years, a much clearer picture of the development of Kant’s thought has
 
+emerged and it is now widely acknowledged that there is no clear demarcation between Kant
+
+‘the teacher’ and Kant ‘the writer-philosopher’, and that any account of Kant’s philosophical
+
+development will profit from a fine-grained analysis that goes
+
+beyond the traditional differentiation between a critical and pre-critical phase.16 This
+
+is true in particular of Kant’s lectures on logic which, it has been argued, anticipate a
+
+number of moves and strategies that later feature prominently in the Critiques.17 As
+
+Giorgio Tonelli argues, quite generally, ‘logic was never dissociated from the
+
+methodological consideration of the substance of thought, i.e. from subjects which we
+
+assign today to the “Theory of Knowledge”’ \(Tonelli 1975: 187\). It is the aim of the
+
+present paper to argue that the same could be said, more specifically, about the
+
+epistemology of testimony. By drawing on the body of Kant’s logical work, as well as
+
+his Reflexionen and other writings, I hope to show that testimony, too, has a
+
+substantive place in his philosophy and cannot be divorced from his thinking about
+
+knowledge, autonomy and communication.
+
+Taking testimony seriously
+
+The fundamental worry about testimony, which Kant, as the quote in the previous
+
+section suggests, was well aware of, concerns the fact that the relation between
+
+testimony and truth is at best contingent. The mere act of testifying bears no
+
+necessary relation to the truth of the matter in question. On Kant’s account this is
+
+true a fortiori, since experience quite generally ‘gives only something contingent’;
+
+hence, the same must be true of testimony, which, after all, purports to communicate
+
+knowledge based on others’ experiences. Beyond the general fallibility of all empirical
+
+knowledge, however, there are special problems regarding testimony as a source of
+
+knowledge, mainly due to the fact that testimony crucially involves other epistemic
+
+agents. This leads to two distinct possibilities of how testimony can systematically fail
+
+to generate knowledge: namely, when the speaker is incompetent or insincere. It will
+
+therefore be of interest to see what Kant has to say about competence and sincerity as
+
+prerequisites for a good witness.
+
+Kant raises the topic of competence only in very general terms and mainly
+
+follows Meier’s discussion of ‘Tüchtigkeit’ \(dexteritas\), who defined a competent
+
+witness as someone who possesses ‘sufficient powers to not only acquire the right
+
+experience but also to designate it in the right way’ \(Auszug, § 207\).18 In particular,
+
+there is no further attempt to define competence in terms of reliability, for example
+
+along probabilistic lines. Kant is notoriously sceptical about the prospects of a logic of
+
+probability \(see Cataldi Madonna 1992: 35\); where we cannot have certainty – as in
+
+cases of testimony where the competence of the witness may be in doubt – we can
+
+only judge on a case by case basis. Those scholars in the Leibniz-Wolff tradition, who
+
+extrapolate from the mathematics of probability to a logica probabilium, hoping that
+
+the latter can solve epistemological puzzles, in Kant’s opinion are misguided.19 In his
+
+Anthropology From a Pragmatic Point of View \(1798\), Kant says as much when he
 
