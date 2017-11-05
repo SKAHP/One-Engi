@@ -482,3 +482,87 @@ Testimonial belief requires an element of faith \(fides historica\), that is, an
 
 exercise of trust. As Kant characterises it, ‘Fides is essentially faithfulness in an
 
+agreement \[‘in pacto’\] or towards one another’.31 Hence, in accepting someone’s
+
+testimony we do not just adopt a new belief, we trust him for the truth. Indeed, in the
+
+Blomberg Logic, Kant draws an explicit parallel between trust in non-epistemic
+
+matters and trusting someone’s testimony:
+
+Fidelity is always required in regard to him who promises something, so that he keeps to what
+
+was
+
+promised\[;\] belief, however, is required in regard to him to whom something is promised,
+
+namely,
+
+so that he accepts as true that the other will keep his promise. The two must be combined with
+
+each
+
+other. \[…\] It also indicates a very bad mode of thought if one never trusts anyone in anything,
+
+but
+
+instead one wants to see everything that is promised and pledged to him present and fulfilled.32
+
+It is this dual structure of a duty to fidelity combined with a duty not to be wantonly
+
+suspicious which underlies Kant’s presumptive principle regarding the acceptance of
+
+testimony. While Kant’s categorical stance on lying is well-known \(for example in his
+
+essay On a Supposed Right to Lie From Philanthropy, where he describes lying as ‘a
+
+wrong inflicted upon humanity’33\), what is frequently overlooked is the fact that he
+
+issues an equally strong condemnation against distrust of others, and against
+
+incredulity in general.
+
+Kant distinguishes two forms of incredulity, which, however, are continuous
+
+with one another. The first explicitly concerns testimony:
+
+Incredulous1 \[ungläubisch\] is someone who accepts nothing on testimony \[unless\] it is
+
+sufficiently
+
+confirmed to be knowledge. \(In this case, one must make many arbitrary assumptions, so as to
+
+be
+
+able to make an attempt to reach certainty in knowledge.\) Commonly such a person is
+
+suspicious
+
+and distrustful.34
+
+This attitude, however, is only a special case of a second, more general attitude of
+
+incredulity: ‘Incredulous2 \[ungläubig\] is someone who does not want to accept
+
+anything as true except on theoretically conclusive grounds.’35 Whereas incredulity
+
+with respect to testimony is morally objectionable because it generates an attitude of
+
+suspicion and undermines the practice of promises and social life – ‘\[w\]ithout fidelity
+
+and belief no republique, no public affairs, would be able to exist’36 – the second,
+
+more general form of incredulity is equally objectionable, not least because it ignores
+
+that theoretical certainty is not always required for moral certainty; hence,
+
+incredulity indicates a ‘lack \[Mangel\] of moral interest’37, which in turn amounts to a
+
+self-violation of human dignity, for ‘true dignity of man rests on morality’
+
+38.
+
+Kant’s epistemology of testimony differs markedly from other positions in that it
+
+balances the recipient’s perspective, which is characterised by the hearer’s desire to
+
