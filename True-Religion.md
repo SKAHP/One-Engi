@@ -1,43 +1,6 @@
-## Seek True Religion!
-Donne, John (1573-1631)
+ 
 
-## Though Truth and Falsehood be Near twins,
+## ₴εεΚ Γʀυε Rελιϑιɸи!
+Dɸииε, Јɸհи (1573-1631)
 
-**yet Truth a little elder is.
-Be busy to seek her; believe me this: 
-He's not of none, nor worst, that seeks the best.
-To adore, or scorn an image, or protest,
-May all be bad. Doubt wisely; in strange way
-To stand inquiring right is not to stray;
-To sleep or run wrong is.  On a huge hill,
-Craggd and steep, Truth stands, and he that will
-Reach her, about must and about must go,
-And what the hill's suddenness resists, win so.
-Yet strive so, that before age, death's twilight,
-Thy soul rest, for none can work in that night.
-To will implies delay; therefore now do.
-Hard deeds that body's pains; hard knowledge too,
-The mind's eneavours reach; and mysteries
-Are like the sun, dazzling, yet plain to all eyes.
-Keep the truth which thou hast found; men do not stand
-In so ill case here that God hath with his hand
-Signed kings blank charters to kill whom they hate,
-Nor are they vicars, but hangmen to Fate.
-Fool and wretch, wilt thou let thy soul be tied
-To man's laws, by which she shall not be tried
-At the last day? Will it then boot thee
-To say a Philip or a Gregory,
-A Harry, or a Martin taught thee this?
-Is not this excuse for mere contraries
-Equally strong?  Cannot both sides say so?
-That thou mayst rightly obey Power, her bounds know;
-Those passed, her nature and name's changed; to be
-Then humble to her is idolatry.
-As streams are Power is; those blest flowers that dwell
-At the rough stream's calm head thrive and prove well,
-But having left their roots and themselves given
-To the stream's tyrannous rage, alas, are driven
-Through mills and rocks and woods, and at last almost
-Consumed in going, in the sea are lost.
-So perish souls which more choose men's unjust
-Power from God claimed than God himself to trust.**
+### Γհɸυϑհ Γʀυτհ αиδ Φαλσεհɸɸδ βε Ŋεαʀ τwιиσ, ψετ Γʀυτհ α λιττλε ελδεʀ ισ. Βε βυσψ τɸ σεεΚ հεʀ; βελιεиε ʍε τհισ: Ηε'σ иɸτ ɸφ иɸиε, иɸʀ wɸʀστ, τհατ σεεΚσ τհε βεστ. Γɸ αδɸʀε, ɸʀ σcɸʀи αи ιʍαϑε, ɸʀ πʀɸτεστ, Μαψ αλλ βε βαδ. Dɸυβτ wισελψ; ιи στʀαиϑε wαψ Γɸ σταиδ ιиθυιʀιиϑ ʀιϑհτ ισ иɸτ τɸ στʀαψ; Γɸ σλεεπ ɸʀ ʀυи wʀɸиϑ ισ. Ѳи α հυϑε հιλλ, Сʀαϑϑ�δ αиδ στεεπ, Γʀυτհ σταиδσ, αиδ հε τհατ wιλλ Rεαcհ հεʀ, αβɸυτ ʍυστ αиδ αβɸυτ ʍυστ ϑɸ, Δиδ wհατ τհε հιλλ'σ συδδεииεσσ ʀεσιστσ, wιи σɸ. Ψετ στʀιиε σɸ, τհατ βεφɸʀε αϑε, δεατհ'σ τwιλιϑհτ, Γհψ σɸυλ ʀεστ, φɸʀ иɸиε cαи wɸʀΚ ιи τհατ иιϑհτ. Γɸ wιλλ ιʍπλιεσ δελαψ; τհεʀεφɸʀε иɸw δɸ. Ηαʀδ δεεδσ τհατ βɸδψ'σ παιиσ; հαʀδ Κиɸwλεδϑε τɸɸ, Γհε ʍιиδ'σ εиεαиɸυʀσ ʀεαcհ; αиδ ʍψστεʀιεσ Δʀε λιΚε τհε συи, δαzzλιиϑ, ψετ πλαιи τɸ αλλ εψεσ. ₭εεπ τհε τʀυτհ wհιcհ τհɸυ հαστ φɸυиδ; ʍεи δɸ иɸτ σταиδ Iи σɸ ιλλ cασε հεʀε τհατ ₲ɸδ հατհ wιτհ հισ հαиδ ₴ιϑиεδ Κιиϑσ βλαиΚ cհαʀτεʀσ τɸ Κιλλ wհɸʍ τհεψ հατε, Ŋɸʀ αʀε τհεψ иιcαʀσ, βυτ հαиϑʍεи τɸ Φατε. Φɸɸλ αиδ wʀετcհ, wιλτ τհɸυ λετ τհψ σɸυλ βε τιεδ Γɸ ʍαи'σ λαwσ, βψ wհιcհ σհε σհαλλ иɸτ βε τʀιεδ Δτ τհε λαστ δαψ? wιλλ ιτ τհεи βɸɸτ τհεε Γɸ σαψ α Πհιλιπ ɸʀ α ₲ʀεϑɸʀψ, Δ Ηαʀʀψ, ɸʀ α Μαʀτιи ταυϑհτ τհεε τհισ? Iσ иɸτ τհισ εϰcυσε φɸʀ ʍεʀε cɸиτʀαʀιεσ Ξθυαλλψ στʀɸиϑ? Сαииɸτ βɸτհ σιδεσ σαψ σɸ? Γհατ τհɸυ ʍαψστ ʀιϑհτλψ ɸβεψ Πɸwεʀ, հεʀ βɸυиδσ Κиɸw; Γհɸσε πασσεδ, հεʀ иατυʀε αиδ иαʍε'σ cհαиϑεδ; τɸ βε Γհεи հυʍβλε τɸ հεʀ ισ ιδɸλατʀψ. Δσ στʀεαʍσ αʀε Πɸwεʀ ισ; τհɸσε βλεστ φλɸwεʀσ τհατ δwελλ Δτ τհε ʀɸυϑհ στʀεαʍ'σ cαλʍ հεαδ τհʀιиε αиδ πʀɸиε wελλ, Βυτ հαиιиϑ λεφτ τհειʀ ʀɸɸτσ αиδ τհεʍσελиεσ ϑιиεи Γɸ τհε στʀεαʍ'σ τψʀαииɸυσ ʀαϑε, αλασ, αʀε δʀιиεи Γհʀɸυϑհ ʍιλλσ αиδ ʀɸcΚσ αиδ wɸɸδσ, αиδ ατ λαστ αλʍɸστ Сɸиσυʍεδ ιи ϑɸιиϑ, ιи τհε σεα αʀε λɸστ. ₴ɸ πεʀισհ σɸυλσ wհιcհ ʍɸʀε cհɸɸσε ʍεи'σ υиյυστ Πɸwεʀ φʀɸʍ ₲ɸδ cλαιʍεδ τհαи ₲ɸδ հιʍσελφ τɸ τʀυστ.
