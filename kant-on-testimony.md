@@ -1,6 +1,6 @@
-Immanuel Kant is often regarded as an exponent of the‘individualist’ tradition in epistemology, according to which testimony is not a fundamental
+Immanuel Kant is often regarded as an exponent of the ‘individualist’ tradition in epistemology, according to which testimony is not a fundamental
 
-source of knowledge. 
+source of knowledge.
 
 The​ ​present​ ​paper​ ​argues​ ​that​ ​this​ ​view​ ​is​ ​far​ ​from​ ​accurate.
 
