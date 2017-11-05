@@ -13,6 +13,7 @@
 * [Digital Humanity](digital-humanity.md)
 * [A&P](aandp.md)
 * [Annunciation](annunciation.md)
+* [Kant On Testimony](kant-on-testimony.md)
 
 ## Autumn Song
 
