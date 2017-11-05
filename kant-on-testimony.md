@@ -398,3 +398,87 @@ and important step, Kant proposes what one might call a symmetry thesis. This is
 
 best expressed in the Vienna Logic:
 
+\[W\]e can just as well accept something on the testimony of others as on our own experience.
+
+For
+
+there is just as much that is deceptive in our experience as in the testimony of others. Our
+
+thinking,
+
+when we hold an experience to be true, is subject to many hazards. To be sure, the testimony
+
+that
+
+we accept from others is subject to just as many hazards as our own experience is subject to
+
+errors.
+
+But we can just as well have certainty through the testimony of others as through our own
+
+experience.25
+
+Thus, acknowledging that testimony is subject to risk does not suffice to undermine
+
+its status as a source of knowledge. It is possible to acquire knowledge from
+
+testimony \(at least as far as factual matters are concerned\), and this calls for a robust
+
+analysis in terms of knowledge rather than in terms of some substitute notion, such
+
+as conjectural belief: ‘Where knowledge is possible, is itself already a matter of
+
+knowledge’26, and determining the scope of testimonial knowledge is, as we shall see,
+
+a challenge Kant does not shy away from.
+
+An obligation to trust?
+
+Merely pointing out that testimonial knowledge is possible, however, clearly does not
+
+yet determine the extent to which we are to place trust in other people’s testimony.
+
+Thus, in addition to the symmetry thesis, a second \(and, as we shall see shortly,
+
+distinctly ‘Kantian’\) argument is required. It consists in establishing a presumptive
+
+principle regarding the acceptance of testimony. Present-day discussions tend to
+
+assimilate the problem of testimonial knowledge to the problem of epistemic
+
+justification, thereby emphasising the recipient’s perspective and what one might call
+
+his ‘presumptive right’ to accept testimony as true \(provided certain enabling
+
+conditions hold, such as the absence of possible defeaters\).27 By contrast, Kant’s
+
+presumptive principle does not so much establish a ‘presumptive right’ as a
+
+‘presumptive obligation’ to accept another’s testimony. In a telling comment on the
+
+very definition of what is testimony and what makes someone a testifier28, Kant
+
+remarks:
+
+One must never believe mischief in someone else, rather, if one is to act upon it, one must know
+
+it
+
+\[with certainty\]. The good, even if one has only a logical ground to opine it, one must believe.29
+
+Not only is it logically possible that testimony should convey knowledge, we also have
+
+a presumptive obligation not to distrust others. The mere fact that this is not a perfect
+
+obligation – that is, universally owed to everyone irrespective of context – does not
+
+render it any less fundamental. It does, however, call for a specification of the social
+
+and institutional conditions which circumscribe its applicability.30 As we shall see
+
+shortly, Kant is well aware of this requirement.
+
+Testimonial belief requires an element of faith \(fides historica\), that is, an
+
+exercise of trust. As Kant characterises it, ‘Fides is essentially faithfulness in an
+
