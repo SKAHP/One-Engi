@@ -566,3 +566,87 @@ Kant’s epistemology of testimony differs markedly from other positions in that
 
 balances the recipient’s perspective, which is characterised by the hearer’s desire to
 
+have adequate justification for his testimonial beliefs, with the testifier’s perspective
+
+and his legitimate expectation to be believed. The perhaps most explicit formulation
+
+of a presumptive principle is to be found in the Blomberg Logic, where Kant writes39:
+
+As for what further concerns the credibility and sincerity of witnesses who communicate
+
+experiences they have obtained, everyone is taken to be sincere and upright until the opposite
+
+has
+
+been proved, namely, that he deviates from the truth etc. According to the well-known principle
+
+of
+
+fairness \[Billigkeit\]:
+
+Quilibet prosumitur \[read: praesumitur\] bonus,
+
+Donec probetur contrarium.40
+
+The idea seems to be that, as human beings, we all are in the same epistemic
+
+predicament of sometimes giving and sometimes receiving testimony; hence, if we
+
+desire to be believed by other people – as we all, at times, do – we ought to also
+
+believe the word of others. Of course Kant is not suggesting that we should always
+
+believe everyone: Gullibility is no cure for the ills of incredulity – ‘both are equally
+
+detrimental’.41 But some degree of trust is necessary if our epistemic position is to be
+
+tenable and sustainable. A certain degree of faith \(fides\) in epistemic matters, and in
+
+testimony in particular, is ‘practically-necessary’ in order to extend our reach in the
+
+practical domain.42 To the extent that, as Kant puts it in the Vienna Logic, ‘the
+
+prestige of our cognition is grounded above all on its practical use,’43 this practical
+
+necessity is more than a mere de facto condition of our actual epistemic-cognitive
+
+practices, but instead enables us to pursue our practical and epistemic goals.
+
+The continuity of testimony with experience
+
+It is worthwhile reflecting a little more on the kind of ‘practical necessity’ Kant has in
+
+mind, as it is easy to misinterpret the phrase as merely an argument from the
+
+ineliminability of testimony, which might seem a rather weak endorsement of
+
+testimony as a source of knowledge. This, however, would be misunderstanding
+
+Kant’s position, which is based on the thesis that historical knowledge \(that is,
+
+knowledge based on testimony\) is the form of knowledge ‘most natural to us’44. Kant
+
+partly bases this thesis on the empirical observation that ‘a child already has an
+
+inclination to history and such things are easily impressed upon him’45, but it is also
+
+supported by his view, more significantly, that testimony is wholly continuous with
+
+experience. This continuity is not merely a continuity in content – in the sense that
+
+some of the things of which we have experiential knowledge, we could have learnt
+
+from testimony \(and, likewise, that we can tell others about what we have
+
+experienced first-hand\) – but it is a continuity in kind. In one of his later Reflexionen,
+
+Kant emphasises this epistemic continuity in kind between testimony and direct
+
+experience: ‘Belief on testimony is neither in degree nor in kind in any way to be
+
+distinguished from holding-to-be-true on one’s own experience.’46
+
+One might expect that the issue of ‘immediacy’ – that is, the direct access we
+
+enjoy with respect to our own experiences as opposed to the indirect access with
+
