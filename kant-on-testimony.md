@@ -232,7 +232,7 @@ but not the absolute necessity of the thing.
 
 For experience gives only something contingent.
 
-15. In recent years, a much clearer picture of the development of Kant’s thought has
+1. In recent years, a much clearer picture of the development of Kant’s thought has
 
 emerged and it is now widely acknowledged that there is no clear demarcation between Kant
 
@@ -313,4 +313,88 @@ extrapolate from the mathematics of probability to a logica probabilium, hoping 
 the latter can solve epistemological puzzles, in Kant’s opinion are misguided.19 In his
 
 Anthropology From a Pragmatic Point of View \(1798\), Kant says as much when he
+
+writes about sagacity \(‘a natural talent to judge tentatively, as to where the truth may
+
+well be found’\): ‘The logic of the schools teaches us nothing about this.’ 20
+
+Competence eludes formal definition because it is essentially a skill that varies with
+
+context: ‘It is not in all cases so easy to acquire experiences, and it takes practice.’21
+
+Interestingly, competence on this account is not conceived of as entirely within the
+
+witness but also takes into account the circumstances under which experiences are
+
+made. In order for someone to be a competent witness, what is required is not only
+
+ability but also opportunity.22
+
+In addition to observational skills and favourable circumstances, a third
+
+element is required for a competent witness, namely ‘the adroitness to declare his
+
+experiences so that one can well understand what he means’. This, Kant recognises,
+
+‘is not so easy’. Some people report their experiences with a high degree of accuracy
+
+\(pünktlich\), others are able to sketch ‘but a light silhouette of their experience, and
+
+are unable to give an account of all the circumstances’.23 A general inability to express
+
+oneself clearly and accurately, in this context, is far more detrimental than an
+
+occasional lapse \(such as a wrong empirical judgment, or the use of a wrong term\), as
+
+it introduces a systematic error. As Kant already noted, in a somewhat aphoristic
+
+manner, in his Reflexionen: ‘Error in principles is greater than in their application,
+
+\[...\] violation of grammar worse than vocabularies \(worst in logic\).’24 In the light of
+
+Kant’s emphasis, throughout his philosophy, on the importance of \(law-like\) rules
+
+that should structure, and govern, thought and action, it seems plausible to argue
+
+that these examples indicate that, in the case of competence, too, it is systematic
+
+failures – due to a lack of rule-guidedness – rather than accidental failures that are of
+
+philosophical significance. Whereas accidental failures merely indicate the fallibility
+
+of experience in general, systematic failures pose a more general threat to knowledge
+
+acquisition. Mental illness, for example, casts doubt on the competence of a person
+
+\(AA, VII, 202-220\), but not so much because it necessarily generates false beliefs as
+
+because it shows a lack of rule-guidedness on the part of the speaker. Thus,
+
+competence, when analysed in terms of Tüchtigkeit, is not a statistical point about
+
+someone’s being right more often than wrong, but requires the presence of an
+
+adequate ‘rule-guidedness’ of reasoning and observation. As mentioned earlier,
+
+according to Kant spelling out what these rules are does not fall within the remit of
+
+logic. However, this does not preclude the possibility of further characterisation by
+
+other means, and one such attempt will be discussed in a later section.
+
+Kant, as is evident from this discussion, does not attempt to justify testimony by
+
+accumulating empirical evidence of its reliability. In this, as well as in his rejection of
+
+probabilistic concepts in assessing testimony, he differs from other philosophers,
+
+such as David Hume, who also acknowledged the metaphysically tenuous link
+
+between testimony and reality. It is therefore to be expected that Kant’s defence of
+
+testimony as a source of knowledge, too, will take a rather different form. As a first
+
+and important step, Kant proposes what one might call a symmetry thesis. This is
+
+best expressed in the Vienna Logic:
 
