@@ -1,4 +1,4 @@
-# Seek True Religion!
+## Seek True Religion!
 Donne, John (1573-1631)
 
 ## Though Truth and Falsehood be Near twins,
