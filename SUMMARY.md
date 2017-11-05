@@ -14,6 +14,7 @@
 * [A&P](aandp.md)
 * [Annunciation](annunciation.md)
 * [Kant On Testimony](kant-on-testimony.md)
+* [Oral Hist Vernice Anderson](oral-hist-vernice-anderson.md)
 
 ## Autumn Song
 
