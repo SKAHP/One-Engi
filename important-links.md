@@ -1,2 +1,2 @@
-ERCIM - the European Research Consortium for Informatics and Mathematics
+[ERCIM - the European Research Consortium for Informatics and Mathematics](https://www.ercim.eu)
 
