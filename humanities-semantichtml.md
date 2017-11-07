@@ -1,3 +1,71 @@
+# 
+
+#  TWICKENHAM GARDEN.
+
+# by John Donne
+
+# 
+
+# 
+
+# BLASTED with sighs, and surrounded with tears,
+
+#     Hither I come to seek the spring,
+
+# And at mine eyes, and at mine ears,
+
+#     Receive such balms as else cure every thing.
+
+#     But O ! self-traitor, I do bring
+
+# The spider Love, which transubstantiates all,
+
+# And can convert manna to gall ;
+
+# And that this place may thoroughly be thought
+
+# True paradise, I have the serpent brought.
+
+# 
+
+# 'Twere wholesomer for me that winter did
+
+#     Benight the glory of this place,
+
+# And that a grave frost did forbid
+
+#     These trees to laugh and mock me to my face ;
+
+#     But that I may not this disgrace
+
+# Endure, nor yet leave loving, Love, let me
+
+# Some senseless piece of this place be ;
+
+# Make me a mandrake, so I may grow here,
+
+# Or a stone fountain weeping out my year.
+
+# 
+
+# Hither with crystal phials, lovers, come,
+
+#     And take my tears, which are love's wine,
+
+# And try your mistress' tears at home,
+
+#     For all are false, that taste not just like mine.
+
+#     Alas ! hearts do not in eyes shine,
+
+# Nor can you more judge women's thoughts by tears,
+
+# Than by her shadow what she wears.
+
+# O perverse sex, where none is true but she,
+
+# Who's therefore true, because her truth kills me
+
 # **A Lecture upon the Shadow**
 
 **BY**
@@ -55,6 +123,12 @@
 **Love is a growing, or full constant light,**
 
 **And his first minute, after noon, is night.**
+
+
+
+
+
+
 
 ## ₴εεΚ Γʀυε Rελιϑιɸи!
 
