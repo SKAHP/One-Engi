@@ -56,8 +56,6 @@
 
 **And his first minute, after noon, is night.**
 
-
-
 ## ₴εεΚ Γʀυε Rελιϑιɸи!
 
 Dɸииε, Јɸհи \(1573-1631\)
