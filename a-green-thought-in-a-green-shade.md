@@ -1,10 +1,8 @@
- A GREEN THOUGHT IN A GREEN SHADE
+\#\# A GREEN THOUGHT IN A GREEN SHADE
 
 Fire Testament, by Willard Maas. Alcestis Press, New York.
 
-
-
- Mr. Maas, in working up the simples of his experience to the illusion of total apprehension, employs something like the intellectual machinery of Blake modiied by the influence of Wallace Stevens and his own obsessions, in the medium of a language influenced by Hart Crane, E. E. Cummings and his own verbal predispositions; and the first question to ask about his poetry is, to what degree are the machinery and the language united in inseparable, though distinguishable, warp and woof? The second question is, if they are united, at what expense? If the poems are read through as a whole a small number of words will be seen to recur in positions of qualifying importance. It is these words, as they shift and are shuffled like counters, that compose the machinery of symbolic meaning. As they are particularized in the different poems, and
+Mr. Maas, in working up the simples of his experience to the illusion of total apprehension, employs something like the intellectual machinery of Blake modiied by the influence of Wallace Stevens and his own obsessions, in the medium of a language influenced by Hart Crane, E. E. Cummings and his own verbal predispositions; and the first question to ask about his poetry is, to what degree are the machinery and the language united in inseparable, though distinguishable, warp and woof? The second question is, if they are united, at what expense? If the poems are read through as a whole a small number of words will be seen to recur in positions of qualifying importance. It is these words, as they shift and are shuffled like counters, that compose the machinery of symbolic meaning. As they are particularized in the different poems, and
 
 only so, do they unite the meaning with the poems. These words include various forms of fire and water, trees and leaves, sun and moon, and the colors red, blue, and green
 
@@ -27,8 +25,4 @@ through the reality and richness of language on the repre-
 sentative level
 
 R. P. Blackmur
-
-
-
-			
 
