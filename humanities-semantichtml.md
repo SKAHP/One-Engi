@@ -56,56 +56,6 @@
 
 **And his first minute, after noon, is night.**
 
-
-
-\#\# AUTUMN SONG
-
-\*\*Once I thought earth held all answer,
-
-Held all strength men need live by,
-
-Thought to live by sight of ash trees
-
-Burning copper in the sky;\*\*
-
-Thought the marshwort sign and symbol
-
-Of a great sustaining law-
-
-He who ploughed a field of marshwort
-
-Blind and fit for beetle's claw.
-
-Flower of fungus-graph of wisdom
-
-Angels in a trumpet-pod,
-
-Lichen outweighed love and lover--
-
-Hieroglyphs of God
-
-What are these things,
-
-Now vour silence
-
-\*\*Bricks a wall before my eyes?
-
-What are spikenard, spurge and arum?
-
-What is marshwort now?
-
-Sprigs of grass and shadow spattered
-
-Fit for rake and share and harrow.
-
-Gone is meaning, nothing matters-
-
-Let the blindman plough!
-
-Josephine W. ohnson
-
-
-
 ## ₴εεΚ Γʀυε Rελιϑιɸи!
 
 Dɸииε, Јɸհи \(1573-1631\)
