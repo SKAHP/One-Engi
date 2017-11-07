@@ -1,6 +1,6 @@
 # 
 
-#  TWICKENHAM GARDEN.
+# TWICKENHAM GARDEN.
 
 # by John Donne
 
@@ -10,13 +10,13 @@
 
 # BLASTED with sighs, and surrounded with tears,
 
-#     Hither I come to seek the spring,
+# Hither I come to seek the spring,
 
 # And at mine eyes, and at mine ears,
 
-#     Receive such balms as else cure every thing.
+# Receive such balms as else cure every thing.
 
-#     But O ! self-traitor, I do bring
+# But O ! self-traitor, I do bring
 
 # The spider Love, which transubstantiates all,
 
@@ -30,13 +30,13 @@
 
 # 'Twere wholesomer for me that winter did
 
-#     Benight the glory of this place,
+# Benight the glory of this place,
 
 # And that a grave frost did forbid
 
-#     These trees to laugh and mock me to my face ;
+# These trees to laugh and mock me to my face ;
 
-#     But that I may not this disgrace
+# But that I may not this disgrace
 
 # Endure, nor yet leave loving, Love, let me
 
@@ -50,13 +50,13 @@
 
 # Hither with crystal phials, lovers, come,
 
-#     And take my tears, which are love's wine,
+# And take my tears, which are love's wine,
 
 # And try your mistress' tears at home,
 
-#     For all are false, that taste not just like mine.
+# For all are false, that taste not just like mine.
 
-#     Alas ! hearts do not in eyes shine,
+# Alas ! hearts do not in eyes shine,
 
 # Nor can you more judge women's thoughts by tears,
 
@@ -123,12 +123,6 @@
 **Love is a growing, or full constant light,**
 
 **And his first minute, after noon, is night.**
-
-
-
-
-
-
 
 ## ₴εεΚ Γʀυε Rελιϑιɸи!
 

@@ -2,7 +2,7 @@
 ![](/assets/1481227909330.jpg)
 
 # ◎·η·ε·-ε·η·ģ·ї·η·ε·-♭·◎·υ·η·∂·
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allowfullscreen></iframe>
+<iframe width="315" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allowfullscreen></iframe>
 
 
 
