@@ -4,11 +4,9 @@ Fire Testament, by Willard Maas. Alcestis Press, New York.
 
 Mr. Maas, in working up the simples of his experience to the illusion of total apprehension, employs something like the intellectual machinery of Blake modiied by the influence of Wallace Stevens and his own obsessions, in the medium of a language influenced by Hart Crane, E. E. Cummings and his own verbal predispositions; and the first question to ask about his poetry is, to what degree are the machinery and the language united in inseparable, though distinguishable, warp and woof? The second question is, if they are united, at what expense? If the poems are read through as a whole a small number of words will be seen to recur in positions of qualifying importance. It is these words, as they shift and are shuffled like counters, that compose the machinery of symbolic meaning. As they are particularized in the different poems, and only so, do they unite the meaning with the poems. These words include various forms of fire and water, trees and leaves, sun and moon, and the colors red, blue, and green
 
-Fire is most often employed as an end-word, a word of ecstasy, and sometimes lacks a precise application. Fire is an ultimate word, the symbol of all consummate things, both the consumer and that which is consumed; and Mr. Maas
+**Fire is most often employed as an end-word, a word of ecstasy, and sometimes lacks a precise application. Fire is an ultimate word, the symbol of all consummate things, both the consumer and that which is consumed;** and Mr. Maas may be allowed it as a crowning symbol just so often as he can make it fit. The only trouble with his other principal words is that they are naturally loose as well as common and precise, and when used over-often their looseness over tops their capacity for precision. **This is what happens with the word blue, used by Mr. Maas much as by Wallace Stevens, to represent symbolically the ultimate, the final, the substantial; it comes to seem arbitrary. And this is even more the case with the word green, which appears prominently in nineteen out of the twenty-six poems**; with the increase in symbolic use both the symbolic and the precise senses of the word become attenuated, and we are **treated to a blueprint rather than a building of the meaning intended.**
 
-may be allowed it as a crowning symbol just so often as he can make it fit. The only trouble with his other principal words is that they are naturally loose as well as common and precise, and when used over-often their looseness over tops their capacity for precision. This is what happens with the word bluc, used by Mr. Maas much as by Wallace Stevens, to represent symbolically the ultimate, the final, the substantial; it comes to seem arbitrary. And this is even more the case with the word green, which appears prominently in nineteen out of the twenty-six pocms; with the increase in symbolic use both the symbolic and the precise senses of the word become attenuated, and we are treated to a blueprint rather than a building of the meaning intended.
-
-**The Blueprint is exciting when we remember what it predicts, but it cannot substitute for the meaning itself. An integrating vocabulary so small seems, as a practical matter, good for a small number of poems and not for a large number; at last when the final success depends upon a particular and limited mode of poetry where the words carry a burden of meaning arbitrarily assigned to them.**
+ **The Blueprint is exciting when we remember what it predicts, but it cannot substitute for the meaning itself. An integrating vocabulary so small seems, as a practical matter, good for a small number of poems and not for a large number; at last when the final success depends upon a particular and limited mode of poetry where the words carry a burden of meaning arbitrarily assigned to them.**
 
 # Elegy Xii
 
@@ -95,21 +93,19 @@ How is't I now was there, and now I fell ?”
 
 \[114\]
 
-**that insight terminates. And this is the light, self-illuminating and self-restricting, in which to look at Mr. Maas poetry: looking to see what is there in that reality which, as it exists, every technical device must buttress and sustain, and from which other realities, if ever, must spring. There is, in this poet, a good deal, and as he enlarges his vocabulary **there will be more. The reality sought for is found only through the reality and richness of language on the \*\*representative level\*\*
+**that insight terminates. And this is the light, self-illuminating and self-restricting, in which to look at Mr. Maas poetry: looking to see what is there in that reality which, as it exists, every technical device must buttress and sustain, and from which other realities, if ever, must spring. There is, in this poet, a good deal, and as he enlarges his vocabulary **there will be more. The reality sought for is found only through the reality and richness of language on the representative level.
 
-R. P. Blackmur
+**R. P. Blackmur**
 
 # Eclogue
 
-  
-  
 ALLOPHANES.  
-UNSEASONABLE man, statue of ice,  
+**UNSEASONABLE man, statue of ice,  
 What could to countries solitude entice  
 Thee, in this year's cold and decrepit time ?  
 Nature's instinct draws to the warmer clime  
 Even smaller birds, who by that courage dare  
-In numerous fleets sail through their sea, the air.  
+In numerous fleets sail through their sea, the air.**  
 What delicacy can in fields appear,  
 Whilst Flora herself doth a frieze jerkin wear ?  
 Whilst winds do all the trees and hedges strip  
@@ -142,8 +138,8 @@ Or but like stoves ; for lust and envy get
 Continual, but artificial heat.  
 Here zeal and love grown one all clouds digest,  
 And make our court an everlasting east.  
-And canst thou be from thence ?  
-  
+And canst thou be from thence ?
+
 IDIOS. No, I am there ;  
 As heaven—to men disposed—is everywhere,  
 So are those courts, whose princes animate  
@@ -160,8 +156,8 @@ Is an epitome of God's great book
 Of creatures, and man need no farther look ;  
 So is the country of courts, where sweet peace doth,  
 As their one common soul, give life to both ;  
-And am I then from court ?  
-  
+And am I then from court ?
+
 ALLOPHANES. Dreamer, thou art :  
 Think'st thou, fantastic, that thou hast a part  
 In the Indian fleet, because thou hast  
@@ -198,8 +194,8 @@ Our little Cupid hath sued livery,
 And is no more in his minority ;  
 He is admitted now into that breast  
 Where the king's counsels and his secrets rest.  
-What hast thou lost, O ignorant man ?  
-  
+What hast thou lost, O ignorant man ?
+
 IDIOS. I knew  
 All this, and only therefore I withdrew.  
 To know and feel all this, and not to have  
@@ -213,13 +209,12 @@ Either the court or men's hearts to invade ;
 But since I am dead and buried, I could frame  
 No epitaph, which might advance my fame  
 So much as this poor song, which testifies  
-I did unto that day some sacrifice.  
-  
-  
-I.  
-  
-THE TIME OF THE MARRIAGE.  
-  
+I did unto that day some sacrifice.
+
+I.
+
+THE TIME OF THE MARRIAGE.
+
 Thou art reprieved, old year, thou shalt not die ;  
 Though thou upon thy death-bed lie,  
 And should'st within five days expire,  
@@ -231,13 +226,12 @@ And open wide their easy liquid jaw
 To all our ships, could a Promethean art  
 Either unto the northern pole impart  
 The fire of these inflaming eyes, or of this loving  
-heart.  
-  
-  
-II.  
-  
-EQUALITY OF PERSONS.  
-  
+heart.
+
+II.
+
+EQUALITY OF PERSONS.
+
 But undiscerning Muse, which heart, which eyes,  
 In this new couple, dost thou prize,  
 When his eye as inflaming is  
@@ -249,13 +243,12 @@ Which scorns unjust opinion ; then the bride
 Becomes a man. Should chance or envy's art  
 Divide these two, whom nature scarce did part,  
 Since both have the inflaming eye, and both the  
-loving heart?  
-  
-  
-III.  
-  
-RAISING OF THE BRIDEGROOM.  
-  
+loving heart?
+
+III.
+
+RAISING OF THE BRIDEGROOM.
+
 Though it be some divorce to think of you  
 Single, so much one are you two,  
 Let me here contemplate thee,  
@@ -266,13 +259,12 @@ How, having laid down in thy Sovereign's breast
 All businesses, from thence to reinvest  
 Them when these triumphs cease, thou forward art  
 To show to her, who doth the like impart,  
-The fire of thy inflaming eyes, and of thy loving heart.  
-  
-  
-IV.  
-  
-RAISING OF THE BRIDE.  
-  
+The fire of thy inflaming eyes, and of thy loving heart.
+
+IV.
+
+RAISING OF THE BRIDE.
+
 But now to thee, fair bride, it is some wrong,  
 To think thou wert in bed so long.  
 Since soon thou liest down first, 'tis fit  
@@ -284,13 +276,12 @@ Wert meant for Phoebus, wouldst be Phaëton.
 For our ease, give thine eyes th' unusual part  
 Of joy, a tear ; so quench'd, thou mayst impart,  
 To us that come, thy inflaming eyes ; to him, thy  
-loving heart.  
-  
-  
-V.  
-  
-HER APPARELLING.  
-  
+loving heart.
+
+V.
+
+HER APPARELLING.
+
 Thus thou descend'st to our infirmity,  
 Who can the sun in water see.  
 So dost thou, when in silk and gold  
@@ -302,13 +293,12 @@ Yet stars are not so pure as their spheres are ;
 And though thou stoop, to appear to us, in part,  
 Still in that picture thou entirely art,  
 Which thy inflaming eyes have made within his  
-loving heart.  
-  
-  
-VI.  
-  
-GOING TO THE CHAPEL.  
-  
+loving heart.
+
+VI.
+
+GOING TO THE CHAPEL.
+
 Now from your easts you issue forth, and we,  
 As men, which through a cypress see  
 The rising sun, do think it two ;  
@@ -320,13 +310,12 @@ And now the militant doth strive no more.
 Then, reverend priest, who God's Recorder art,  
 Do, from his dictates, to these two impart  
 All blessings which are seen, or thought, by angel's  
-eye or heart.  
-  
-  
-VII.  
-  
-THE BENEDICTION.  
-  
+eye or heart.
+
+VII.
+
+THE BENEDICTION.
+
 Blest pair of swans, O may you interbring  
 Daily new joys, and never sing ;  
 Live, till all grounds of wishes fail,  
@@ -338,13 +327,12 @@ Heirs from this king, to take thanks, you, to give.
 Nature and grace do all, and nothing art ;  
 May never age or error overthwart  
 With any west these radiant eyes, with any north  
-this heart.  
-  
-  
-VIII.  
-  
-FEASTS AND REVELS.  
-  
+this heart.
+
+VIII.
+
+FEASTS AND REVELS.
+
 But you are over-blest. Plenty this day  
 Injures ; it causeth time to stay ;  
 The tables groan, as though this feast  
@@ -355,13 +343,12 @@ For every part to dance and revel goes,
 They tread the air, and fall not where they rose.  
 Though six hours since the sun to bed did part,  
 The masks and banquets will not yet impart  
-A sunset to these weary eyes, a centre to this heart.  
-  
-  
-IX.  
-  
-THE BRIDE'S GOING TO BED.  
-  
+A sunset to these weary eyes, a centre to this heart.
+
+IX.
+
+THE BRIDE'S GOING TO BED.
+
 What mean'st thou, bride, this company to keep ?  
 To sit up, till thou fain wouldst sleep ?  
 Thou mayst not, when thou'rt laid, do so ;  
@@ -373,13 +360,12 @@ Rise in one point, they do not set so too.
 Therefore thou mayst, fair bride, to bed depart ;  
 Thou art not gone, being gone ; where'er thou art,  
 Thou leavest in him thy watchful eyes, in him thy  
-loving heart.  
-  
-  
-X.  
-  
-THE BRIDEGROOM'S COMING.  
-  
+loving heart.
+
+X.
+
+THE BRIDEGROOM'S COMING.
+
 As he that sees a star fall, runs apace,  
 And finds a jelly in the place,  
 So doth the bridegroom haste as much,  
@@ -391,13 +377,12 @@ These clothes, their bodies, never yet had seen.
 Therefore at first she modestly might start,  
 But must forthwith surrender every part,  
 As freely as each to each before gave either eye or  
-heart.  
-  
-  
-XI.  
-  
-THE GOOD-NIGHT.  
-  
+heart.
+
+XI.
+
+THE GOOD-NIGHT.
+
 Now, as in Tullia's tomb, one lamp burnt clear,  
 Unchanged for fifteen hundred year,  
 May these love-lamps we here enshrine,  
@@ -408,11 +393,11 @@ But ends in ashes ; which these cannot do,
 For none of these is fuel, but fire too.  
 This is joy's bonfire, then, where love's strong arts  
 Make of so noble individual parts  
-One fire of four inflaming eyes, and of two loving hearts.  
-  
+One fire of four inflaming eyes, and of two loving hearts.
+
 IDIOS. As I have brought this song, that I may do  
-A perfect sacrifice, I'll burn it too.  
-  
+A perfect sacrifice, I'll burn it too.
+
 ALLOPHANES. No, sir. This paper I have justly got,  
 For, in burnt incense, the perfume is not  
 His only that presents it, but of all ;  
