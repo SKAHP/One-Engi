@@ -5,12 +5,6 @@
 <iframe width="315" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="615" height="315" src="https://www.youtube.com/watch?list=PLNO8uzj9h7ptmwL92Gjw1HCGJQ45DwSDz&v=uuMUQe5L130&app=desktop" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
 # ᴀᴜᴛᴜᴍɴ sᴏɴɢ
 
 ᴏɴᴄᴇ ɪ ᴛʜᴏᴜɢʜᴛ ᴇᴀʀᴛʜ ʜᴇʟᴅ ᴀʟʟ ᴀɴsᴡᴇʀ,
