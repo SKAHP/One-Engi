@@ -1,4 +1,4 @@
-# A Nocturnal Upon St. Lucy's Day, 
+# A Nocturnal Upon St. Lucy's Day,
 
 # Being The Shortest Day
 
@@ -10,8 +10,8 @@ The world's whole sap is sunk;
 The general balm th' hydroptic earth hath drunk,  
 Whither, as to the bed's feet, life is shrunk,  
 Dead and interr'd; yet all these seem to laugh,  
-Compar'd with me, who am their epitaph.  
-  
+Compar'd with me, who am their epitaph.
+
 Study me then, you who shall lovers be  
 At the next world, that is, at the next spring;  
 For I am every dead thing,  
@@ -20,8 +20,8 @@ For his art did express
 A quintessence even from nothingness,  
 From dull privations, and lean emptiness;  
 He ruin'd me, and I am re-begot  
-Of absence, darkness, death: things which are not.  
-  
+Of absence, darkness, death: things which are not.
+
 All others, from all things, draw all that's good,  
 Life, soul, form, spirit, whence they being have;  
 I, by Love's limbec, am the grave  
@@ -30,8 +30,8 @@ Have we two wept, and so
 Drown'd the whole world, us two; oft did we grow  
 To be two chaoses, when we did show  
 Care to aught else; and often absences  
-Withdrew our souls, and made us carcasses.  
-  
+Withdrew our souls, and made us carcasses.
+
 But I am by her death \(which word wrongs her\)  
 Of the first nothing the elixir grown;  
 Were I a man, that I were one  
@@ -40,8 +40,8 @@ If I were any beast,
 Some ends, some means; yea plants, yea stones detest,  
 And love; all, all some properties invest;  
 If I an ordinary nothing were,  
-As shadow, a light and body must be here.  
-  
+As shadow, a light and body must be here.
+
 But I am none; nor will my sun renew.  
 You lovers, for whose sake the lesser sun  
 At this time to the Goat is run  
@@ -55,8 +55,6 @@ Both the year's, and the day's deep midnight is.
 # 
 
 # TWICKENHAM GARDEN.
-
-
 
 BLASTED with sighs, and surrounded with tears,
 
@@ -76,8 +74,6 @@ And that this place may thoroughly be thought
 
 True paradise, I have the serpent brought.
 
-
-
 'Twere wholesomer for me that winter did
 
 Benight the glory of this place,
@@ -95,8 +91,6 @@ Some senseless piece of this place be ;
 Make me a mandrake, so I may grow here,
 
 Or a stone fountain weeping out my year.
-
-
 
 Hither with crystal phials, lovers, come,
 
@@ -174,11 +168,7 @@ Who's therefore true, because her truth kills me
 
 **And his first minute, after noon, is night.**
 
-## ₴εεΚ Γʀυε Rελιϑιɸи!
-
-Dɸииε, Јɸհи \(1573-1631\)
-
-### Γհɸυϑհ Γʀυτհ αиδ Φαλσεհɸɸδ βε Ŋεαʀ τwιиσ, ψετ Γʀυτհ α λιττλε ελδεʀ ισ. Βε βυσψ τɸ σεεΚ հεʀ; βελιεиε ʍε τհισ: Ηε'σ иɸτ ɸφ иɸиε, иɸʀ wɸʀστ, τհατ σεεΚσ τհε βεστ. Γɸ αδɸʀε, ɸʀ σcɸʀи αи ιʍαϑε, ɸʀ πʀɸτεστ, Μαψ αλλ βε βαδ. Dɸυβτ wισελψ; ιи στʀαиϑε wαψ Γɸ σταиδ ιиθυιʀιиϑ ʀιϑհτ ισ иɸτ τɸ στʀαψ; Γɸ σλεεπ ɸʀ ʀυи wʀɸиϑ ισ. Ѳи α հυϑε հιλλ, Сʀαϑϑ�δ αиδ στεεπ, Γʀυτհ σταиδσ, αиδ հε τհατ wιλλ Rεαcհ հεʀ, αβɸυτ ʍυστ αиδ αβɸυτ ʍυστ ϑɸ, Δиδ wհατ τհε հιλλ'σ συδδεииεσσ ʀεσιστσ, wιи σɸ. Ψετ στʀιиε σɸ, τհατ βεφɸʀε αϑε, δεατհ'σ τwιλιϑհτ, Γհψ σɸυλ ʀεστ, φɸʀ иɸиε cαи wɸʀΚ ιи τհατ иιϑհτ. Γɸ wιλλ ιʍπλιεσ δελαψ; τհεʀεφɸʀε иɸw δɸ. Ηαʀδ δεεδσ τհατ βɸδψ'σ παιиσ; հαʀδ Κиɸwλεδϑε τɸɸ, Γհε ʍιиδ'σ εиεαиɸυʀσ ʀεαcհ; αиδ ʍψστεʀιεσ Δʀε λιΚε τհε συи, δαzzλιиϑ, ψετ πλαιи τɸ αλλ εψεσ. ₭εεπ τհε τʀυτհ wհιcհ τհɸυ հαστ φɸυиδ; ʍεи δɸ иɸτ σταиδ Iи σɸ ιλλ cασε հεʀε τհατ ₲ɸδ հατհ wιτհ հισ հαиδ ₴ιϑиεδ Κιиϑσ βλαиΚ cհαʀτεʀσ τɸ Κιλλ wհɸʍ τհεψ հατε, Ŋɸʀ αʀε τհεψ иιcαʀσ, βυτ հαиϑʍεи τɸ Φατε. Φɸɸλ αиδ wʀετcհ, wιλτ τհɸυ λετ τհψ σɸυλ βε τιεδ Γɸ ʍαи'σ λαwσ, βψ wհιcհ σհε σհαλλ иɸτ βε τʀιεδ Δτ τհε λαστ δαψ? wιλλ ιτ τհεи βɸɸτ τհεε Γɸ σαψ α Πհιλιπ ɸʀ α ₲ʀεϑɸʀψ, Δ Ηαʀʀψ, ɸʀ α Μαʀτιи ταυϑհτ τհεε τհισ? Iσ иɸτ τհισ εϰcυσε φɸʀ ʍεʀε cɸиτʀαʀιεσ Ξθυαλλψ στʀɸиϑ? Сαииɸτ βɸτհ σιδεσ σαψ σɸ? Γհατ τհɸυ ʍαψστ ʀιϑհτλψ ɸβεψ Πɸwεʀ, հεʀ βɸυиδσ Κиɸw; Γհɸσε πασσεδ, հεʀ иατυʀε αиδ иαʍε'σ cհαиϑεδ; τɸ βε Γհεи հυʍβλε τɸ հεʀ ισ ιδɸλατʀψ. Δσ στʀεαʍσ αʀε Πɸwεʀ ισ; τհɸσε βλεστ φλɸwεʀσ τհατ δwελλ Δτ τհε ʀɸυϑհ στʀεαʍ'σ cαλʍ հεαδ τհʀιиε αиδ πʀɸиε wελλ, Βυτ հαиιиϑ λεφτ τհειʀ ʀɸɸτσ αиδ τհεʍσελиεσ ϑιиεи Γɸ τհε στʀεαʍ'σ τψʀαииɸυσ ʀαϑε, αλασ, αʀε δʀιиεи Γհʀɸυϑհ ʍιλλσ αиδ ʀɸcΚσ αиδ wɸɸδσ, αиδ ατ λαστ αλʍɸστ Сɸиσυʍεδ ιи ϑɸιиϑ, ιи τհε σεα αʀε λɸστ. ₴ɸ πεʀισհ σɸυλσ wհιcհ ʍɸʀε cհɸɸσε ʍεи'σ υиյυστ Πɸwεʀ φʀɸʍ ₲ɸδ cλαιʍεδ τհαи ₲ɸδ հιʍσελφ τɸ τʀυστ.
+## 
 
 
 
