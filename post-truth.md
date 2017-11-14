@@ -2,7 +2,7 @@
 
 #### Monday, October 02, 2017
 
-**In 2016, the Oxford Dictionaries [declared that their Word Of The Year was to be "post-truth"******(https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016), which they defined as:
+**In 2016, the Oxford Dictionaries \[declared that their Word Of The Year was to be "post-truth"**_**\*\***_\([https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016](https://en.oxforddictionaries.com/word-of-the-year/word-of-the-year-2016)\), which they defined as:
 
 > **"relating to or denoting circumstances in which objective facts are less influential in shaping public opinion than appeals to emotion and personal belief"**
 
@@ -51,12 +51,6 @@ _A fourth issue in_ the post-truth problem space is information-literacy. For a 
 
 | David Clarke is a Fellow of the Royal Society of Arts, London, and an Associate of St. George’s House, Windsor. He is cofounder and CEO of the Synaptica®group of companies, providers of enterprise software solutions for knowledge organization and discovery. He served on the authoring committee of the 2005 version of the US national standard for controlled vocabularies, ANSI/NISO Z39.19. David leads research and development at Synaptica, including software solutions for taxonomy and ontology management, text analytics and auto-categorization, image annotation and indexing, and Linked Data management. He is involved in educational outreach programs including LD4PE, the Linked Data for Professional Education initiative of DCMI. Synaptica software solutions have attracted numerous international awards including: Knowledge Management World magazine’s 100 Companies that Matter in KM and Trend Setting Product of the Year \(multiple awards between 2011 and 2017\). In 2016 Clarke was awarded the Knowledge Management Leadership Award by the Global Knowledge Management Congress. |
 | :--- |
-
-
-  
-
-
-  
 
 
 ---
