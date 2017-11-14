@@ -355,7 +355,7 @@ HOLEMAN: We were in the Muehlebach. None of us slept a wink that night, because 
 
 JOHNSON: To join the winner?
 
-HOLEMAN: Yes. Barney says, "Mr. Ross, I'm getting all 
+HOLEMAN: Yes. Barney says, "Mr. Ross, I'm getting all
 
 23\]
 
@@ -651,5 +651,5 @@ JOHNSON: Out where?
 
 HOLEMAN: Out to the Far East. I'm going to start in Japan and then I'm going to go down to Hong Kong and Singapore, and Malaysia, all around. Homer Bigart of theHerald-Tribunestaff was assigned to cover the war. The two of us left here, I think, on the first of July.
 
-7
+
 
