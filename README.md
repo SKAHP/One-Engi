@@ -75,25 +75,3 @@ were supposed to test. Even when the
   
 
 
-```
-
-```
-
-
-
-```
-
-```
-
-
-
-$$
-
-$$
-
-
-
-```
-
-```
-
