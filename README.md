@@ -1,3 +1,4 @@
+<iframe width="315" height="315" src="https://www.youtube.com/embed/ABNc6G7P6TA?controls=0" frameborder="0" allowfullscreen></iframe>
 
 ![](/assets/1481227909330.jpg)
 
@@ -73,26 +74,4 @@ were supposed to test. Even when the
   And after that, disagreements, though reduced, were still present, and sometimes sufficient to have a bearing on interpretation. Observations, that is including those designed as tests, always left room for disagreement about whether some particular law or theory should be accepted. That space for disagreement was often exploite screpancies that toan outsider looked trivial were frequently matters of deep import to those on whom the research impinged.
   
 
-
-```
-
-```
-
-
-
-```
-
-```
-
-
-
-$$
-
-$$
-
-
-
-```
-
-```
 
