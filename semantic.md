@@ -154,4 +154,4 @@ _This material revises and expands upon Linda Shopes, “Negotiating Institution
     .
 
 [top of page](http://www.oralhistory.org/about/do-oral-history/oral-history-and-irb-review/#pagestart)
-
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.com/books?id=GHWQNQmmt5YC&lpg=PT6&ots=sRsZAAKGT8&lr&pg=PT18&output=embed" width=500 height=500></iframe>
