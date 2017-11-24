@@ -1,2 +1,2 @@
-google1430af61eee172c5.html
+google-site-verification: google1430af61eee172c5.html
 
