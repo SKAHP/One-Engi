@@ -42,7 +42,7 @@ A self-driving car demonstrates the problems we’re facing. To be self-driving,
 **EBOOK**
 
 **What Is Artificial Intelligence?**  
-By _Mike LoukidesBen Lorica_ Shop now   
+By _Mike LoukidesBen Lorica_ Shop now  
 While approaches like neural networks were originally developed to mimic the human brain’s processes, many AI initiatives have given up on the notion of imitating a biological brain. We don’t know how brains work; neural networks are computationally useful, but they’re not imitating human thought. **In Artificial Intelligence: A Modern Approach, Peter Norvig and Stuart Russell write that “The quest for ‘artificial flight’** succeeded when the Wright brothers and others stopped imitating birds and started … learning about aerodynamics.” Similarly, to make progress, _AI need not focus on imitating the brain’s biological processes,_ and **instead try to understand the problems that the brain solves.** It’s a **safe bet** that humans use any number of techniques to learn, regardless of what may be happening on the biological level. The same will probably be true of a general artificial intelligence: **it will use pattern matching** \(like AlphaGo\), it will use **rule-based systems** \*\(like Watson\), it will use exhaustive search trees \(like Deep Blue\). None of these techniques map directly onto human intelligence. What humans appear to do better than any computer is to build models of their world, and act on those models.
 
 The next step past general intelligence is super-intelligence or hyper-intelligence. It’s not clear how to distinguish super-intelligence from general intelligence. **Would we expect a super-intelligence system to possess qualities like creativity and initiative?** Given that we have trouble understanding human creativity, it’s hard to think of machine creativity as a useful concept. Go experts described some of AlphaGo’s moves as “creative”; however, they came out of exactly the same processes and patterns as all the other moves, not from looking at the game in a different way. Repeated application of the same algorithms can produce results that humans find surprising or unexpected, but merely being surprising isn’t what we call **“creativity.”**
@@ -149,7 +149,7 @@ Will we ever be able to point to something and say “Yes, that’s artificial i
 
 This is the full report "What is Artificial Intelligence?," by Mike Loukides and Ben Lorica. A downloadable edition is also available.
 
-\#\# 3 **Appreciative Inquiry** 
+\#\# 3 **Appreciative Inquiry**
 
 is an approach that believes, improvement is more engaging when the focus is made on the strengths rather than the weaknesses. People tend to respond to positive statements but react to negative statements that concern them. Children are more sensitive to their self-worth and thrive on what makes them feel good, what makes them feel accepted, included and recognized. AI is a powerful tool that can be used in the field of Education to enable children discover what is good about them and dream of what they can do with this realization. Children of today are very sensitive and make decisions in haste which sometimes costs them their lives. In such a situation, AI plays a very vital role.
 
