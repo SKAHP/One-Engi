@@ -24,25 +24,15 @@
 
 ###### **based on experience and knowledge based on testimony. Rejecting**
 
-###### **testimony as a**
+###### **testimony as a fundamental source of knowledge merely on the basis that no**
 
-###### **fundamental source of knowledge merely on the basis that no**
+###### **theoretically necessar. ground for its truth can be given, would, as Kant puts it, indicate ‘a**
 
-###### **theoretically necessary**
+###### **lack of moral interest’. Such ‘incredulity’ would be a form of ‘logical egoism’: It**
 
-###### **ground for its truth can be given, would, as Kant puts it, indicate ‘a**
+###### **demonstrates an unwillingness or inability to think oneself in the place of others, yet this**
 
-###### **lack of moral**
-
-###### **interest’. Such ‘incredulity’ would be a form of ‘logical egoism’: It**
-
-###### **demonstrates an**
-
-###### **unwillingness or inability to think oneself in the place of others, yet this**
-
-###### **we must do if**
-
-###### **we are to trust our own judgments. While Kant strongly endorses**
+###### **we must do if we are to trust our own judgments. While Kant strongly endorses**
 
 ###### **testimony as a source**
 
@@ -50,83 +40,67 @@
 
 ###### **restriction:**
 
-###### **‘Propositions of reason’ \(Vernunftwahrheiten\), such as universal moral**
+'**Propositions of reason’ \(Vernunftwahrheiten\), such as universal moral**
 
-###### **principles, may**
+###### **principles, may not be adopted on the basis of testimony. I argue that this distinction,**
 
-###### **not be adopted on the basis of testimony. I argue that this distinction,**
+###### **between testimonial knowledge of empirical matters of fact and individual**
 
-###### **between**
+###### **knowledge of propositions of reason, is an important element of Kant’s epistemology**
 
-###### **testimonial knowledge of empirical matters of fact and individual**
+###### **of testimony, as it explains how his strong endorsement of testimony as a source of**
 
-###### **knowledge of**
+###### **knowledge can be squared with his equally strong demand for intellectual autonomy.**
 
-###### **propositions of reason, is an important element of Kant’s epistemology**
+###### **Finally, I comment on the overall implications of this account for Kant’s discussion,**
 
-###### **of testimony, as**
+###### **elsewhere in his work, of the public nature of communication. **
 
-###### **it explains how his strong endorsement of testimony as a source of**
 
-###### **knowledge can be**
 
-###### **squared with his equally strong demand for intellectual autonomy.**
+**Introduction** 
 
-###### **Finally, I comment**
 
-###### **on the overall implications of this account for Kant’s discussion,**
 
-###### **elsewhere in his work,**
-
-###### **of the public nature of communication. **
-
-Introduction
-
-Immanuel Kant may seem an unlikely candidate to recruit for the cause of social
+**Immanuel Kant** may seem an unlikely candidate to recruit for the cause of social
 
 epistemology, and for the epistemology of testimony in particular. It seems fair to say
 
 that, second perhaps only to Descartes, Kant has come to be seen as the prototypical example
 
-of a philosopher in the ‘individualist’ tradition – that is, a tradition according to which ‘testimony
+of a philosopher in the **‘individualist’** tradition – that is, a tradition according to which 
 
-has little or no epistemic importance’
+**‘testimony has little or no epistemic importance’**
 
 Thus, Anthony Coady, in his seminal and influential monograph Testimony: A philosophical
 
-study \(1992\), makes no substantive reference to Kant, and even those contemporary
+study \(1992\), **makes no substantive reference to Kant**, and even those contemporary
 
-philosophers with a more explicit agenda of social epistemology frequently cast Kant
+philosophers with a more explicit agenda of social epistemology 
 
-in the exemplary role of individualist philosopher as far as testimony is concerned.
+**frequently cast Kant in the exemplary role of individualist philosopher as far as testimony is concerned.**
 
-3 Frederick Schmitt, for example, writes that ‘the way sociality enters’ into Kant’s
+Frederick Schmitt, for example, writes that ‘the way sociality enters’ into Kant’s
 
 philosophy is such that ‘sideb is no reliance on testimony’ \(Schmitt 1987: 47\).
 
-In the present paper, I argue that such views do not adequately reflect Kant’s position
+**In the present paper, I argue that such views do not adequately reflect Kant’s position**
 
-regarding testimony. What is overlooked is that Kant does, in fact, have a well-developed
+**regarding testimony.**
 
-epistemology of testimony, which features most prominently in his. lectures on logic and which
+   What is overlooked is that Kant does, in fact, have a well-developed epistemology of 
 
-gains further support from remarks he makes about testimony in his other writings. Beyond
+testimony, which features most prominently in his. lectures on logic and which
 
-acknowledging the ineliminability of testimony and the fact that testimony can, and frequently
+gains further support from remarks he makes about testimony in his other writings.
 
-does, produce knowledge, Kant argues for a continuity between testimony and experience.
+ 
 
-Regarding its epistemic characteristics, testimonial knowledge is, Kant argues, ‘neither in
+Beyond acknowledging the ineliminability of testimony and the fact that testimony can, and 
 
-degree nor in kind in any way to be distinguished’ from knowledge based on one’s own
+frequently does, produce knowledge, Kant argues for a continuity between testimony and experience. Regarding its epistemic characteristics, testimonial knowledge is, Kant argues, ‘neither in degree nor in kind in any way to be distinguished’ from knowledge based on one’s own experience.4 This symmetry thesis, together with the additional argument that ‘incredulity’
 
-experience.4 This symmetry thesis, together with the additional argument that ‘incredulity’
-
-regarding testimony shows ‘lack of moral interest’ establishes a presumptive principle regarding
-
-the acceptance of testimony: Testimony is to be believed, unless we know that certain defeating
-
-conditions obtain.
+regarding testimony shows ‘lack of moral interest’ establishes a presumptive principle regarding the acceptance of testimony: Testimony is to be believed, unless we know that certain defeating conditions obtain.
 
 The mere possibility of failure of testimony, whether due to lying or mere error, does not suffice
 
@@ -144,11 +118,9 @@ say a little more about where in Kant’s work his epistemology of testimony is 
 
 Kant’s epistemology of testimony Unlike, for example, Hume, whose influential text
 
-‘On Miracles’
+**‘On Miracles**’
 
-6 is the standard
-
-historical point for many contemporary papers in the epistemology of
+6 is the standard historical point for many contemporary papers in the epistemology of
 
 testimony, Kant never published a fully developed, self-contained text on the subject. His
 
@@ -160,19 +132,11 @@ is to be found in his lectures on logic. These lectures, over a period of forty 
 
 formed part of the core of Kant’s teaching duties at Königsberg.
 
-7 Throughout, the lectures were based on Georg Friedrich Meier’s Vernunftlehre \(1752\), and in
+ Throughout, the lectures were based on Georg Friedrich Meier’s Vernunftlehre \(1752\), and in
 
 particular on a shorter extract, the Auszug aus der Vernunftlehre, which was published the
 
-same year. From the testimony of his students
-
-8, it is known that Kant lectured directly from his heavily annotated copy of
-
-the Auszug. Kant’s notes, together with the text of Meier’s Auszug, have been made
-
-available as Volume XVI of the Academy edition, and these Reflexionen will function
-
-as an important source of information in the following pages. Fortunately, there are
+same year. From the testimony of his students, it is known that Kant lectured directly from his heavily annotated copy of the Auszug. Kant’s notes, together with the text of Meier’s Auszug, have been made available as Volume XVI of the Academy edition, and these Reflexionen will function as an important source of information in the following pages. Fortunately, there are
 
 also a number of lecture notes by Kant’s students, of which several sets have been
 
@@ -186,13 +150,7 @@ his logic as a ‘manual for lectures’. Though published in
 
 works, the accuracy of the Jäsche Logic is hotly contested.10 Given that more direct
 
-accounts of Kant’s logic lectures have recently become available11, it will therefore not be relied
-
-upon in the present paper. Despite the heavy reliance on Meier’s logic, Kant’s aim was never
-
-purely
-
-didactical or exegetical.
+accounts of Kant’s logic lectures have recently become available11, it will therefore not be relied upon in the present paper. Despite the heavy reliance on Meier’s logic, Kant’s aim was never purely didactical or exegetical.
 
 On the contrary: In an announcement for the winter semester
 
@@ -202,15 +160,15 @@ occasion, during the critique of reason, to also look at the critique of taste�
 
 reflect on ‘the practical and healthy understanding’.
 
-12 Elsewhere, Kant confirms that
+ Elsewhere, Kant confirms that
 
-in his lectures, he ‘aimed at not merely commenting on the author \[...\] but at
+in his lectures**, he ‘aimed at not merely commenting on the author \[...\] but at**
 
-assessing, weighing and expanding \[his argument\], and at bringing it together under principles
+**assessing, weighing and expanding \[his argument\], and at bringing it together under principles**
 
-that to me seemed better.
+**that to me seemed better.**
 
-’13 Also, Kant did not shy away from modifying the material he presented or correcting the
+ Also, **Kant did not shy away from modifying the material** he presented or correcting the
 
 author where he saw it fit. For example,
 
@@ -222,31 +180,29 @@ Logic, argues:
 
 Our author \[=Meier\] relates belief \[=fides\] merely to testimony
 
-.14 We distinguish, however, between believing something and believing someone. We can
+ **We distinguish, however, between believing something and believing someone. We can**
 
-believe something without someone’s having said it to us. We can believe someone if we have
+**believe something without someone’s having said it to us. We can believe someone if we have**
 
-accepted something on his testimony. Proofs from experience may well show that the thing is,
+**accepted something on his testimony. Proofs from experience may well show that the thing is,**
 
-but not the absolute necessity of the thing.
+**but not the absolute necessity of the thing. For experience gives only something contingent**
 
-For experience gives only something contingent.
-
-1. In recent years, a much clearer picture of the development of Kant’s thought has
+In recent years, a much clearer picture of the development of Kant’s thought has
 
 emerged and it is now widely acknowledged that there is no clear demarcation between Kant
 
 ‘the teacher’ and Kant ‘the writer-philosopher’, and that any account of Kant’s philosophical
 
-development will profit from a fine-grained analysis that goes
+development will profit from a fine-grained analysis that goes beyond the traditional
 
-beyond the traditional differentiation between a critical and pre-critical phase.16 This
+differentiation between a critical and pre-critical phase. This is true in particular of Kant’s 
 
-is true in particular of Kant’s lectures on logic which, it has been argued, anticipate a
+lectures on logic which, it has been argued, anticipate a number of moves and strategies that 
 
-number of moves and strategies that later feature prominently in the Critiques.17 As
+later feature prominently in the Critiques. 
 
-Giorgio Tonelli argues, quite generally, ‘logic was never dissociated from the
+As **Giorgio Tonelli **argues, quite generally, ‘logic was never dissociated from the
 
 methodological consideration of the substance of thought, i.e. from subjects which we
 
@@ -262,85 +218,91 @@ substantive place in his philosophy and cannot be divorced from his thinking abo
 
 knowledge, autonomy and communication.
 
-Taking testimony seriously
+**Taking testimony seriously**
 
 The fundamental worry about testimony, which Kant, as the quote in the previous
 
 section suggests, was well aware of, concerns the fact that the relation between
 
-testimony and truth is at best contingent. The mere act of testifying bears no
+**testimony and truth is at best contingent**. The mere act of testifying bears no
 
 necessary relation to the truth of the matter in question. On Kant’s account this is
 
-true a fortiori, since experience quite generally ‘gives only something contingent’;
+**true a fortiori**, since experience quite generally **‘gives only something contingent’**;
 
 hence, the same must be true of testimony, which, after all, purports to communicate
 
-knowledge based on others’ experiences. Beyond the general fallibility of all empirical
+**knowledge based on other's experiences.** Beyond the general fallibility of all empirical
 
 knowledge, however, there are special problems regarding testimony as a source of
 
-knowledge, mainly due to the fact that testimony crucially involves other epistemic
+knowledge, mainly due to the fact that 
 
-agents. This leads to two distinct possibilities of how testimony can systematically fail
+**testimony crucially involves other epistemic**
 
-to generate knowledge: namely, when the speaker is incompetent or insincere. It will
+**agents. **
 
-therefore be of interest to see what Kant has to say about competence and sincerity as
+This leads to two distinct possibilities of how testimony can systematically fail
 
-prerequisites for a good witness.
+to generate knowledge: **namely, when the speaker is incompetent or insincere**. It will
+
+therefore be of** interest to see what Kant has to say about competence and sincerity as**
+
+**prerequisites for a good witness**.
 
 Kant raises the topic of competence only in very general terms and mainly
 
-follows Meier’s discussion of ‘Tüchtigkeit’ \(dexteritas\), who defined a competent
+follows Meier’s discussion of **‘Tüchtigkeit’ \(dexteritas\)**, who defined a 
 
-witness as someone who possesses ‘sufficient powers to not only acquire the right
+competent witness as someone who possesses ‘**sufficient powers to not only acquire the **
 
-experience but also to designate it in the right way’ \(Auszug, § 207\).18 In particular,
+**right experience but also to designate it in the right way’\(**Auszug, § 207\).In particular,
 
 there is no further attempt to define competence in terms of reliability, for example
 
-along probabilistic lines. Kant is notoriously sceptical about the prospects of a logic of
+along probabilistic lines**. Kant is notoriously sceptical about the prospects of a logic of**
 
-probability \(see Cataldi Madonna 1992: 35\); where we cannot have certainty – as in
+**probability \(**see Cataldi Madonna 1992: 35\); where we cannot have certainty – as in
 
 cases of testimony where the competence of the witness may be in doubt – we can
 
-only judge on a case by case basis. Those scholars in the Leibniz-Wolff tradition, who
+only judge on a case by case basis. **Those scholars in the Leibniz-Wolff tradition, who**
 
-extrapolate from the mathematics of probability to a logica probabilium, hoping that
+**extrapolate from the mathematics of probability to a logica probabilium**, hoping that
 
-the latter can solve epistemological puzzles, in Kant’s opinion are misguided.19 In his
+the latter** can solve epistemological puzzles**, in Kant’s opinion are misguided.
 
-Anthropology From a Pragmatic Point of View \(1798\), Kant says as much when he
+ In his _**Anthropology From a Pragmatic Point of View**_ \(1798\), Kant says as much when he
 
-writes about sagacity \(‘a natural talent to judge tentatively, as to where the truth may
+writes about **sagacity \(‘a natural talent to judge tentatively, as to where the truth may**
 
-well be found’\): ‘The logic of the schools teaches us nothing about this.’ 20
+**well be found’\)**_**: ‘The logic of the schools teaches us nothing about this**_.’ 
 
-Competence eludes formal definition because it is essentially a skill that varies with
+_Competence eludes formal definition because it is essentially a skill that varies with_
 
-context: ‘It is not in all cases so easy to acquire experiences, and it takes practice.’21
+_context: **‘**_**It is not in all cases so easy to acquire experiences, and it takes practice.’**
 
-Interestingly, competence on this account is not conceived of as entirely within the
+**Interestingly, competence on this account is not conceived of as entirely within the**
 
-witness but also takes into account the circumstances under which experiences are
+**witness but also takes into account the circumstances under which experiences are**
 
-made. In order for someone to be a competent witness, what is required is not only
+**made. In order for someone to be a competent witness, what is required is not only**
 
-ability but also opportunity.22
+**ability but also opportunity.**
 
-In addition to observational skills and favourable circumstances, a third
+In addition to **observational skills **and **favourable circumstances**,_ a _
 
-element is required for a competent witness, namely ‘the adroitness to declare his
+_element is required for a competent witness, namely_ ‘**the adroitness to declare his**
 
-experiences so that one can well understand what he means’. This, Kant recognises,
+**experiences so that one can well understand what he means’**. This, Kant recognises,
 
-‘is not so easy’. Some people report their experiences with a high degree of accuracy
+‘**is not so easy’. Some people report their experiences with a high degree of accuracy**
 
-\(pünktlich\), others are able to sketch ‘but a light silhouette of their experience, and
+**\(pünktlich\), others are able to sketch ‘but a light silhouette of their experience, and**
 
-are unable to give an account of all the circumstances’.23 A general inability to express
+**are unable to give an account of all the circumstances**’.
+
+ A general inability to express
 
 oneself clearly and accurately, in this context, is far more detrimental than an
 
@@ -348,43 +310,37 @@ occasional lapse \(such as a wrong empirical judgment, or the use of a wrong ter
 
 it introduces a systematic error. As Kant already noted, in a somewhat aphoristic
 
-manner, in his Reflexionen: ‘Error in principles is greater than in their application,
+manner, in his Reflexionen:_** ‘Error in principles is greater than in their application,**_
 
-\[...\] violation of grammar worse than vocabularies \(worst in logic\).’24 In the light of
+_**\[...\] violation of grammar worse than vocabularies \(worst in logic\).’**_
 
-Kant’s emphasis, throughout his philosophy, on the importance of \(law-like\) rules
+ 
 
-that should structure, and govern, thought and action, it seems plausible to argue
+In the light of Kant’s emphasis, throughout his philosophy, on the importance of **\(law-like\) rules**
+
+that **should structure, and govern, thought and action**, it seems plausible to argue
 
 that these examples indicate that, in the case of competence, too, it is systematic
 
-failures – due to a lack of rule-guidedness – rather than accidental failures that are of
+failures –** due to a lack of rule-guidedness **–_ rather than accidental failures that are of_
 
-philosophical significance. Whereas accidental failures merely indicate the fallibility
+_philosophical significance._ Whereas accidental failures merely indicate the fallibility
 
-of experience in general, systematic failures pose a more general threat to knowledge
+of experience in general, **systematic failures pose a more general threat to knowledge**
 
-acquisition. Mental illness, for example, casts doubt on the competence of a person
+**acquisition. **
 
-\(AA, VII, 202-220\), but not so much because it necessarily generates false beliefs as
+_**Mental illness, for example, casts doubt on the competence  much because it necessarily generates false beliefs as because it shows a lack of rule-guidedness on the part of the spea**_
 
-because it shows a lack of rule-guidedness on the part of the speaker. Thus,
+As mentioned earlier, according to Kant spelling out what these rules are does not fall within the 
 
-competence, when analysed in terms of Tüchtigkeit, is not a statistical point about
-
-someone’s being right more often than wrong, but requires the presence of an
-
-adequate ‘rule-guidedness’ of reasoning and observation. As mentioned earlier,
-
-according to Kant spelling out what these rules are does not fall within the remit of
-
-logic. However, this does not preclude the possibility of further characterisation by
+remit of logic. However, this does not preclude the possibility of further characterisation by
 
 other means, and one such attempt will be discussed in a later section.
 
-Kant, as is evident from this discussion, does not attempt to justify testimony by
+Kant, as is evident from this discussion, **does not attempt to justify testimony by**
 
-accumulating empirical evidence of its reliability. In this, as well as in his rejection of
+**accumulating empirical evidence of its reliability.** In this, as well as in his rejection of
 
 probabilistic concepts in assessing testimony, he differs from other philosophers,
 
@@ -400,23 +356,17 @@ best expressed in the Vienna Logic:
 
 \[W\]e can just as well accept something on the testimony of others as on our own experience.
 
-For
+For there is just as much that is deceptive in our experience as in the testimony of others. Our
 
-there is just as much that is deceptive in our experience as in the testimony of others. Our
+thinking, when we hold an experience to be true, is subject to many hazards. To be sure, the 
 
-thinking,
+testimony that we accept from others is subject to just as many hazards as our own experience 
 
-when we hold an experience to be true, is subject to many hazards. To be sure, the testimony
+is subject to errors.
 
-that
+_**But we can just as well have certainty through the testimony of others as through our own**_
 
-we accept from others is subject to just as many hazards as our own experience is subject to
-
-errors.
-
-But we can just as well have certainty through the testimony of others as through our own
-
-experience.25
+_**experience.**_
 
 Thus, acknowledging that testimony is subject to risk does not suffice to undermine
 
@@ -426,31 +376,27 @@ testimony \(at least as far as factual matters are concerned\), and this calls f
 
 analysis in terms of knowledge rather than in terms of some substitute notion, such
 
-as conjectural belief: ‘Where knowledge is possible, is itself already a matter of
+as conjectural belief: ‘**Where knowledge is possible, is itself already a matter of**
 
-knowledge’26, and determining the scope of testimonial knowledge is, as we shall see,
+**knowledge’,** and determining the scope of testimonial knowledge is, as we shall see,
 
 a challenge Kant does not shy away from.
 
-An obligation to trust?
+_**An obligation to trust?**_
 
 Merely pointing out that testimonial knowledge is possible, however, clearly does not
 
-yet determine the extent to which we are to place trust in other people’s testimony.
+yet determine the extent to which **we are to place trust in other people’s testimony**.
 
-Thus, in addition to the symmetry thesis, a second \(and, as we shall see shortly,
+Thus, in **addition to the symmetry thesis, a second \(and, as we shall see shortly,**
 
-distinctly ‘Kantian’\) argument is required. It consists in establishing a presumptive
+**distinctly ‘Kantian’\) argument is required.**
 
-principle regarding the acceptance of testimony. Present-day discussions tend to
+** **It consists in establishing a presumptiveprinciple regarding the acceptance of testimony. 
 
-assimilate the problem of testimonial knowledge to the problem of epistemic
+Present-day discussions tend to assimilate the problem of testimonial knowledge to the problem of epistemic justification, thereby emphasising the recipient’s perspective and what one might call his ‘presumptive right’ to accept testimony as true \(provided certain enabling
 
-justification, thereby emphasising the recipient’s perspective and what one might call
-
-his ‘presumptive right’ to accept testimony as true \(provided certain enabling
-
-conditions hold, such as the absence of possible defeaters\).27 By contrast, Kant’s
+conditions hold, such as the absence of possible defeaters\). By contrast, Kant’s
 
 presumptive principle does not so much establish a ‘presumptive right’ as a
 
