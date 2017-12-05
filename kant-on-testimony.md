@@ -1,12 +1,12 @@
-###### ** Immanuel Kant is often regarded as an exponent of the ‘individualist’ tradition in epistemology, according to which testimony is not a fundamental**
+###### ** Immanuel Kant is often regarded as an exponent of the ‘individualist’ tradition in **
 
-###### **source of knowledge.**
+###### **epistemology, according to which testimony is not a fundamental source of knowledge. The​ ​**
 
-###### **The​ ​present​ ​paper​ ​argues​ ​that​ ​this​ ​view​ ​is​ ​far​ ​from​ ​accurate.**
+###### **present​ ​paper​ ​argues​ ​that​ ​this​ ​view​ ​is​ ​far​ ​from​ ​accurate.**
 
-###### **Kant​ ​devotes​ ​ample​ ​space  to​ ​discussions​ ​of​ ​testimony​ ​and,​ ​in​ ​his​ ​lectures​ ​on​ ​logic,**
+###### **Kant​ ​devotes​ ​ample​ ​space  to​ ​discussions​ ​of​ ​testimony​ ​and,​ ​in​ ​his​ ​lectures​ ​on​ ​logic, arrives at **
 
-###### **arrives at a distinct and stable  philosophical position regarding testimony.​ ​Important​ ​elements**
+###### **a distinct and stable  philosophical position regarding testimony.​ ​Important​ ​ elements**
 
 ###### **of​ ​this​ ​position​ ​consist  in​.**
 
@@ -26,17 +26,15 @@
 
 ###### **testimony as a fundamental source of knowledge merely on the basis that no**
 
-###### **theoretically necessar. ground for its truth can be given, would, as Kant puts it, indicate ‘a**
+###### **theoretically necessar. ground for its truth can be given, would, as Kant puts it, **
 
-###### **lack of moral interest’. Such ‘incredulity’ would be a form of ‘logical egoism’: It**
+###### **indicate ‘a lack of moral interest’. Such ‘incredulity’ would be a form of ‘**_**logical egoism**_**’: It**
 
 ###### **demonstrates an unwillingness or inability to think oneself in the place of others, yet this**
 
 ###### **we must do if we are to trust our own judgments. While Kant strongly endorses**
 
-###### **testimony as a source**
-
-###### **of empirical knowledge, he does, however, make one important**
+###### **testimony as a source of empirical knowledge, he does, however, make one important**
 
 ###### **restriction:**
 
@@ -56,6 +54,8 @@
 
 ###### **elsewhere in his work, of the public nature of communication. **
 
+
+
 **Introduction**
 
 **Immanuel Kant** may seem an unlikely candidate to recruit for the cause of social
@@ -74,7 +74,9 @@ study \(1992\), **makes no substantive reference to Kant**, and even those conte
 
 philosophers with a more explicit agenda of social epistemology
 
-**frequently cast Kant in the exemplary role of individualist philosopher as far as testimony is concerned.**
+**frequently cast Kant in the exemplary role of individualist philosopher as far as testimony is **
+
+**concerned.**
 
 Frederick Schmitt, for example, writes that ‘the way sociality enters’ into Kant’s
 
@@ -82,27 +84,35 @@ philosophy is such that ‘sideb is no reliance on testimony’ \(Schmitt 1987: 
 
 **In the present paper, I argue that such views do not adequately reflect Kant’s position**
 
-**regarding testimony.**
+**regarding testimony **What is overlooked is that Kant does, in fact, have a well-developed 
 
-What is overlooked is that Kant does, in fact, have a well-developed epistemology of
-
-testimony, which features most prominently in his. lectures on logic and which
+epistemology of testimony, which features most prominently in his. lectures on logic and which
 
 gains further support from remarks he makes about testimony in his other writings.
 
 Beyond acknowledging the ineliminability of testimony and the fact that testimony can, and
 
-frequently does, produce knowledge, Kant argues for a continuity between testimony and experience. Regarding its epistemic characteristics, testimonial knowledge is, Kant argues, ‘neither in degree nor in kind in any way to be distinguished’ from knowledge based on one’s own experience.4 This symmetry thesis, together with the additional argument that ‘incredulity’
+frequently does, produce knowledge, Kant argues for a continuity between testimony and 
 
-regarding testimony shows ‘lack of moral interest’ establishes a presumptive principle regarding the acceptance of testimony: Testimony is to be believed, unless we know that certain defeating conditions obtain.
+experience. Regarding its epistemic characteristics, testimonial knowledge is, Kant argues, 
+
+‘neither in degree nor in kind in any way to be distinguished’ from knowledge based on one’s 
+
+own experience. This symmetry thesis, together with the additional argument that ‘incredulity’
+
+regarding testimony shows ‘lack of moral interest’ establishes a presumptive principle 
+
+regarding the acceptance of testimony: Testimony is to be believed, unless we know that 
+
+certain defeating conditions obtain.
 
 The mere possibility of failure of testimony, whether due to lying or mere error, does not suffice
 
 to undermine the presumption. One important restriction does, however, apply:
 
-‘Propositions of reason’ \(Vernunftwahrheiten\), such as moral truths, though communicable
+‘**Propositions of reason’ \(**Vernunftwahrheiten\), such as _moral truths, though communicable_
 
-formaliter, may not be adopted on the basis of testimony. As I shall. argue in the final section,
+_formaliter, may not be adopted on the basis of testimony. _As I shall. argue in the final section,
 
 this points to a way of squaring Kant’s sympathy towards testimony with the strong demand for
 
@@ -390,7 +400,7 @@ Thus, in **addition to the symmetry thesis, a second \(and, as we shall see shor
 
 **Present-day discussions tend to assimilate the problem of testimonial knowledge to the problem of epistemic justification, thereby emphasising the recipient’s perspective and what one might call his ‘presumptive right’ to accept testimony as true \(provided certain enabling**
 
-**conditions hold, such as the absence of possible defeaters**\). 
+**conditions hold, such as the absence of possible defeaters**\).
 
 By contrast, Kant’s
 
@@ -416,7 +426,7 @@ render it any less fundamental. It does, however, call for a specification of th
 
 and institutional conditions which circumscribe its applicability.3
 
- As we shall see
+As we shall see
 
 shortly, Kant is well aware of this requirement.
 
@@ -436,7 +446,7 @@ matters and trusting someone’s testimony:
 
 _**was promised\[;\] belief, however, is required in regard to him to whom something is promised,**_
 
-_**namely, so that he accepts as true that the other will keep his promise. The two must be combined with each other. \[…\] It also indicates a very bad mode of thought if one never trusts anyone in anything, **_but
+\_**namely, so that he accepts as true that the other will keep his promise. The two must be combined with each other. \[…\] It also indicates a very bad mode of thought if one never trusts anyone in anything, **\_but
 
 **instead one wants to see everything that is promised and pledged to him present and fulfilled**.
 
@@ -462,7 +472,7 @@ with one another. The first explicitly concerns testimony:
 
 _**sufficiently confirmed to be knowledge. \(**In this case, one must make many arbitrary _
 
-_assumptions, so as to be able to make an attempt to reach certainty in knowledge.\) _Commonly 
+\_assumptions, so as to be able to make an attempt to reach certainty in knowledge.\) \_Commonly
 
 such a person is** suspicious and distrustful.**
 
@@ -500,7 +510,7 @@ As for what further concerns the credibility and sincerity of witnesses who comm
 
 experiences they have obtained, everyone is taken to be sincere and upright until the opposite
 
-has been proved, namely, that he deviates from the truth etc. According to the well-known 
+has been proved, namely, that he deviates from the truth etc. According to the well-known
 
 principle of fairness \[Billigkeit\]: Quilibet prosumitur \[read: praesumitur\] bonus,
 
@@ -514,19 +524,19 @@ _predicament of sometimes giving and sometimes receiving testimony_**; hence, if
 
 **believe the word of others.** Of course Kant is not suggesting that we should always
 
-believe everyone: _Gullibility is no cure for the ills of incredulity – ‘_both are equally
+believe everyone: \_Gullibility is no cure for the ills of incredulity – ‘\_both are equally
 
-**detrimental**’. But _some degree of trust _is necessary if our epistemic position is to be
+**detrimental**’. But \_some degree of trust \_is necessary if our epistemic position is to be
 
 **tenable and sustainable**. A certain degree of faith \(fides\) in epistemic matters, and in
 
-testimony in particular, is _**‘practically-necessary’ **_in order to extend our reach in the
+testimony in particular, is \_**‘practically-necessary’ **\_in order to extend our reach in the
 
 **practical domain**. To the extent that, as Kant puts it in the Vienna Logic, **‘the**
 
 **prestige of our cognition is grounded above all on its practical use,’** this _practical_
 
-_necessity is more than a mere de facto _condition of our** actual epistemic-cognitive**
+\_necessity is more than a mere de facto \_condition of our** actual epistemic-cognitive**
 
 **practices, **but_ instead enables us to pursue our practical and epistemic goals._
 
@@ -544,21 +554,21 @@ _testimony as a source of knowledge._ This,** however, would be misunderstanding
 
 **knowledge based on testimony\) is the form of knowledge ‘most natural to us’.**
 
- Kant partly bases _this thesis on the empirical observation_ tha_**t ‘a child already has an**_
+Kant partly bases _this thesis on the empirical observation_ tha_**t ‘a child already has an**_
 
 _**inclination to history and such things are easily impressed upon him’**_, but it is also
 
 supported by his view, more _significantly_, that **testimony is wholly continuous with**
 
-**experience**. This continuity_** is not merely a continuity in content**_ – 
+**experience**. This continuity_** is not merely a continuity in content**_ –
 
-in the sense that some of the things of which we have experiential knowledge, we could have 
+in the sense that some of the things of which we have experiential knowledge, we could have
 
 learnt from testimony \(and, likewise, that we can tell others about what we have
 
 experienced first-hand\) – but it is a continuity in kind.
 
- In one of his later Reflexionen,
+In one of his later Reflexionen,
 
 Kant emphasises this epistemic continuity in kind between testimony and direct
 
