@@ -1,5 +1,5 @@
 Oral History Interview with  
-Frank Holeman
+**Frank Holeman**
 
 Washington, D.C.
 
@@ -57,13 +57,13 @@ HOLEMAN: I was six feet eight and weighed 150. That shows you how black things w
 
 \[4\]
 
-JOHNSON: Did you ever get to see the U.S.S.Missouriwhile you were out there?
+JOHNSON: Did you ever get to see the U.S.S.Missouri while you were out there?
 
 HOLEMAN: Well, not then, no. We were in a little town of San Jose, Neuva Eicja on Luzon when the war ended. We went from there, and on about September 14 we landed in Sendai, northern Japan. It's on the Island of Honshu, but it's north. I saw theMissourilater; coming back from Rio \[de Janeiro\] I was on theMissouri.
 
-JOHNSON: You were on theMissouriwhen it went to Rio?
+JOHNSON: You were on the. Missouri when it went to Rio?
 
-HOLEMAN: We flew down, and came back on theMissouri.
+HOLEMAN: We flew down, and came back on the Missouri.
 
 JOHNSON: I see. Do you have any recollection of August 14, 1945?
 
@@ -83,7 +83,7 @@ HOLEMAN: Well, it's true. All you've got to do is look at the newspapers at the 
 
 JOHNSON: How about April 12th, when Roosevelt died?
 
-HOLEMAN: Well, I was in the hospital again, on April 12, down in a little place just south of Manila. Everybody got sick two or three times. This time I had jaundice. I never will forget; there came a notice on the loudspeaker, "We have just received word"--whatever source it was--"that President Roosevelt has died." And the guy in the bed next to me said, "Slim, I don't believe that shit, do you?" Nobody could believe that Roosevelt was dead.
+HOLEMAN: Well, I was in the hospital again, on April 12, down in a little place just south of Manila. Everybody got sick two or three times. This time I had jaundice. I never will forget; there came a notice on the loudspeaker, "We have just received word"--whatever source it was--"that President Roosevelt has died." And the guy in the bed next to me said, "Slim, I don't believe that shit, do you?" **Nobody could believe that Roosevelt was dead**.
 
 \[6\]
 
@@ -97,9 +97,9 @@ HOLEMAN: Well, we hadn't gotten around to him yet.
 
 JOHNSON: When you heard the bombing, the atomic bombing of Hiroshima, what was the reaction?
 
-HOLEMAN: Well, we were all for anything that would end the war. You see, our outfit, we already knew, was slated for what was going to be called operation Coronet, which was the invasion of the main islands of Japan. We had been weighed and measured and assigned ships. So the first landing, as we understood it, was going to be a landing on Kyushu, which is a southern island, but that was a feint. The main assault was going to come on the Kanto Plain, just around Tokyo, and the XIV Corps was in there.
+HOLEMAN: Well, we **were all for anything that would end the war.** You see, **our outfit,** we already knew, was **slated** for what was going to be called **operation Coronet**, which was the **invasion of the main islands of Japan.** We had been weighed and measured and assigned ships. So the first landing, as we understood it, was going to be a landing on Kyushu, which is a southern island, but that was a feint. The main assault was going to come on the Kanto Plain, just around Tokyo, and the XIV Corps was in there.
 
-JOHNSON: You were in Counter-Intelligence?
+JOHNSON: You were in **Counter-Intelligence?**
 
 HOLEMAN: Yes, but we were attached...
 
@@ -107,7 +107,7 @@ HOLEMAN: Yes, but we were attached...
 
 JOHNSON: So you had more information than most.
 
-HOLEMAN: No, no. We didn't have any. You know, we just had scuttlebutt. This could all be checked somewhere, but we believe that was the case. We knew we had been weighed, how many pounds and how many cubic feet, and assigned ships. So we were going to be in on the invasion, and we were the boys who were going to get hit.
+HOLEMAN: **No, no. We didn't have any**. Yo@@u know, we just had scuttlebutt. This could all be checked somewhere, but we believe that was the case. We knew we had been weighed, how many pounds and how many cubic feet, and assigned ships. So we were going to be in on the invasion, and we were the boys who were going to get hit.
 
 JOHNSON: When did you come back then to the States?
 
@@ -119,7 +119,7 @@ HOLEMAN: No, through the Canal.
 
 JOHNSON: Sendai.
 
-HOLEMAN: It's a town about like Baltimore, north of Tokyo. It's in Tohoku Prefecture; it's the site of the University of Sendai.
+HOLEMAN: It's a town about like Baltimore, north of Tokyo. It's in **Tohoku Prefecture**; it's the site of the University of Sendai.
 
 \[8\]
 
@@ -129,11 +129,11 @@ HOLEMAN: January 1, 1946, at Fort Bragg. I couldn't get out fast enough.
 
 JOHNSON: What did you do then?
 
-HOLEMAN: Immediately back to the Washington Bureau of theNews. I had gotten a letter, after the surrender, from the head of the Washington Bureau, saying did I want to come back to the Bureau, or go to New York. I said I would like very much to come back to the Bureau. So they let me back.
+HOLEMAN: Immediately back to the Washington Bureau of the News. I had gotten a letter, after the surrender, from the head of the Washington Bureau, saying did I want to come back to the Bureau, or go to New York. I said I would like very much to come back to the Bureau. So they let me back.
 
 JOHNSON: Where were you located here in Washington with the Bureau?
 
-HOLEMAN: In Room 1272 of the National Press Building.
+HOLEMAN: In **Room 1272 of the National Press Building**.
 
 JOHNSON: The building we're in right now.
 
@@ -141,11 +141,11 @@ HOLEMAN: Yes.
 
 JOHNSON: What was your first job then?
 
-HOLEMAN: Well, the first hearing I covered was a hearing where Averell Harriman went up on the Hill. He was
+HOLEMAN: Well, the first hearing I covered was a hearing where **Averell Harriman went up on the Hill**. He was
 
 \[9\]
 
-then Secretary of Commerce, I think. I went up, wrote the story, scared to death. But the woman who was running the Bureau that day, Ruth Montgomery, was very kind to me. She cleared the thing through and just said, "It's too damn long," but nothing outside of that. So I was back in business.
+then **Secretary of Commerce**, I think. I went up, **wrote the story, scared to death**. But **the woman** who **was running the Bureau that day, Ruth Montgomery**, was **very kind to me**. She cleared the thing through and just said, **"It's too damn long,"** but **nothing outside of that**. So I was back in business.
 
 JOHNSON: That was your first article.
 
@@ -157,25 +157,25 @@ HOLEMAN: Covered, yes.
 
 JOHNSON: What was your primary job?
 
-HOLEMAN: We had a roving assignment system. The news editor of the Bureau, whose name was Ted Lewis, would look at the lineup of stories coming up today, and say, "Well, we're going to cover the top five, or four." Then he would
+HOLEMAN: We had a roving assignment system. The news editor of the Bureau, whose name was Ted Lewis, **would look at the lineup of stories coming up today**, and say, "Well, we're going to cover the top five, or four." Then he would
 
 \[10\]
 
-pick those men. There was a man-to-man coverage, as they say in football; follow the story wherever it went.
+pick those men. **There was a man-to-man coverage**, as they say in football; **follow the story wherever it went**.
 
-JOHNSON: Who else worked with you for the New YorkDaily News?
+JOHNSON: Who else worked with you for the **New York Daily News**?
 
-HOLEMAN: The head of the Bureau was John O'Donnell, who was a columnist. He wrote a column called "Capitol Stuff;" the news editor was Edward Lewis, known as Ted. All these people are dead. The military editor was Jerry Greene, who is also dead. The State Department--we didn't have a regular man over there at that time, but later we got a guy from the UPI named Mike O'Neill, who is still alive. Paul Healy was a good, general, all-purpose man; he was a great personality-profile writer. He's, unfortunately, dead. Gwen Gibson came after the Eisenhower heart attack.
+HOLEMAN: **The head of the Bureau was John O'Donnell**, who was a columnist. He wrote a column called **"Capitol Stuff;" **the **news editor was Edward Lewis**, known as Ted. **All these people are dead.** The **military editor was Jerry Greene**, who **is also dead**. The State Department--we didn't have a regular man over there at that time, but later we got a guy from the UPI named **Mike O'Neill, who is still alive**. **Paul Healy** was a good, general, **all-purpose man**; he was a great personality-profile writer. He's, **unfortunately, dead**. **Gwen Gibson came after the Eisenhower heart attack**.
 
 JOHNSON: Gwen Gibson.
 
-HOLEMAN: She came from Denver where she had made an impression on people with her work for the United Press on the Eisenhower illness. I'm trying to think. The woman was Ruth Montgomery. She's still alive; she's still here.
+HOLEMAN: She came from **Denver where she had made an impression on people** with her work for the **United Press on the Eisenhower illness**. I'm trying to think. The woman was **Ruth Montgomery.** She's still alive; she's still here.
 
 JOHNSON: So you rotated, and you were covering State, and the War Department, and the Congress.
 
 \[11\]
 
-HOLEMAN: Congress and Defense, and the White House occasionally. Investigations were great in those days, you know. Truman's old committee was kept going under the Republicans, under Senator Homer Ferguson, investigating Howard Hughes and all of that stuff. I had some of that.
+HOLEMAN: Congress and Defense, and the White House occasionally. Investigations were great in those days, you know. Truman's old committee was kept going under the Republicans, under Senator **Homer Ferguson**, investigating Howard Hughes and all of that stuff. I had some of that.
 
 JOHNSON: Do you recall when you first met Truman, the President?
 
@@ -183,7 +183,7 @@ HOLEMAN: Yes. Well, we're talking about covered. He, as I say, he would not know
 
 JOHNSON: Because you stood out.
 
-HOLEMAN: Yes, that's right, but we were never buddy-buddy. I was not one of his friends; he did not like my newspaper, or any of the rest of it. I was just one of the guys that followed along, one of the king's bastards that went on the back of the train. It would be a trip like Christmas of '46, or it could have been the 4th of July of '46, when they needed some one to cover. Married people didn't want to leave home, and off I went.
+HOLEMAN: Yes, that's right, but we were **never buddy-buddy**. **I was not one of his friends**; he did not like my newspaper, or any of the rest of it. I was just one of the guys that followed along, one of the king's bastards that went on the back of the train. It would be a trip like Christmas of '46, or it could have been the 4th of July of '46, when they needed some one to cover. Married people didn't want to leave home, **and off I went.**
 
 JOHNSON: Did you remain a bachelor all those years?
 
@@ -191,13 +191,13 @@ JOHNSON: Did you remain a bachelor all those years?
 
 HOLEMAN: All that time, up until '57. I got married in '57. During all the Truman years I was a bachelor.
 
-JOHNSON: I think he flew out to Independence in 1946 in bad weather, very bad weather, and he got a kind of a bad press from that.
+JOHNSON: I think he flew out to Independence in 1946 in bad weather, very **bad weather, and he got a kind of a bad press from that**.
 
-HOLEMAN: Well, I'm not sure whether I was on that flight or not, but I was on several when lightning struck the plane, and you know, balls of fire rolled from one end to the other, and everybody reached for a drink. This was before jets you understand. TWA had all of the charters. Tom Bell, who is still probably around here, ran the charters--the TWA charters.
+HOLEMAN: Well, I'm not sure whether I was on that flight or not, but **I was on several when lightning struck the plane**, and you know, **balls of fire rolled from one end to the other, and everybody reached for a drink**. This was before jets you understand. TWA had all of the charters. **Tom Bell**, who is still probably around here, ran the charters--the TWA charters.
 
 JOHNSON: You chartered the plane that followed the President's plane?
 
-HOLEMAN: The White House chartered the press plane, that followed the President.
+HOLEMAN: **The White House chartered the press plane, that followed the Presiden**t
 
 JOHNSON: So you followed the President.
 
@@ -205,7 +205,7 @@ HOLEMAN: And they billed us individually. They would fill up the crew with some 
 
 \[13\]
 
-poker games; there would be the reporters' poker game and then there would be a Secret Service poker game.
+poker games; there would be the **reporters' poker game** and then there would be a **Secret Service poker game.**
 
 JOHNSON: So that's what you did when you were flying behind the President, playing poker.
 
@@ -227,13 +227,13 @@ HOLEMAN: Well, they've got too many people over there. They've got not only one 
 
 JOHNSON: Can you recall when your first big story appeared concerning the President?
 
-HOLEMAN: No, I can't because there's only one big story that I remember theNewsever getting from Truman, and that was by Paul Healy who was down at Deerfoot Lake when Truman said he would not give the atom bomb to the Russians. And our guy got away from the crowd and found a telephone someplace.
+HOLEMAN: No, I can't because **there's only one big story that I remember the News ever getting from Truman, and that was by Paul Healy who was down at Deerfoot Lake when Truman said he would not give the atom bomb to the Russians.** And our guy **got away from the crowd and found a telephone someplace.**
 
 JOHNSON: Paul Healy?
 
 HOLEMAN: Yes. Now you may find six other guys claiming credit for the same big scoop, but he's the guy that got a bonus for it from my paper.
 
-JOHNSON: So that was a New YorkDaily Newsscoop.
+JOHNSON: So that was a New York Daily News scoop.
 
 HOLEMAN: A scoop in those days--fifteen minutes was big stuff.
 
@@ -247,21 +247,21 @@ JOHNSON: But you started going to the Oval Office for the press conferences in 1
 
 HOLEMAN: Yes, standing up. You know, we all stood up in those days.
 
-JOHNSON: Then they switched over to the Indian Treaty Room.
+JOHNSON: **Then they switched over to the Indian Treaty Room.**
 
 HOLEMAN: That was Eisenhower. My recollection is Eisenhower.
 
 JOHNSON: But it actually started later in the Truman period.
 
-HOLEMAN: Maybe I'm getting the television thing. You see, they filmed Eisenhower in the Indian Treaty Room.
+HOLEMAN: Maybe I'm getting the television thing. You see, **they filmed Eisenhower in the Indian Treaty Room.**
 
 JOHNSON: They televised it?
 
 HOLEMAN: Not live. They filmed it; they kinescoped it, or whatever they did. Then if Hagerty liked it he let it go, if he didn't he had the right to censor it. He never did, but...
 
-JOHNSON: But they didn't do that with Truman; they didn't do any kinescopes?
+JOHNSON: **But they didn't do that with Truman; they didn't do any kinescopes?**
 
-HOLEMAN: I don't believe so. Now, again, nobody's memory is perfect, but I don't think so. I think it was Q and
+HOLEMAN: I don't believe so. Now, **again, nobody's memory is perfect**, but I don't think so. I think it was Q and
 
 \[16\]
 
@@ -273,11 +273,11 @@ HOLEMAN: Oh yes.
 
 JOHNSON: What kind of a person was he?
 
-HOLEMAN: Very fine guy. I played chess with him many times. He learned chess on the run. He also used to play the organ. He was a great Bach...
+HOLEMAN: Very fine guy. I played chess with him many times. He **learned chess on the run**. He also used to play the organ. He was a great Bach...
 
-JOHNSON: Played Bach.
+JOHNSON:** Played Bach**.
 
-HOLEMAN: Well, I'm not a musician, but he would go to the chapel at some base or wherever we were, and play the organ. He got into a little problem when the Kennedys came in, and he disappeared. A committee of reporters waited on Salinger and said, "What have you done to my Romagna?" And he said, "Well, you don't want to know."
+HOLEMAN: Well, I'm not a musician, but he would go to the chapel at some base or wherever we were, and play the organ. **He got into a little problem when the Kennedys came in**, **and he disappeared**. A committee of reporters waited on Salinger and said, **"What have you done to my Romagna?" And he said, "Well, you don't want to know."**
 
 JOHNSON: He didn't work for Eisenhower did he, or did he?
 
@@ -285,17 +285,19 @@ HOLEMAN: Sure he did. He worked all through Eisenhower.
 
 \[17\]
 
-He started with Roosevelt, then with Truman and Eisenhower.
+He started with **Roosevelt, then with Truman and Eisenhower.**
 
-JOHNSON: He seemed to be a pretty meticulous recorder.
+JOHNSON: He seemed to be a pretty **meticulous recorder.**
 
-HOLEMAN: He was a very competent, able guy, and a pleasant, agreeable person. But he had some other problems we didn't know about at the time.
+HOLEMAN: **He was a very competent, able guy, and a pleasant, agreeable person. But he had some other problems we didn't know about at the time**.
 
-JOHNSON: How about Ross, Charlie Ross: Do you remember him?
+JOHNSON: How about Ross, **Charlie Ross**: Do\)
 
-HOLEMAN: Yes, oh sure. We were in the Muehlebach Hotel one night; it was about three in the morning, and everybody had gone to bed. Carroll Linkins, the Western Union man, rousted everybody up, called every room, got them up. "Mr. Ross says come to the Press Room right away." So we went down there and Ross had had a few of these \[drinks\], and he said, "There isn't any news boys; let's just have a poker game--Grand Old Game, GOG." That was seven card high-low, and Ross called it "GOG--Grand Old Game."
+    you remember him?
 
-JOHNSON: This was at the Muehlebach, in Kansas City.
+HOLEMAN: Yes, oh sure. We were in the **Muehlebach Hotel one night**; it was about three in the morning, and everybody had gone to bed. **Carroll Linkins, the Western Union man,** rousted everybody up, called every room, got them up. "Mr. Ross says come to the Press Room right away." So we went down there and Ross had had a few of these \[drinks\], and he said, "There isn't any news boys; let's just have a poker game--Grand Old Game, GOG." That was seven card high-low, and Ross called it **"GOG--Grand Old Game."**
+
+JOHNSON: This was at the **Muehlebach, in Kansas City.**
 
 HOLEMAN: The Muehlebach, yes, that's right.
 
@@ -305,7 +307,7 @@ JOHNSON: About when would that have happened?
 
 HOLEMAN: Well, Ross was only there a few...
 
-JOHNSON: He was there up to December '50, when he died of a heart attack.
+JOHNSON: He was there up to **December '50**, when he died of a heart attack.
 
 HOLEMAN: Right, it was sometime between '48 and '50.
 
@@ -313,7 +315,7 @@ JOHNSON: Of course, the '48 campaign was a big event for news people.
 
 HOLEMAN: Yes. Well, I didn't do much on that. I covered, believe it or not, Earl Warren's campaign for Vice President. It was the best campaign I ever saw. This was the last of the good trains; went all the way across the country on it. He couldn't lose. Everybody was out to see him; he was a nice fellow. So we had a wonderful time. But then Truman made a speech up in the Brooklyn Academy of Music about Friday night before election. The election was on Tuesday. So they assigned me to pick up Truman at the Brooklyn Academy of Music and go with him to St. Louis where he had a speech Saturday night.
 
-JOHNSON: Kiel Auditorium, I suppose.
+JOHNSON: **Kiel Auditorium,** I suppose.
 
 HOLEMAN: Yes. Downtown, big auditorium. That was one time I really got lost. I was afraid I was going to
 
@@ -323,9 +325,9 @@ miss the goddamn train. Then I went with him on to Kansas City for the election.
 
 JOHNSON: You say you covered Warren, until you picked up Truman the last day or two. What impressed you as to their styles, or did anything kind of strike you at the time as to whether Truman had a chance to win that election?
 
-HOLEMAN: Nobody thought Truman had a chance. Otherwise I wouldn't have been on that train. They'd have had a real honest to god hard-working reporter, see. One of the big guys. I'll tell you what happened. We got to St. Louis. It was a Saturday, and the custom was for the White House to put out excerpts, you know, two or three new paragraphs that the President was going to use in a regular speech, so he could put a new top on it for Sunday papers. All right, this is Saturday; the subject, I forget what it was, something pretty mundane. Anyway, we get into the hall and Truman tears the damn speech up and lights into my publishers. I mean the McCormick-Patterson axis, you know.
+HOLEMAN: Nobody thought Truman had a chance. Otherwise I wouldn't have been on that train. They'd have had a **real honest to god hard-working reporte**r, see. One of the big guys. I'll tell you what happened. We got to St. Louis. It was a Saturday, and the custom was for the White House to put out excerpts, you know, two or three new paragraphs that the President was going to use in a regular speech, so he could put a new top on it for Sunday papers. All right, this is Saturday; the subject, I forget what it was, something pretty mundane. Anyway, we get into the hall and Truman tears the damn speech up and lights into my publishers. I mean the McCormick-Patterson axis, you know.
 
-JOHNSON: Oh, you were a McCormick paper?
+JOHNSON: °°Oh, you were a McCormick paper?
 
 \[20\]
 
@@ -1300,8 +1302,6 @@ JOHNSON: I don't think we've got one of those. If you come up with one, turn it 
 Well, I appreciate your time, and the stories.
 
 HOLEMAN: Thank you.
-
-
 
 \[[Top of the Page](https://www.trumanlibrary.org/oralhist/holeman.htm#top)\|
 
