@@ -107,7 +107,7 @@ HOLEMAN: Yes, but we were attached...
 
 JOHNSON: So you had more information than most.
 
-HOLEMAN: **No, no. We didn't have any**. Yo@@u know, we just had scuttlebutt. This could all be checked somewhere, but we believe that was the case. We knew we had been weighed, how many pounds and how many cubic feet, and assigned ships. So we were going to be in on the invasion, and we were the boys who were going to get hit.
+HOLEMAN: **No, no. We didn't have any**. You know, we just had scuttlebutt. This could all be checked somewhere, but we believe that was the case. We knew we had been weighed, how many pounds and how many cubic feet, and assigned ships. So we were going to be in on the invasion, and we were the boys who were going to get hit.
 
 JOHNSON: When did you come back then to the States?
 
@@ -249,7 +249,7 @@ HOLEMAN: Yes, standing up. You know, we all stood up in those days.
 
 JOHNSON: **Then they switched over to the Indian Treaty Room.**
 
-HOLEMAN: That was Eisenhower. My recollection is Eisenhower.
+HOLEMAN: That was Eisenhower. **My recollection is Eisenhower.**
 
 JOHNSON: But it actually started later in the Truman period.
 
@@ -291,11 +291,9 @@ JOHNSON: He seemed to be a pretty **meticulous recorder.**
 
 HOLEMAN: **He was a very competent, able guy, and a pleasant, agreeable person. But he had some other problems we didn't know about at the time**.
 
-JOHNSON: How about Ross, **Charlie Ross**: Do\)
+JOHNSON: How about Ross, **Charlie Ross**: Do you remember him?
 
-    you remember him?
-
-HOLEMAN: Yes, oh sure. We were in the **Muehlebach Hotel one night**; it was about three in the morning, and everybody had gone to bed. **Carroll Linkins, the Western Union man,** rousted everybody up, called every room, got them up. "Mr. Ross says come to the Press Room right away." So we went down there and Ross had had a few of these \[drinks\], and he said, "There isn't any news boys; let's just have a poker game--Grand Old Game, GOG." That was seven card high-low, and Ross called it **"GOG--Grand Old Game."**
+HOLEMAN: Yes, oh sure. We were in the **Muehlebach Hotel one night**; it was about three in the morning, and everybody had gone to bed. **Carroll Linkins, the Western Union man,** rousted everybody up, called every room, got them up. "Mr. Ross says come to the Press  right away." So we went down there and Ross had had a few of these \[drinks\], and he said, **"There isn't any news boys; let's just have a poker game--Grand Old Game, GOG."** That was seven card high-low, and Ross called it **"GOG--Grand Old Game."**
 
 JOHNSON: This was at the **Muehlebach, in Kansas City.**
 
@@ -361,11 +359,11 @@ HOLEMAN: Yes. Barney says, "Mr. Ross, I'm getting all
 
 23\]
 
-these telegrams here, people wanting to come." These were the real, real big names ;like Bert Andrews of theHerald-Tribune; he was one of them I remember. And there were others. Barney said, "Mr. Ross, the hotel is full, but if you want us to we'll ask somebody to leave and make room for these guys." Ross just grinned and said, "Barney, send them down to the Dixie." You know where the Dixie is? That was the sailor's delight across the street there, you see. Now, he was not going to do anything for them.
+these telegrams here, people wanting to come." These were the real, real big names ;like Bert Andrews of the Herald-Tribune; he was one of them I remember. And there were others. Barney said, "Mr. Ross, the hotel is full, but if you want us to we'll ask somebody to leave and make room for these guys." Ross just grinned and said, "Barney, send them down to the Dixie." You know where the Dixie is? That was the sailor's delight across the street there, you see. Now, he was not going to do anything for them.
 
 JOHNSON: That was some evening, I know that. I got in on one of those speeches. I listened to one of his speeches in September of '48 in Rock Island, Illinois. So you were among those who were surprised. Then you rode back on the train that he was on.
 
-HOLEMAN: Yes. You know the ChicagoTribune, that was in the St. Louis railroad station.
+HOLEMAN: Yes. You know the Chicago Tribune, that was in the St. Louis railroad station.
 
 JOHNSON: Yes. You remember that pretty well.
 
@@ -375,11 +373,11 @@ HOLEMAN: I remember it very well. TheTribuneman on the trip was Willard Edwards 
 
 JOHNSON: Willard Edwards.
 
-HOLEMAN: Willard Edwards. He had written a long horrors' dream about the end of the New Deal. Truman's defeat meant the end of 30 years of rule. Then, of course, they had to change it. So what he did was he sent them a new lead, "If he had been beaten it would have meant the end of 30 years." They left it all standing, see?
+HOLEMAN: **Willard Edwards**. He had written a long horrors' dream about the end of the New Deal. **Truman's defeat meant the end of 30 years of rule.** Then, of course, they had to change it. So what he did was he sent them a new lead, "If he had been beaten it would have meant the end of 30 years." They left it all standing, see?
 
-JOHNSON: How about the New YorkDaily News? Did it run a headline at that time?
+JOHNSON: How about the New York Daily News? Did it run a headline at that time?
 
-HOLEMAN: No, no, we didn't. See, theTribunegets a bad rap on that because they were stuck with a very slow printing process during a printer's strike. They had to cook this thing up ahead of time, like six or seven hours. They were using varitype instead of hot lead. Our paper was printing the news as it came along, so we never got trapped.
+HOLEMAN: No, no, we didn't. See, the Tribune gets a bad rap on that because they were stuck with a very slow printing process during a printer's strike. They had to cook this thing up ahead of time, like six or seven hours. They were using varitype instead of hot lead. Our paper was printing the news as it came along, so we never got trapped.
 
 JOHNSON: So you're saying that's why theTribuneran a premature headline, the varitype?
 
@@ -391,7 +389,7 @@ JOHNSON: Because of the strike, of the typographers...
 
 HOLEMAN: Printers. Now the only other thing that you might get from me you might not get somebody else, has to do with a story at Key West.
 
-JOHNSON: When did you start going to Key West?
+JOHNSON: When did you start going to **Key West?**
 
 HOLEMAN: Well, again, when nobody else was available or something, I was assigned to go to Key West. I was very impressed with this town. I was always hungry, looking to write a Sunday story to make a little extra money. And Key West was a great exotic place for a boy from Carolina you know. You know the Hemingway legend and all of that sort of stuff was still alive. We're talking about '49, '50, and '51, somewhere in there.
 
@@ -401,17 +399,17 @@ So, it was my first trip, and I wrote a story theNewsprinted, called "Truman Dis
 
 JOHNSON: In Key West.
 
-HOLEMAN: In Key West, yes. So, as I understand it, on Monday morning, the Admiral came by the Little White House, saying "Mr. President, is there anything I can do for you?" And as I heard later from some of the people who were working for Truman, the President said, "That little shit paper in New York had a story yesterday about Key West, and there was an implication there that there were some homosexuals preying on the sailors. Is there any truth to that?" And the Admiral said, "Well, we have more undesirables down here than we would like." Truman said, "Is there anything you can do about it?" The reply was, "Oh, yes sir, we can take care of that."
+HOLEMAN: In Key West, yes. So, as I understand it, on Monday morning, the Admiral came by the Little White House, saying "Mr. President, is there anything I can do for you?" And as I heard later from some of the people who were working for Truman, the President said, **"That little shit paper in New York had a story yesterday about Key West, and there was an implication there that there were some homosexuals preying on the sailors. Is there any truth to that?"**And the Admiral said, "Well, we have more undesirables down here than we would like." Truman said, "Is there anything you can do about it?" The reply was, "Oh, yes sir, we can take care of that."
 
-So that day, the Shore Patrol went up and down Duvall Street, where all the night clubs were, and told the owners of all the joints, "If your piano player's a queer, or your waiters, or your entertainers, you've got to get them out of here by Friday night, or we'll put the joint off limits to sailors from the submarine base." Well, of course, that was their only business. So comes Friday afternoon, fifty of them were rounded up down at the bus station, and put on a Greyhound bus, but the driver wouldn't get on, see. He wasn't going
+So that day, the Shore Patrol went up and down Duvall Street, where all the night clubs were, and told the owners of all the joints, **"If your piano player's a queer, or your waiters, or your entertainers, you've got to get them out of here by Friday night, or we'll put the joint off limits to sailors from the submarine base."**Well, of course, that was their only business. So comes Friday afternoon,  **fifty of them were rounded up down at the bus station,** and put on a Greyhound bus, but the driver wouldn't get on, see. **He wasn't going**
 
 \[27\]
 
-to get in there with that bunch of cats, all these homosexuals.
+to get in there with that **bunch of cats, all these homosexuals.**
 
 JOHNSON: Homosexuals on the bus, and the bus driver doesn't want to get on with them.
 
-HOLEMAN: Yes, so they finally gave him a police escort, and he took them up to the Miami city line, opened the door and pushed them out. That was the end. They cleaned the whole island with one busload. Now as I understand it, they practically run the place. They got back with a vengeance.
+HOLEMAN: Yes, so they finally gave him a police escort, and he took them up to the Miami city line, opened the door and pushed them out. That was the end. They cleaned the whole island with one busload. Now as I understand it, they practically run the place. **They got back with a vengeance.**
 
 JOHNSON: You mean they solved it for one day or one week?
 
@@ -423,7 +421,7 @@ HOLEMAN: Well, I was scared to death because Key West is part of Monroe County, 
 
 \[28\]
 
-People just committed suicide in the strangest ways. The Mayor of the town was an old New York cop who did not like the story I wrote, see. I had to go from Casa Marina, where I was staying, to the La Concha downtown, and then on to the submarine base, just for safekeeping, so I wouldn't run into any of these bastards. In other words, we got to be a little flurry in the Press Corps there.
+People just committed suicide in the strangest ways. The Mayor of the town was an old New York cop who did not like the story I wrote, see. I had to go from **Casa Marina**, where I was staying, to the La Concha downtown, and then on to the submarine base, just for safekeeping, so I wouldn't run into any of these bastards. In other words, we got to be a little flurry in the Press Corps there.
 
 JOHNSON: What year are we talking about?
 
@@ -457,11 +455,11 @@ JOHNSON: And that tended to get you into a little trouble, or potential trouble.
 
 HOLEMAN: Well, potential, but nothing ever happened to me.
 
-JOHNSON: Your piece did appear in the New YorkDaily News.
+JOHNSON: Your piece did appear in the New York Daily News.
 
 \[30\]
 
-HOLEMAN: That's right. It was a two-page story, "Truman Discovers Singapore, U.S.A." which isn't a bad title, by the way.
+HOLEMAN: That's right. It was a two-page story, **"Truman Discovers Singapore, U.S.A."** which isn't a bad title, by the way.
 
 JOHNSON: We probably don't have that in our White House scrapbook. I don't recall coming across it.
 
@@ -469,7 +467,7 @@ HOLEMAN: No, you wouldn't have that. But it was great, we had a wonderful time.
 
 JOHNSON: Did you ever talk personally, converse personally, with President Truman?
 
-HOLEMAN: Only in Kansas City on things like Christmas or Thanksgiving, when he would come over. The time I remember my own man-to-man talk with him was when he was standing around and he said the hardest decision he ever had to make was dropping the atomic bomb.
+HOLEMAN: Only in Kansas City on things like Christmas or Thanksgiving, when he would come over. The time I remember my own man-to-man talk with him was when he was standing around and **he said the hardest decision he ever had to make was dropping the atomic bomb.**
 
 JOHNSON: He said that?
 
@@ -477,7 +475,7 @@ HOLEMAN: Well, at one time.
 
 JOHNSON: Where was this?
 
-HOLEMAN: This was in the Muehlebach.
+HOLEMAN: **This was in the Muehlebach**.
 
 \[31\]
 
@@ -485,23 +483,23 @@ He made a practice of coming over to see the reporters who had to be away from t
 
 JOHNSON: This would be like the day after Christmas?
 
-HOLEMAN: Yes, or the day before. I said, "Well, Mr. Truman, I tell you as one guy who was weighed and measured, I appreciate it. I want to thank you. You probably saved my life, because when we got to Japan we saw all the caves where there would have been guns." Have you ever been to Japan? Well, you know these little islands that you see in gold fish bowls, the coral, little concrete-like things--that's the way the coast line of Japan is. It's not sloping with sand like Florida beaches; it's a sheer drop in many places. They had those caves all hollowed out, and there would have been gun emplacements in there; that would have been one bloody sonofabitch.
+HOLEMAN: Yes, or the day before. I said, "Well, Mr. Truman, I tell you as one guy who was weighed and measured, I appreciate it. I want to thank you. You probably saved my life, because when we got to Japan we saw all the caves where there would have been guns." Have you ever been to Japan? Well, you know these little islands that you see in gold fish bowls, the coral, little concrete-like things--that's the way the coast line of Japan is. It's not sloping with sand like Florida beaches; it's a sheer drop in many places. **They had those caves all hollowed out, and there would have been gun emplacements in there; that would have been one bloody sonofabitch.**
 
-JOHNSON: Most often he said his hardest decision was to intervene in Korea.
+JOHNSON: **Most often he said his hardest decision was to intervene in Korea.**
 
 HOLEMAN: That was after this, you see. That was before we
 
 \[32\]
 
-had gotten into Korea. I went to Korea as a correspondent, by the way. I saw the tanks with "Truman's Police Force" and all of that sort of stuff on them.
+had gotten into Korea. I went to Korea as a correspondent, by the way. I saw the tanks with **"Truman's Police Force"** and all of that sort of stuff on them.
 
 JOHNSON: Written on the tanks.
 
-HOLEMAN: Yes. The American soldier is an irreverent bastard; he doesn't care.
+HOLEMAN: **Yes. The American soldier is an irreverent bastard; he doesn't care**.
 
 JOHNSON: Well, that's an interesting episode that you related. Any others now you can recall involving the President?
 
-HOLEMAN: There's one other one that you might check on--about Truman and the Ku Klux Klan. Roy Roberts who was a big, heavy-set editor and trustee, and so on, for the employee-owned Kansas CityStarback in those days told us one time how close Truman came to getting into the Ku Klux Klan. I am sure you've picked it up at some other point. He said that Truman was recruited early after World War I, when he and Eddie Jacobson were in the haberdashery business. Somebody said, "Harry, if you're going to get into politics you've got to join the Klan." "How much is it?" It was five or ten bucks and he gave them the money. Then the guy said, "When
+HOLEMAN: There's one other one that you might check on--about **Truman and the Ku Klux Klan**. Roy Roberts who was a big, heavy-set editor and trustee, and so on, for the employee-owned Kansas CityStarback in those days told us one time how close Truman came to getting into the Ku Klux Klan. I am sure you've picked it up at some other point. He said that Truman was recruited early after World War I, when he and Eddie Jacobson were in the haberdashery business. Somebody said, "Harry, if you're going to get into politics you've got to join the Klan." "How much is it?" It was five or ten bucks and he gave them the money. Then the guy said, "When
 
 \[33\]
 
@@ -517,11 +515,11 @@ JOHNSON: Of course, Roberts and Truman were not friends.
 
 HOLEMAN: No, Roberts was a Republican. Truman was not friends with a hell of .a lot of people, you know.
 
-JOHNSON: Well, he claimed to like working news people...
+JOHNSON: **Well, he claimed to like working news people..**.
 
 \[34\]
 
-HOLEMAN: He did, but he hated publishers.
+HOLEMAN: \*\*He did, but he hated publishers.\)+
 
 JOHNSON: ...but hated publishers, and some of the editors he didn't like.
 
@@ -531,23 +529,23 @@ JOHNSON: Okay, you're talking about '47...
 
 HOLEMAN: September.
 
-JOHNSON: ...when the Rio Pact was. signed in Rio de Janeiro. You flew down with other correspondents to cover that?
+JOHNSON: ...when the Rio Pact was. signed in **Rio de Janeiro.** You flew down with other correspondents to cover that?
 
 HOLEMAN: Yes.
 
-JOHNSON: You came back on the U.S.S.Missouriwith the President?
+JOHNSON: You came back on the U.S.S.Missouri with the President?
 
 HOLEMAN: Yes.
 
-JOHNSON: Did all the newsmen come back on theMissouri?
+JOHNSON: Did all the newsmen come back on the Missouri?
 
-HOLEMAN: Yes, including the woman. Remember May Craig? There was a big flap about putting a woman on a battleship? They worked that all out.
+HOLEMAN: Yes, including the woman. Remember **May Craig?** There was a big flap about putting a woman on a battleship? They worked that all out.
 
 \[35\]
 
 JOHNSON: She was the first woman to...
 
-HOLEMAN: They set aside a head for her, and gave her some Admiral's stateroom.
+HOLEMAN: They set aside a head for her, and gave her some **Admiral's stateroom**.
 
 JOHNSON: I can see why she would have taken advantage of that offer.
 
@@ -559,9 +557,9 @@ HOLEMAN: Cranking away. All the still photographers agreed
 
 \[36\]
 
-to stop. They would not use the pictures, but Harry keeps his going. So the Secret Service grabs his camera. Ross is still the Secretary, but Joe Short, who was then there for theBaltimore Sun, had the good sense to advise Ross not to be in a position of censoring here. But the only picture that was actually made was Harry Walsh's picture. So I made a deal with him. Through New York, we bought a frame of the pictures, and had it enlarged and took it over to IT&T and we transmitted it. Then we told the guys it's time to close up and go home. So he shut the place down. We walked out, and here came all the other photographers with their holders. We got the only picture in New York. It was on page one of the New YorkNews. Harry Walsh was working as a photographer for NBC television. The reporter's name was Bjorn Bjornson, and he was a go-along guy. He didn't want any trouble. He denounced the whole operation; he wouldn't have anything to do with it. But by this time the damn thing's on the street in New York, and we don't care. what happens now.
+to stop. They would not use the pictures, but Harry keeps his going. So the Secret Service grabs his camera. Ross is still the Secretary, but **Joe Short**, who was then there for theBaltimore Sun, had the good sense to advise Ross not to be in a position of censoring here. But the only picture that was actually made was Harry Walsh's picture. So I made a deal with him. Through New York, we bought a frame of the pictures, and had it enlarged and took it over to IT&T and we transmitted it. Then we told the guys it's time to close up and go home. So he shut the place down. We walked out, and here came all the other photographers with their holders. We got the only picture in New York. It was on page one of the New YorkNews. Harry Walsh was working as a photographer for NBC television. The reporter's name was Bjorn Bjornson, and he was a go-along guy. He didn't want any trouble. He denounced the whole operation; he wouldn't have anything to do with it. But by this time the damn thing's on the street in New York, and we don't care. what happens now.
 
-JOHNSON: Enterprising journalism.
+JOHNSON: **Enterprising journalism**.
 
 HOLEMAN: That's right.
 
@@ -577,7 +575,7 @@ HOLEMAN: We did not have a photographer on the trip. We never had a photographer
 
 JOHNSON: So you covered crossing the equator. There was some kind of ceremony there on theMissouri.
 
-HOLEMAN: Oh yes, they beat everybody's ass, Clark Clifford included. I mean they had them all, yes.
+HOLEMAN: Oh yes, they beat everybody's ass, **Clark Clifford** included. I mean they had them all, yes.
 
 JOHNSON: They really gave them a workover.
 
@@ -589,9 +587,9 @@ JOHNSON: Did you ever interview Margaret or Bess?
 
 HOLEMAN: No, she was a young girl at the time. Clark Clifford's main job was to play volleyball with her; that's how far back I go.
 
-JOHNSON: That had to be some trip; something you certainly wouldn't forget, coming back on theMissouri.
+JOHNSON: That had to be some trip; something you certainly wouldn't forget, coming back on the Missouri.
 
-HOLEMAN: One of the things we'll never forget is the damn parade before we left, the Independence Day parade. It went on all day long. I mean six or seven hours. We began finally just to suspect they were running it around the block, you know, bringing it back: This was the Brazilian Independence Day. They had all of these Portuguese uniforms, and the lancers. Horsemen would go, and they would bring in modern stuff, and then we'd get the horsemen again, see.
+HOLEMAN: One of the things we'll never forget is the damn parade before we left, the Independence Day parade. It went on all day long. I mean six or seven hours. We began finally just to suspect they were running it around the block, you know, bringing it back: This was the **Brazilian Independence Day.** They had all of these Portuguese uniforms, and the lancers. Horsemen would go, and they would bring in modern stuff, and then we'd get the horsemen again, see.
 
 JOHNSON: How about Mexico? Did you go on that trip in '47?
 
@@ -599,7 +597,7 @@ HOLEMAN: I didn't go.
 
 JOHNSON: You didn't go on that trip.
 
-HOLEMAN: No. I went to Mexico with Jack Kennedy.
+HOLEMAN: No. I went to **Mexico with Jack Kennedy**.
 
 JOHNSON: How about the 1950 campaign trip that Truman took
 
@@ -611,17 +609,17 @@ HOLEMAN: I didn't make it.
 
 JOHNSON: In the '52 campaign, what did you do?
 
-HOLEMAN: Well, I was covering Eisenhower from the time he was up at Colombia--before he got the nomination--when he was still president of the University of Colombia. Then we went to Denver, and they said get Henry Cabot Lodge and this good Senator who just died, \[Frank\] Carlson of Kansas.
+HOLEMAN: Well, I was covering Eisenhower from the time he was up at Colombia--before he got the nomination--when he was still **president of the University of Colombia.** Then we went to Denver, and they said get Henry Cabot Lodge and this good Senator who just died, **\[Frank\] Carlson of Kansas.**
 
 JOHNSON: Oh, Frank Carlson.
 
-HOLEMAN: Yes. Herb Brownell and Dewy and his crowd were working on getting the nomination for Ike. I covered Ike from Denver on the train into Chicago, until he got the nomination, and then went with him back to Denver. When the campaign began I was assigned to Nixon. We still had a campaign train, most of the way, about the first month of the campaign, and then they started mixing airplanes into it. I was with Nixon on election night in '52.
+HOLEMAN: Yes. Herb Brownell and Dewy and his crowd were working on getting the nomination for Ike. I covered Ike from Denver on the train into Chicago, until he got the nomination, and then went with him back to Denver. When the campaign began I was assigned to Nixon. We still had a campaign train, most of the way, about the first month of the campaign, and then they started mixing airplanes into it. I was **with Nixon on election night in '52.**
 
 JOHNSON: You didn't cover any of Adlai Stevenson's?
 
 \[40\]
 
-HOLEMAN: Yes, I had a little of that too. I covered Adlai from the Democratic Convention down to Springfield. We stayed down there about a month. There was a wonderful restaurant called the Supper Club on the outside of Springfield, that we made kind of headquarters. That was a wonderful place, I'll tell you.
+HOLEMAN: Yes, I had a little of that too. I covered Adlai from the Democratic Convention down to Springfield. We stayed down there about a month. **There was a wonderful restaurant called the Supper Club on the outside of Springfield, that we made kind of headquarters.** That was a wonderful place, I'll tell you.
 
 JOHNSON: Of course, Truman campaigned for Stevenson. Did you cover any of his speeches in that '52 campaign?
 
@@ -629,7 +627,7 @@ HOLEMAN: No. The only Truman story I know about the convention--you know this is
 
 \[41\]
 
-that the candidate does not appear on the floor until after the nomination." In other words, he had gone in, he had made a speech and he was not sure that it would be proper for him now to become a candidate. Word went back to Sawyer, and at Sawyer's elbow there was supposedly a little guy named Ludwig Caminita; he's the guy that told me the story. He's now dead. You see, all of my people are dead. Well, he said that Sawyer relays this message, "I'm not sure I should be a candidate," to Truman. Barkley asked for thirty minutes to think it over, you see. Truman sent word immediately back that if you don't know right now you want to be President of the United States, you're not the man for the job and I'll support Adlai. So he flew out and endorsed Adlai the next day.
+that the candidate does not appear on the floor until after the nomination." In other words, he had gone in, he had made a speech and he was not sure that it would be proper for him now to become a candidate. Word went back to Sawyer, and at Sawyer's elbow there was supposedly a little guy named Ludwig Caminita; **he's the guy that told me the story. He's now dead. You see, all of my people are dead**.ll, he said that Sawyer relays this message, "I'm not sure I should be a candidate," to Truman. Barkley asked for thirty minutes to think it over, you see. Truman sent word immediately back that if you don't know right now you want to be President of the United States, you're not the man for the job and I'll support Adlai. So he flew out and endorsed Adlai the next day.
 
 JOHNSON: I thought that Truman, even in '48, thought that Barkley was a little old.
 
@@ -647,11 +645,11 @@ HOLEMAN: Yes, that's right.
 
 JOHNSON: They flew back on a Sunday afternoon from Independence.
 
-HOLEMAN: Well, they did, but I wasn't with them. I was here. The war had broken out on the 25th of June, Sunday, and by the 29th it looked like the North Koreans were going to win. So my paper decided to send me out there to do a series of stories on the Red conquest of Korea.
+HOLEMAN: Well, they did, but I wasn't with them. I was here. **The war had broken out on the 25th of June, Sunday, and by the 29th it looked like the North Koreans were going to win**. So my paper decided to send me out there to do a series of stories on the Red conquest of Korea.
 
 JOHNSON: Out where?
 
-HOLEMAN: Out to the Far East. I'm going to start in Japan and then I'm going to go down to Hong Kong and Singapore, and Malaysia, all around. Homer Bigart of theHerald-Tribunestaff was assigned to cover the war. The two of us left here, I think, on the first of July.
+HOLEMAN: **Out to the Far East. I'm going to start in Japan and then I'm going to go down to Hong Kong and Singapore, and Malaysia, all around. Homer Bigart of the Herald-Tribune staff was assigned to cover the war. The two of us left here, I think, on the first of July.**
 
 43\]
 
@@ -675,7 +673,7 @@ JOHNSON: Was it the 24th Division?
 
 HOLEMAN: The 34th Regiment; I had the whole bit. They ran every night. It was the 34th and 21st and there was another one, I forget. And there was a black regiment, the 24th.
 
-JOHNSON: General Dean was commander...
+JOHNSON: **General Dean was commander..**.
 
 HOLEMAN: Yes, I saw him. He was complaining about the media; you see, they always bitch about reporters.
 
