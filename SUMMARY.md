@@ -22,4 +22,5 @@
 * [Holeman](holeman.md)
 * [google1430af61eee172c5.html](google1430af61eee172c5html.md)
 * [Belmont Report](belmont-report.md)
+* [Definitions of Value](definitions-of-value.md)
 
