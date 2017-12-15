@@ -386,21 +386,21 @@ In reviewing descriptions of different appraisal methods, the reviewer should th
 
 The professional business valuation community has generally adopted a hierarchy of the terms to complete an appraisal. They are:_approach, method_, and_procedure_:
 
-•   _Approach_is, in the broadest sense, an accepted means of achieving a valuation result.
+•   \_Approach\_is, in the broadest sense, an accepted means of achieving a valuation result.
 
-•   _Method_refers to general ways of implementing the approaches.
+•   \_Method\_refers to general ways of implementing the approaches.
 
-•   _Procedure_means the specific calculations, data used, and other details involved in a specific method.
+•   \_Procedure\_means the specific calculations, data used, and other details involved in a specific method.
 
 #### Basic Appraisal Approaches
 
 The three approaches recognized in business valuation are essentially analogous to the three approaches used in real estate appraisal:
 
-1.  **Income approach.**Valuing the business or business interest on the basis of some form of expected economic income stream—in real estate appraisal, usually called “capitalization”
+1. **Income approach.**Valuing the business or business interest on the basis of some form of expected economic income stream—in real estate appraisal, usually called “capitalization”
 
-2.  **Market approach.**Valuation of the business or business interest by reference to other transactions—in real estate appraisal, usually called the “comparable sales approach,” or “sales comparison approach”
+2. **Market approach.**Valuation of the business or business interest by reference to other transactions—in real estate appraisal, usually called the “comparable sales approach,” or “sales comparison approach”
 
-3.  **Asset-based approach.**Valuation of the business on the basis of assets and liabilities—in real estate appraisal, usually analogous to something like the “cost approach”
+3. **Asset-based approach.**Valuation of the business on the basis of assets and liabilities—in real estate appraisal, usually analogous to something like the “cost approach”
 
 #### Methods Used Within Appraisal Approaches
 
@@ -408,7 +408,7 @@ Within each of the three approaches, there is reasonably broad consensus on the 
 
 ##### Income Approach Methods
 
-_**Discounting**_**.**Projecting the expected economic income over the life of the investment and discounting each increment of that expected income back to a present value at a rate of return is known as a_discount rate_. This method is also known as the_discounted cash flow_\(DCF\)_method_. \(The procedures are similar to the method known as_yield capitalization_in real estate appraisal.\)
+_**Discounting**_**.**Projecting the expected economic income over the life of the investment and discounting each increment of that expected income back to a present value at a rate of return is known as a_discount rate_. This method is also known as the_discounted cash flow_\(DCF\)_method_. \(The procedures are similar to the method known as\_yield capitalization\_in real estate appraisal.\)
 
 _**Capitalizing**_**.**Observing or estimating a single period’s economic income and dividing it by a rate of return known as a_capitalization rate_. This method is also known as the_capitalization method_. \(The term is almost analogous to direct capitalization in real estate appraising, except that it is adjusted for the growth rate.\)
 
@@ -416,17 +416,17 @@ _**Capitalizing**_**.**Observing or estimating a single period’s economic inco
 
 _**Guideline Public Company Method \(Sometimes Called the**_**Comparable Company Method**\). This method involves deriving valuation multiples from prices and financial data for company stocks traded in the public market and applies the multiples to the appropriate financial data of the subject company. No counterpart exists in real estate appraisal because there is no organized market for fractional interests in real estate.
 
-_**Guideline Transaction Method**_**.**This method involves deriving valuation multiples from prices and financial data of public or private companies that have been sold and applying the multiples to the appropriate financial data of the subject company. This method is analogous to the_comparable sales approach_in real estate appraisal. \(Some might further subdivide this method based on whether the company was public or private before the sale.\)
+_**Guideline Transaction Method**_**.**This method involves deriving valuation multiples from prices and financial data of public or private companies that have been sold and applying the multiples to the appropriate financial data of the subject company. This method is analogous to the\_comparable sales approach\_in real estate appraisal. \(Some might further subdivide this method based on whether the company was public or private before the sale.\)
 
 _**Past Transactions Method**_**.**This method uses multiples of financial data from the company’s own past transactions:
 
-•   Past change of ownership of 100 percent or a controlling interest in the subject company
+•   Past change of ownership of 100 percent or a controlling interest in the subject company
 
-•   Past transactions of minority interests in the subject company
+•   Past transactions of minority interests in the subject company
 
-•   Past acquisitions made by the subject company
+•   Past acquisitions made by the subject company
 
-•   Past offers \(but must examine whether the offers were bona fide and arm’s length\)
+•   Past offers \(but must examine whether the offers were bona fide and arm’s length\)
 
 _**Buy-Sell Agreements**_**.**This method has been placed arbitrarily under the market approach with the idea that someone negotiated andagreed to the buy-sell terms for the subject at some point in the past. Depending on the purpose of the valuation and the terms of the buy-sell agreement, its valuation provisions may range all the way from completely controlling to irrelevant. The weight, if any, to be accorded to the valuation terms of the agreement is often a critical decision.
 
@@ -436,13 +436,107 @@ _**Rules of Thumb**_**.**Ballpark ranges of possible values are derived from sim
 
 ##### Asset Approach Methods
 
+## The Asset-Based Approach
+
+### BASIC CONCEPT OF THE ASSET-BASED APPROACH
+
+The basic concept of the asset-based approach is that if all the company’s assets and liabilities are revalued to current values, then the difference between the assets and liabilities should equal the value of the equity.
+
+The asset-based approach is generally assumed to produce a control basis value. From this value, if one is valuing a minority interest, it may be appropriate to adjust for factors such as minority interest and lack of marketability. If one is valuing a controlling interest, it may or may not be appropriate to deduct a discount for lack of marketability, although it would be a smaller discount than for a minority interest.
+
+### DISCRETE VERSUS COLLECTIVE REVALUATION
+
+If each asset and liability is individually identified and valued, that method may be described differently using such terms as the_net asset value_\(NAV\)_method, adjusted net worth method, adjusted book value method, asset buildup method_, or_asset accumulation method_. For the purpose of this chapter, we will refer to the discrete revaluation of all assets as the_adjusted net asset value_\(ANAV\)_method_. The premise of value may be either going concern or liquidation.
+
+In the collective revaluation of assets, the tangible assets, or at least the preponderance of them, are usually adjusted to current values, asdiscussed in subsequent sections of this chapter. The intangibles are then valued collectively by capitalizing any amount of return that the company achieves over and above a fair return on the tangible assets at their current values.[1](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/notes.html#ch17fn_1)This method is called the_excess earnings method_, which assumes a going-concern premise of value.
+
+In some cases, only a partial revaluation of assets is practical. There are too many variations on this possibility to go into details, and the reviewer is left to make the judgment as to whether the conclusions reached in a particular appraisal are adequately supported.
+
+### STEPS IN THE ADJUSTED NET ASSET VALUE METHOD
+
+The five basic steps are as follows:
+
+1.  **Obtain or develop an accrual basis balance sheet.**If the entity does its accounting on a generally accepted accounting principles \(GAAP\) basis, developing this balance sheet requires only those adjustments necessary to conform to GAAP. If the company does its accounting on a cash basis, then adjustments to the accrual basis are necessary.
+
+2.  **Determine which assets and liabilities on the GAAP basis balance sheet require revaluation.**
+
+3.  **Identify any off–balance sheet actual or contingent assets or liabilities.**This could be an unlimited list, but some of the more common items include these:
+
+•   Assets fully depreciated but still in service
+
+•   Inventory or accounts receivable written off by accounting policy but still salable or collectible
+
+•   Intellectual property developed internally and therefore expensed instead of capitalized
+
+•   Workforce in place, systems, and similar elements of “going-concern value”
+
+•   Goodwill
+
+•   Expected proceeds or costs related to existing or potential lawsuits
+
+•   Environmental liabilities
+
+•   Liability for corporate capital gains taxes on appreciated assets[2](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/notes.html#ch17fn_2)
+
+4.  **Value the items identified in steps 2 and 3.**This may require appraisals by asset appraisers because appraising real estate and/or machinery and equipment would not be a skill possessed by most business appraisers.
+
+5.  **Construct a market value–based balance sheet using the adjusted values.**The net result of this should be the market value of the equity. In other words, the difference between the market value of the assets and the market value of the liabilities equals the market value of the equity.
+
+### VALUATION PREMISES FOR ADJUSTING BALANCE SHEET VALUES
+
+Generally speaking, each item will be valued on one of the following four premises of value:
+
+1.  **Value in continued use, as part of a going concern.**This usually means either_used-replacement cost_, including installation, or_replacement cost new_less depreciation, amortization, and/or adjustments for obsolescence.
+
+2.  **Value in place, as part of a mass assemblage of assets.**This would generally be used for a manufacturing plant in working order but not currently operating due to market conditions, bankruptcy, or any other reasons.
+
+3.  **Value in exchange, in an orderly liquidation.**This may be appropriate for all assets if an orderly liquidation is contemplated for the entire company. If the company is being valued as a going concern, an orderly liquidation premise may be appropriate for nonoperating or excess assets.
+
+4.  **Value in exchange, in a forced liquidation.**This may be appropriate if, for example, it was assumed that the assets would be sold piecemeal at auction.
+
+### EXAMPLE OF AN ADJUSTED NET ASSET VALUE CALCULATION
+
+[Exhibit 17.1](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/ch17.html#ch17exh1)shows an example of an adjusted balance sheet resulting in an adjusted net asset value. There would be an explanation in either thetext or footnotes for each item added to the balance sheet or adjusted from its original balance sheet value.
+
+**Exhibit 17.1**
+
+Alpha Company Adjusted Net Asset Value
+
+![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/f0386-01.jpg "image")
+
+### BREAKUP VALUE
+
+Some companies may have two or more operating entities and possibly some nonoperating assets. The stock market tends to value such companies at less than the total of the value of each operating company plus the nonoperating assets.
+
+In considering a possible acquisition of such a company, the acquirer might like to estimate what could be realized by selling each of the operating companies and the nonoperating assets separately. This is called the_breakup value_.
+
+Studies have shown that conglomerates tend to sell at a discount of about 15 percent from their breakup values. Investors seem to prefer a “pure play” in an industry over a package of dissimilar companies or assets. One variation on the asset approach is to estimate a company’s breakup value.
+
+### WHEN ASSET-BASED METHODS ARE USED
+
+The net asset value method is not used very often for valuation of operating entities, particularly in minority interest appraisals. The focus for operating entities tends to be more on the income approach, the market approach, or the excess earnings method.
+
+However, there are a number of situations in which the courts do reach a valuation conclusion either entirely or partially on valuation by the asset-based approach. These may include but are not limited to the following:
+
+•   Start-up companies
+
+•   Holding companies, financial institutions, agricultural businesses, and other asset-intensive businesses
+
+•   Marital estate valuations of companies or practices in which all goodwill is personal and the state’s case law does not consider personal goodwill a marital asset
+
+•   Companies that may not be financially viable as operating companies
+
+For example, in one marital dissolution, the husband owned two start-up companies. The husband’s lawyer moved to strike the testimony of the wife’s expert, who used the discounted cash flow method even though the projections had been made by the husband. The trial court granted the motion and was upheld on appeal “because the expert’s projections and opinion were overly speculative and by implication, unreliable,” leaving only the testimony on asset value on which the trial court had based its conclusion.[3](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/notes.html#ch17fn_3)
+
+### 
+
 _**Adjusted Net Asset Value \(ANAV\) Method**_**.**The appraiser adjusts all of the company’s assets \(both tangible and intangible\) and liabilities to their current value, usually fair market value, and subtracts the liabilities from the assets based on the following premises:
 
-•   **Going-concern premise.**All assets and liabilities are adjusted to the current fair market value in continued use, and the liabilities are subtracted from the assets.
+•   **Going-concern premise.**All assets and liabilities are adjusted to the current fair market value in continued use, and the liabilities are subtracted from the assets.
 
-•   **Liquidation premise.**All assets and liabilities are adjusted to fair market value on a liquidation premise of value, and all the liabilities and liquidation costs are subtracted from the assets.
+•   **Liquidation premise.**All assets and liabilities are adjusted to fair market value on a liquidation premise of value, and all the liabilities and liquidation costs are subtracted from the assets.
 
-•   **Hybrid premise.**Assets are valued with the expectation that they will be in continuing operation on a going-concern basisand non-operating assets will be valued on a liquidation basis. This could involve more than one operating unit of the business, where each operating unit is valued on a going-concern basis and non-operating assets are valued on a liquidation basis. This latter version is sometimes called a_breakup method_or_disaggregation method_.
+•   **Hybrid premise.**Assets are valued with the expectation that they will be in continuing operation on a going-concern basisand non-operating assets will be valued on a liquidation basis. This could involve more than one operating unit of the business, where each operating unit is valued on a going-concern basis and non-operating assets are valued on a liquidation basis. This latter version is sometimes called a_breakup method\_or\_disaggregation method_.
 
 _**Excess Earnings Method**_**.**The appraisal adjusts only the company’s tangible assets to current value—again, usually fair market value in continued use—and subtracts the liabilities to obtain a net tangible asset value. The appraisal estimates the amount of income needed to support the net tangible assets. If there is income over and above that amount, the excess income is divided by a capitalization rate to estimate the value of the company’s intangible assets. The appraisal adds the estimated value of the intangibles to the value of the tangible assets.
 
@@ -470,7 +564,7 @@ Another important example of different procedures is the choice of either valuin
 
 This choice of procedures can be available within most of the valuation methods. For example, within the market approach, using either the guideline public company or the guideline transaction method, one could value the equity directly by using a price-to-earnings multiple. Alternatively, one could use the multiple of market value of invested capital to earnings before interest, taxes, and depreciation \(MVIC/EBITDA\) to estimate the value of the firm’s invested capital, and then subtract the debt from that value to estimate the value of equity.
 
-Some businesses have more than one class of equity, usually preferred equity and common equity. The preferred equity is senior to the common equity, and from a financial analysis point of view, it usuallyhas more of the characteristics of debt than equity. Therefore, the term_equity_typically is used to mean only the common equity, and the value of preferred equity would be subtracted along with the debt in the invested capital procedures to arrive at the common \(or residual\) equity value.
+Some businesses have more than one class of equity, usually preferred equity and common equity. The preferred equity is senior to the common equity, and from a financial analysis point of view, it usuallyhas more of the characteristics of debt than equity. Therefore, the term\_equity\_typically is used to mean only the common equity, and the value of preferred equity would be subtracted along with the debt in the invested capital procedures to arrive at the common \(or residual\) equity value.
 
 [Exhibit 14.2](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/ch14.html#ch14exh2)summarizes procedures commonly used within various valuation methods.
 
@@ -500,7 +594,7 @@ Widget Corporation Financial Data
 
 ### THE BASIC FINANCIAL STATEMENTS
 
-The two most commonly used financial statements are the_balance sheet_and the_income statement_. The balance sheet presents assets, liabilities, and owner’s equity at a point in time, all at_book value_. Bookvalue generally represents original, historical cost less depreciation and other noncash charges in accordance with accounting principles.
+The two most commonly used financial statements are the_balance sheet\_and the\_income statement_. The balance sheet presents assets, liabilities, and owner’s equity at a point in time, all at_book value_. Bookvalue generally represents original, historical cost less depreciation and other noncash charges in accordance with accounting principles.
 
 The income statement presents revenues, expenses, and income over a period of time \(fiscal period\), usually a year. Sometimes \(generally if the valuation date is not close to the end of a company’s fiscal year\), it may be necessary to use_interim financial statements_—that is, those prepared as of a time other than the company’s fiscal year-end.
 
@@ -510,11 +604,11 @@ There are three levels of preparation of financial statements, in descending ord
 
 Levels of Financial Statement Preparation
 
-•   **Audited statements.**In_audited statements_, the independent auditor expresses an opinion or, if circumstances require, disclaims an opinion, regarding the fairness with which the financial statements present the financial position, the results of operations, and the changes in financial position, in accordance with generally accepted accounting principles.
+•   **Audited statements.**In_audited statements_, the independent auditor expresses an opinion or, if circumstances require, disclaims an opinion, regarding the fairness with which the financial statements present the financial position, the results of operations, and the changes in financial position, in accordance with generally accepted accounting principles.
 
-•   **Reviewed statements.**The independent accountant expresses limited assurance in_reviewed statements_that there are no material modifications that should be made to the statements in order for them to be in conformity with generally accepted accounting principles. A review does not provide assurance that the accountant will become aware of all significant matters that would be disclosed in an audit.
+•   **Reviewed statements.**The independent accountant expresses limited assurance in\_reviewed statements\_that there are no material modifications that should be made to the statements in order for them to be in conformity with generally accepted accounting principles. A review does not provide assurance that the accountant will become aware of all significant matters that would be disclosed in an audit.
 
-•   **Compiled statements.**Finally, the_compiled statements_are management’s representations presented in the form of financial statements, but the accountant has not undertaken any efforts to express assurance on the statements. Sometimes statements are prepared internally by management without the services of an outside accountant.
+•   **Compiled statements.**Finally, the\_compiled statements\_are management’s representations presented in the form of financial statements, but the accountant has not undertaken any efforts to express assurance on the statements. Sometimes statements are prepared internally by management without the services of an outside accountant.
 
 The balance of this chapter defines the terms used to describe the most important components of the context of these statements. Analysis of the statements is covered in subsequent chapters.
 
@@ -530,7 +624,7 @@ $1,000,000 from the balance sheet
 
 #### Invested Capital
 
-The_invested capital_is the equity plus interest-bearing debt. For Widget Corporation, the invested capital at book value is the following:
+The\_invested capital\_is the equity plus interest-bearing debt. For Widget Corporation, the invested capital at book value is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0296-01.jpg "image")
 
@@ -538,13 +632,13 @@ If the company had preferred stock, that would be shown as a separate item in th
 
 #### Capital Structure
 
-The_capital structure_is the relative proportions of the various elements of invested capital. In this case, at book value the capital structure is the following:
+The\_capital structure\_is the relative proportions of the various elements of invested capital. In this case, at book value the capital structure is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0297-01.jpg "image")
 
 #### Book Value
 
-With respect to assets, the_book value_is the capitalized cost less the accumulated depreciation. For Widget Corporation, for example, the book value is the following:
+With respect to assets, the\_book value\_is the capitalized cost less the accumulated depreciation. For Widget Corporation, for example, the book value is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0297-02.jpg "image")
 
@@ -560,13 +654,13 @@ On a per share basis, the book value is the value of common equity divided by th
 
 #### Tangible Book Value Versus Total Book Value
 
-The_tangible book value_reflects only the company’s tangible assets. The_total book value_reflects both the tangible and intangible assets, such as copyrights, patents, and many other items. If a company buys its intangible assets, those assets generally are on the balance sheet and thus are part of book value.
+The\_tangible book value\_reflects only the company’s tangible assets. The\_total book value\_reflects both the tangible and intangible assets, such as copyrights, patents, and many other items. If a company buys its intangible assets, those assets generally are on the balance sheet and thus are part of book value.
 
 On the other hand, if the company creates its own intangible assets, those assets usually are expensed and do not appear on the balance sheet. Therefore, for comparative consistency, analysts usually prefer to work with only the tangible book value rather than the total book value. In any case, to completely understand the financial statements being analyzed, the reviewer of the report should know whether or not there are any intangible assets included in the book value if that figure is used for any computations in the valuation report.
 
 #### Net Working Capital
 
-The_net working capital_is the current assets minus the current liabilities. For Widget Corporation, net working capital is the following:
+The\_net working capital\_is the current assets minus the current liabilities. For Widget Corporation, net working capital is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0298-01.jpg "image")
 
@@ -576,7 +670,7 @@ Miscellaneous expense concepts include noncash charges and other items that vary
 
 #### Noncash Charges
 
-_Noncash charges_are items that are charged as expenses on the income statement but do not require a cash outlay. Examples would include depreciation, depletion, amortization, and deferred taxes. For Widget Corporation, the only noncash charge is the following:
+\_Noncash charges\_are items that are charged as expenses on the income statement but do not require a cash outlay. Examples would include depreciation, depletion, amortization, and deferred taxes. For Widget Corporation, the only noncash charge is the following:
 
 Depreciation: $250,000 from other financial data
 
@@ -584,43 +678,43 @@ The noncash charges are added back to the net income to arrive at either the gro
 
 #### Owner’s Compensation \(Including Disclosed or Hidden Perks\)
 
-The_owner’s compensation_includes all elements of compensation, including salary, bonuses, retirement benefits, life and health insurance benefits, discretionary expenses, and the value of stock options. For Widget Corporation, the owner’s compensation is the following:
+The\_owner’s compensation\_includes all elements of compensation, including salary, bonuses, retirement benefits, life and health insurance benefits, discretionary expenses, and the value of stock options. For Widget Corporation, the owner’s compensation is the following:
 
 $950,000 from other financial data
 
 ### LEVELS OF ECONOMIC INCOME
 
-One of the most crucial and yet highly ambiguous concepts used in business valuation is that of income, also sometimes referred to as_earnings_. It is common to see one or the other of these two terms used without further definition. So many different levels of income are used in various business valuation methods and procedures that the term_income_is virtually meaningless until the level of income intended is clearly specified.
+One of the most crucial and yet highly ambiguous concepts used in business valuation is that of income, also sometimes referred to as_earnings_. It is common to see one or the other of these two terms used without further definition. So many different levels of income are used in various business valuation methods and procedures that the term\_income\_is virtually meaningless until the level of income intended is clearly specified.
 
-In recent years, the business appraisal profession has embraced the broad term_economic income_to mean some level of income \(any level\)that needs further specific definition before it can be used meaningfully in a business valuation method or procedure. All of the following levels of economic income are commonly used in business appraisal practice:
+In recent years, the business appraisal profession has embraced the broad term\_economic income\_to mean some level of income \(any level\)that needs further specific definition before it can be used meaningfully in a business valuation method or procedure. All of the following levels of economic income are commonly used in business appraisal practice:
 
-•   Sales
+•   Sales
 
-•   Discretionary earnings
+•   Discretionary earnings
 
-•   Earnings before interest, taxes, depreciation, and amortization \(EBITDA\)
+•   Earnings before interest, taxes, depreciation, and amortization \(EBITDA\)
 
-•   Earnings before interest and taxes \(EBIT\)
+•   Earnings before interest and taxes \(EBIT\)
 
-•   Gross cash flow \(net income plus noncash charges\)
+•   Gross cash flow \(net income plus noncash charges\)
 
-•   Debt-free net income \(DFNI\)
+•   Debt-free net income \(DFNI\)
 
-•   Debt-free cash flow \(DFCF\)
+•   Debt-free cash flow \(DFCF\)
 
-•   Pretax income
+•   Pretax income
 
-•   Net income
+•   Net income
 
-•   Net earnings
+•   Net earnings
 
-•   Net cash flow to invested capital
+•   Net cash flow to invested capital
 
-•   Net cash flow to equity
+•   Net cash flow to equity
 
 #### Sales \(Net Revenues\)
 
-The terms_sales_and_net revenues_are generally used interchangeably. For Widget Corporation, the sales amount to the following:
+The terms\_sales\_and\_net revenues\_are generally used interchangeably. For Widget Corporation, the sales amount to the following:
 
 $10,000,000 from the income statement
 
@@ -628,7 +722,7 @@ A multiple of sales is often used in the market approach when valuing invested c
 
 #### Discretionary Earnings \(Also Called Seller’s_Discretionary Cash Flow_\[_SDCF_\] and_Owner’s Cash Flow_\[_OCF_\]\)
 
-_Discretionary earnings_are those that may be defined, in certain applications, to reflect the earnings of a business enterprise prior to thefollowing items: income taxes, nonoperating income and expenses, nonrecurring income and expenses, depreciation and amortization, interest expense or income, and owner’s total compensation for those services that could be provided by a sole owner-manager.[2](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/notes.html#ch14fn_2)For Widget Corporation, discretionary earnings are the following:
+\_Discretionary earnings\_are those that may be defined, in certain applications, to reflect the earnings of a business enterprise prior to thefollowing items: income taxes, nonoperating income and expenses, nonrecurring income and expenses, depreciation and amortization, interest expense or income, and owner’s total compensation for those services that could be provided by a sole owner-manager.[2](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/notes.html#ch14fn_2)For Widget Corporation, discretionary earnings are the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0301-01.jpg "image")
 
@@ -636,7 +730,7 @@ Discretionary earnings are used in the transaction method in the market approach
 
 #### Earnings Before Interest, Taxes, Depreciation, and Amortization \(EBITDA\)
 
-EBITDA is computed as earnings before interest, taxes, and_all_noncash charges, including depreciation, amortization, depletion, and deferred taxes. Widget Corporation’s EBITDA is the following:
+EBITDA is computed as earnings before interest, taxes, and\_all\_noncash charges, including depreciation, amortization, depletion, and deferred taxes. Widget Corporation’s EBITDA is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0301-02.jpg "image")
 
@@ -652,7 +746,7 @@ EBIT is one of the most commonly used variables in the market approach_when valu
 
 #### Gross Cash Flow
 
-When the term_gross cash flow_is used, it almost always means_gross cash flow to equity_, sometimes just called_cash flow_. It is defined as net income plus noncash charges. For Widget Corporation, the gross cash flow is the following:
+When the term_gross cash flow\_is used, it almost always means\_gross cash flow to equity_, sometimes just called_cash flow_. It is defined as net income plus noncash charges. For Widget Corporation, the gross cash flow is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0302-01.jpg "image")
 
@@ -670,7 +764,7 @@ When debt-free net income is used, it is in the context of the market approach_w
 
 #### Debt-Free Cash Flow \(DFCF\)
 
-_Debt-free cash flow_\(DFCF\) means_gross_debt-free net cash flow. It is debt-free net income plus noncash charges. For Widget Corporation, the DFCF is the following:
+_Debt-free cash flow_\(DFCF\) means\_gross\_debt-free net cash flow. It is debt-free net income plus noncash charges. For Widget Corporation, the DFCF is the following:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0303-01.jpg "image")
 
@@ -678,7 +772,7 @@ When debt-free cash flow is used, it is in the context of the market approach_wh
 
 #### Pretax Income
 
-_Pretax income_is income after all expenses except income taxes. For Widget Corporation, the pretax income is the following:
+\_Pretax income\_is income after all expenses except income taxes. For Widget Corporation, the pretax income is the following:
 
 $1,000,000 from the income statement
 
@@ -686,7 +780,7 @@ Pretax income is often used in the market approach when valuing equity directly.
 
 #### Net Income
 
-_Net income_is income after all expenses, including interest, owner’s compensation, noncash charges, and income taxes. For Widget Corporation, the net income is the following:
+\_Net income\_is income after all expenses, including interest, owner’s compensation, noncash charges, and income taxes. For Widget Corporation, the net income is the following:
 
 $700,000 from the income statement
 
@@ -694,11 +788,11 @@ The net income is used in the market approach when valuing equity directly. It i
 
 #### Primary Versus Diluted Net Income per Share
 
-On a per share basis, net income can be stated as either primarily_net income per share_or_diluted net income per share_. Primary net income per share is computed on the basis of the number of shares actually outstanding. Diluted net income per share is computed on the assumption of convertible debt being converted to common stock, preferred stock being converted to common stock, and warrants and options to buy stock being exercised. When doing comparative analysis, it is important to be sure that any figures used for comparison are computed on the same basis.
+On a per share basis, net income can be stated as either primarily_net income per share\_or\_diluted net income per share_. Primary net income per share is computed on the basis of the number of shares actually outstanding. Diluted net income per share is computed on the assumption of convertible debt being converted to common stock, preferred stock being converted to common stock, and warrants and options to buy stock being exercised. When doing comparative analysis, it is important to be sure that any figures used for comparison are computed on the same basis.
 
 #### Net Cash Flow to Invested Capital
 
-The_net cash flow to invested capital_is the amount of cash available to distribute to owners of all components of the capital structure \(preferred and common equity and interest-bearing debt\) after leaving enough for the capital expenditures and working capital necessary to sustain projected operations. The computation is as follows:
+The\_net cash flow to invested capital\_is the amount of cash available to distribute to owners of all components of the capital structure \(preferred and common equity and interest-bearing debt\) after leaving enough for the capital expenditures and working capital necessary to sustain projected operations. The computation is as follows:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0304-01.jpg "image")
 
@@ -710,7 +804,7 @@ The net cash flow to invested capital is the measure of economic income that ten
 
 #### Net Cash Flow to Equity
 
-The_net cash flow to equity_\(sometimes called the_free cash flow to equity_or even the_net free cash flow to equity_\) is the amount of cash available to equity owners to withdraw from or distribute from the business after leaving enough for the capital expenditures and working capital necessary to sustain projected operations. The computation is as follows:
+The_net cash flow to equity_\(sometimes called the_free cash flow to equity\_or even the\_net free cash flow to equity_\) is the amount of cash available to equity owners to withdraw from or distribute from the business after leaving enough for the capital expenditures and working capital necessary to sustain projected operations. The computation is as follows:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0305-02.jpg "image")
 
@@ -724,7 +818,7 @@ The net cash flow to equity is the measure of economic income that tends to be m
 
 #### Capital Expenditures
 
-The_capital expenditures_are amounts paid for assets expected to have a long-term economic life \(usually more than one year\), recorded on the balance sheet at the amount paid and usually depreciated \(or depleted or amortized\) over time as expenses on the income statement and reductions to book value on the balance sheet. For Widget Corporation, the capital expenditures are as follows:
+The\_capital expenditures\_are amounts paid for assets expected to have a long-term economic life \(usually more than one year\), recorded on the balance sheet at the amount paid and usually depreciated \(or depleted or amortized\) over time as expenses on the income statement and reductions to book value on the balance sheet. For Widget Corporation, the capital expenditures are as follows:
 
 Approximately $300,000 per year from other financial data
 
@@ -732,7 +826,7 @@ The expected capital expenditures must be estimated as a component in computing 
 
 #### Changes in Net Working Capital
 
-The_changes in net working capital_are amounts added to or subtracted from the net working capital needed to support the operations of the business:
+The\_changes in net working capital\_are amounts added to or subtracted from the net working capital needed to support the operations of the business:
 
 ![](https://www.safaribooksonline.com/library/view/analyzing-complex-appraisals/9780071812948/t0307-01.jpg "image")
 
@@ -766,7 +860,7 @@ All data that have been presented in this chapter have been assumed to be on an 
 
 While business valuation approaches and methods are not totally discrete, there is broad consensus on three generally accepted approaches: the income approach, the market approach, and the asset-based approach.
 
-Within each approach, there are two or more generally accepted methods. Within the income approach, the basic methods are_discounting_and_capitalizing_. Within the market approach, there is the_guideline public company method_, the_guideline transaction method_, the_past transactions and/or offers method, buy-sell agreements_, and_rules of thumb_. Within the asset-based approach, there is the_adjusted net asset method_and the_excess earnings method_.
+Within each approach, there are two or more generally accepted methods. Within the income approach, the basic methods are_discounting\_and\_capitalizing_. Within the market approach, there is the_guideline public company method_, the_guideline transaction method_, the_past transactions and/or offers method, buy-sell agreements_, and_rules of thumb_. Within the asset-based approach, there is the_adjusted net asset method\_and the\_excess earnings method_.
 
 Within each method there is a variety of accepted procedures for its implementation. Two of the most important \(either of which may be used with most methods\) are the_invested capital procedure_\(valuing the entire capital structure and subtracting the senior obligations to arrive at the residual common equity value\) and the_direct equity valuation procedure_\(using techniques that value the equity directly\).
 
