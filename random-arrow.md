@@ -4,21 +4,7 @@
 
 ## ｷﾉ刀乇尺丂 ζﾚƲ乃
 
-### FɪЛe尺ら ㄈŁЦb
-
-Poor News Happened yesterday, the Las Vegas Mass Shooting  
-![](/IMG_20170927_222520.jpg)  
-The tragic News was over pouring, becomes now the centre topic of our today's talk.  
- But let us take a moment to step back and see.  
- 2017 started with Trump's Election,  
-followed the Eclipse, than Harvey and now the \(g\) ? Well \(g\) here could  
-be anything. In this case \(g\) is for Gun Control or scientifically  
-speaking \(g\) is for \[Intelligent\] So. what is all this about,  
-What am I really sayin?  
-One may ask: could it be Fake News? Or It was a bet?  
-  Another might say what is Las Vegas Mass Shooting has anything to do with  
- BLACKMUR'S PI? or Henry James's "Art of the Novel"?  
-  To answer this Quesion is
+### FɪЛe尺ら ㄈŁЦb ![](/IMG_20170927_222520.jpg) The tragic News was over pouring, becomes now the centre topic of our today's talk.  But let us take a moment to step back and see.  2017 started with Trump's Election, followed the Eclipse, than Harvey and now the \(g\) ? Well \(g\) here could be anything. In this case \(g\) is for Gun Control or scientifically speaking \(g\) is for \[Intelligent\] So. what is all this about, What am I really sayin? One may ask: could it be Fake News? Or It was a bet?   Another might say what is Las Vegas Mass Shooting has anything to do with  BLACKMUR'S PI? or Henry James's "Art of the Novel"?   To answer this Quesion is
 
 > of considerable consequence, because the whole of rhetoric depends  
 >       on this spacial conceptualization, especially as it relates to the Canon of  
