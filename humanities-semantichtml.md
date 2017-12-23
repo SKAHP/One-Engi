@@ -4,8 +4,8 @@ And as the other Spheares, by being growne
 Subject to forraigne motions, lose their owne  
 And being by others hurried every day,  
 Scarce in a yeare their natural! forme obey:  
-Pleasure or businesse, so, our Soules admit  
-For their first mover, and are whirld by it.  
+**Pleasure or businesse**, so, our Soules admit  
+For their **first mover,** and are whirld by it.  
 Hence is's, that I am carryed towards the West  
 This day, when my Soules forme bends toward the East.  
 There I should see a Sunne, by rising set,  
@@ -44,8 +44,6 @@ That thou may'st know mee, and I'll turne my face.
 [by John Donne](https://m.poemhunter.com/john-donne/)
 
 ![](/assets/155402310.jpg)
-
-
 
 \#\# Seek True Religion!
 
