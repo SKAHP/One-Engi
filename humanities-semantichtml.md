@@ -1,10 +1,57 @@
+Let mans Soule be a Spheare, and then, in this,  
+The intelligence that moves, devotion is  
+And as the other Spheares, by being growne  
+Subject to forraigne motions, lose their owne  
+And being by others hurried every day,  
+Scarce in a yeare their natural! forme obey:  
+**Pleasure or businesse**, so, our Soules admit  
+For their **first mover,** and are whirld by it.  
+Hence is's, that I am carryed towards the West  
+This day, when my Soules forme bends toward the East.  
+There I should see a Sunne, by rising set,  
+And by that setting endlesse day beget;  
+But that Christ on this Crosse, did rise and fall,  
+Sinne had eternally benighted all.  
+Yet dare \['almost be glad, I do not see  
+That spectacle of too much weight for meet  
+Who sees Gods face, that is selfe life, must dye;  
+What a death were it then to see God dye?  
+It made his owne Lieutenant Nature shrinke,  
+It made his footstoole crack, and the Sunne winke.  
+Could I behold those hands which span the Poles,  
+And tune all spheares at once, peirc'd with those holes?  
+Could I behold that endlesse height which is  
+Zenith to us, and to'our Antipodes,  
+Humbled below us? or that blood which is  
+The seat of all our Soules, if not of his,  
+Make curt of dust, or that flesh which was worne  
+By God, for his apparel!, rag'd, and tome?  
+If on these things I durst not looke, durst I  
+Upon his miserable mother cast mine eye,  
+Who was Gods partner here, and furnish'd thus  
+Halfe of that Sacrifice, which ransom'd us?  
+Though these things, as I ride, be from mine eye,  
+They'are present yet unto my memory,  
+For that looks towards them; and thou look'st towards mee,  
+O Saviour, as thou hang'st upon the tree;  
+I turne my backe to thee, but to receive  
+Corrections, till thy mercies bid thee leave.  
+O thinke mee worth shine anger, punish mee,  
+Burne off my rusts, and my deformity,  
+Restore shine Image, so much, by thy grace,  
+That thou may'st know mee, and I'll turne my face.
+
+[by John Donne](https://m.poemhunter.com/john-donne/)
+
+![](/assets/155402310.jpg)
+
 \#\# Seek True Religion!
 
 \*\*Donne, John \(1573-1631\)\*\*
 
-
-
-                             Though Truth and Falsehood be
+```
+                         Though Truth and Falsehood be
+```
 
 Near twins, yet Truth a little elder is.
 

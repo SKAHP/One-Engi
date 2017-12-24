@@ -1,10 +1,4 @@
 
 
-
-
-```js
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z1JgDwIHnWg" frameborder="0" allowfullscreen></iframe>
-```
-
-
+&lt;iframe src="//slides.com/huanpham-1/deck/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
