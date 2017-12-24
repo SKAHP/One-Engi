@@ -119,7 +119,7 @@ During the period of our negotiations with various people involved in aviation, 
 
 \[16\]
 
-Mr. Norton, a former Naval captain then serving as Director, Office of Transport and Communications, in the Department. About the same time we had processed a reorganization plan of the Department of State establishing several new assistant secretarial positions, one of them being the Assistant Secretary for Transport and Communications. I remember telling Mr. Locke, if Mr. Norton happened to be the fortunate person to be selected for that new post, and he would agree, I would like to work for him.
+**Mr. Norton, a former Naval captain then serving as Director, Office of Transport and Communications,**in t he Department. About the same time we had processed a reorganization plan of the Department of State establishing several new assistant secretarial positions, one of them being the Assistant Secretary for Transport and Communications. I remember telling Mr. Locke, if Mr. Norton happened to be the fortunate person to be selected for that new post, and he would agree, I would like to work for him.
 
 Mr. Norton subsequently was nominated by President Truman for the post, confirmed by the U.S. Senate, and duly appointed. He was gracious enough to invite me to serve as his Administrative Assistant. It also was a great experience. Among other opportunities, it afforded me my first trip to Europe--to attend a meeting of ICAO \(International Civil Aviation Organization\) -- in the fall of 1947 in Geneva. I have since kept
 
@@ -407,12 +407,10 @@ We worked steadily aboard the plane on our notes and the San Francisco speech. W
 
 HESS: Before we move on, I want to read the excerpts from Courtney Whitney's book,MacArthur, His Rendezvous with History. This is found on pages 391 and 392:
 
-> Evidently the administration's strategy at Wake Island was to attempt to make MacArthur little more than a political pawn from the start. I was as puzzled as he was when Press Secretary Ross showed such anxiety at the sight of Colonel Bunker starting to take notes on the conferences. In retrospect it seems to have been their plan at the time to maintain full control over every means of recording the conference. Neither of us realized until later that Bunker had very nearly upset this plan. We gave no thought to it, however, until months later when General Bradley sprang the surprise in an apparent effort to discredit MacArthur.
+> Evidently the administration's strategy at Wake Island was to attempt to make MacArthur little more than a political pawn from the start. I was as puzzled as he was when Press Secretary Ross showed such anxiety at the sight of Colonel Bunker starting to take notes on the conferences. In retrospect it seems to have been their plan at the time to maintain full control over every means of recording the conference. Neither of us realized until later that Bunker had very nearly upset this plan. We gave no thought to it, however, until months later when General Bradley sprang the surprise in an apparent effort to discredit MacArthur.  
 > He produced sketchy "notes" of the conference which were alleged to have been surreptitiously taken. Without our knowledge, a secretary had evidently been placed behind a partially open door to the conference room. This stenographer, lurking behind the door, could record only what
 
 \[55\]
-
-
 
 > she could hear through the small opening and what she could see by peeping through the keyhole, with the result that her account of the conference could at best be sadly inadequate. MacArthur did not even know of her presence, and when she made an appearance after the conference, he looked up in surprise and said, "Where did this lovely lady come from?" I'm sure that had he known that she was there to record the proceedings he would have been delighted to suggest that the young lady be seated at the conference table, where she could prepare an accurate record, without undue strain upon her eyes and ears.
 
@@ -434,16 +432,14 @@ to General MacArthur and the record shows that since it was a privileged, top se
 
 General Bradley later clarified this matter for the public record in his letter of May 2, 1951, to Senator Richard B. Russell, Chairman, Senate Armed Services Committee, transmitting the "Substance of Statements Made at Wake Island Conference on October 15, 1950" compiled from notes kept by the conferees from Washington as follows:
 
-> Dear Senator Russell:
+> Dear Senator Russell:  
 > The following information on the preparation of the notes for record on the Wake Island Conference between the President and General MacArthur is furnished you in accordance with your request.
 >
 > Several of those present kept notes in longhand of the principal points covered and of the statements made. In addition, Miss Vernice Anderson, Mr. Jessup's secretary,
 
 \[58\]
 
-
-
-> sat in the next room and took down such parts of the conversation as she could hear. Actually, she was able to get a large part of the conversation.
+> sat in the next room and took down such parts of the conversation as she could hear. Actually, she was able to get a large part of the conversation.  
 > In order to have a record of the conference for our files, on the return trip we took the notes of all those concerned and consolidated them into a summary which was labeled, "Substance of Statements Made at Wake Island Conference." This summary was made up from the combined notes of Mr. Jessup, Mr. Harriman, Mr. Rusk, Colonel Hamblen, Colonel Matthews, Miss Anderson, and myself.
 >
 > In addition to those shown in the summary as present at the table, there were others in the room including General Whitney of General MacArthur's staff, and Colonel Matthews, my executive officer.
@@ -460,18 +456,14 @@ Secretary Acheson, in his inimitable way, recorded these events in hisPresent at
 
 \[59\]
 
-
-
-> PILGRIMAGE TO WAKE
+> PILGRIMAGE TO WAKE  
 > When the President told me of his intended pilgrimage and invited me to join him, I begged to be excused. While General MacArthur had many of the attributes of a foreign sovereign, I said, and was quite as difficult as any, it did not seem wise to recognize him as one. It was agreed between us that what the President might need from the State Department could be furnished by Ambassador Muccio, Dean Rusk, Philip Jessup, and Averell Harriman, all of whom would be there. I had not been consulted in arriving at the decision to hold the meeting and offered no suggestions after it had been made. The whole idea was distasteful to me. I wanted no part in it, and saw no good coming from it. I could not then or now explain this strong presentiment, beyond the conviction that talk should precede, not follow, the issuance of orders. The latter only befogs them. So I contented myself with seeing the President off on October 11 and welcoming him back on the eighteenth.
 >
 > The President and General MacArthur spent between two and a half and three hours together, from approximately six-thirty in the morning to a little after nine. For half of that time they were alone. The President has written his recollection of the talk. We were soon to get an intimation of the General's; it bore out my worst forebodings. The discussion that followed with colleagues present was more immediately and fully reported--more fully, due to a circumstance that was later to cause the proverbial tempest in a teapot. Miss Vernice Anderson, Ambassador Jessup's secretary, was waiting next door to the conference room to
 
 \[60\]
 
-
-
-> help with the communiqué. The door was open and the conversation audible. Having nothing to do and knowing that a memorandum of conversation would be worked out on the way home, she took stenographic notes. When this became known at the hearings on General MacArthur's relief, charges were made that it was akin to "bugging" the conference. This was utter nonsense.
+> help with the communiqué. The door was open and the conversation audible. Having nothing to do and knowing that a memorandum of conversation would be worked out on the way home, she took stenographic notes. When this became known at the hearings on General MacArthur's relief, charges were made that it was akin to "bugging" the conference. This was utter nonsense.  
 > In the large meeting the General expressed optimistic views that the end of the fighting was close \(he had told the President probably by Thanksgiving and that our troops, except for two divisions, could begin withdrawal from Korea by Christmas\) and that the Chinese would not intervene. If, however, they should do so, not more than fifty to sixty thousand could cross the Yalu, and they would be slaughtered if they attempted to go south. The party returned full of optimism and confidence in the General. The President's speech two days later in the San Francisco Opera House exuded both. In explaining his journey to Wake, he concluded: "I also felt that there was pressing need to make it perfectly clear--by my talk with General MacArthur--that there is complete unity in the aims and conduct of our foreign policy." That perfect clarity did not outlast the month.
 
 HESS: And on the trip back from Hawaii I believe the speech was written for delivery at San Francisco?
