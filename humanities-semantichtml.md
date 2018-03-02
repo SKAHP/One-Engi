@@ -1,3 +1,20 @@
+Oh my black Soule! Now thou art summoned  
+By sicknesse, deaths herald, and champion;  
+Thou art like a pilgrim, which abroad hath done  
+Treason, and durst not turne to whence hee is fled,  
+Or like a thiefe, which till deaths doome be read,  
+Wisheth himselfe deliverd from prison;  
+But damn'd and hal'd to execution,  
+Wisheth that sill he might be imprisioned;  
+Yet grace, if thou repent, thou canst not lacke;  
+But who shall give thee that grace to beginne?  
+Oh make thy selfe with holy mourning blacke;  
+And red with blushing, as thou art with sinne;  
+Or wash thee in Christ's blood, which hath this might  
+That being red, it dyes red soules to white.
+
+[by John Donne](https://m.poemhunter.com/john-donne/)
+
 Let mans Soule be a Spheare, and then, in this,  
 The intelligence that moves, devotion is  
 And as the other Spheares, by being growne  
