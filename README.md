@@ -5,7 +5,6 @@
 # ◎·η·ε·-ε·η·ģ·ї·η·ε·-♭·◎·υ·η·∂·
 <iframe width="315" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://widget.spreaker.com/player?show_id=2819094&theme=dark&playlist=show&playlist-continuous=false&autoplay=true&live-autoplay=false&chapters-image=true&hide-logo=false&hide-likes=false&hide-comments=false&hide-sharing=false" width="100%" height="350px" frameborder="0"></iframe>
 
 # ᴀᴜᴛᴜᴍɴ sᴏɴɢ
 
@@ -55,7 +54,7 @@ sᴘʀɪɢs ᴏғ ɢʀᴀss ᴀɴᴅ sʜᴀᴅᴏᴡ sᴘᴀᴛᴛᴇʀᴇᴅ
 
 
 ##  թօﻨռէ օբ ռօ гεէսгռ 
-<iframe width="315" height="315" src="https://www.youtube.com/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="315" height="315" src="https://www.youtube.com/embed/z6LpSDVefQQ" frameborder="0" allowfullscreen></iframe>" frameborder="0" allowfullscreen></iframe> iframe src="
 Variously construed, these processes constituted something called the
 
 ### らㄈɪeЛŤɪFɪㄈ ௱eŤнØÐ 
