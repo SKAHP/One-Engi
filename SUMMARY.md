@@ -24,4 +24,5 @@
 * [Belmont Report](belmont-report.md)
 * [Definitions of Value](definitions-of-value.md)
 * [2112](2112.md)
+* [Pair Of Spectacles](pair-of-spectacles.md)
 
