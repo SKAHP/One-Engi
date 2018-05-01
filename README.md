@@ -53,9 +53,7 @@ sᴘʀɪɢs ᴏғ ɢʀᴀss ᴀɴᴅ sʜᴀᴅᴏᴡ sᴘᴀᴛᴛᴇʀᴇᴅ
 
 
 ##  թօﻨռէ օբ ռօ гεէսгռ 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4JO5YmwOoDg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Variously construed, these processes constituted something called the
+constituted something called the
 
 ### らㄈɪeЛŤɪFɪㄈ ௱eŤнØÐ 
   Sometimes thought to have been invented in the **17th century,** this was the method by which scientists discovered true generalizations about and explanations for natural phenomena. Or if not exactly true, at least approximations to the truth. And if not certain approximations to then at least highly probable ones. 
